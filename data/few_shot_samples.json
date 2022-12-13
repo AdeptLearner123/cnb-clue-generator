@@ -1,0 +1,56 @@
+[
+    {
+        "pos": ["HELMET", "SHOE", "STRIKE", "TEMPLE", "STAR", "COMPUTER", "TOOTH", "COUNTRY"],
+        "neg": ["STRING", "HOTEL", "RAINBOW", "AIR", "SLIPPER", "HAWAII", "OIL", "CHEESE", "MOSQUITO", "DASH", "SPACE", "BOARD", "CHURCH", "VET", "BOWL", "SPRING", "LINE"],
+        "clue": "FLAG",
+        "clue_words": ["COUNTRY", "STAR"],
+        "explanations": [
+            "COUNTRY is related to FLAG because FLAGS are symbols that represent each COUNTRY.",
+            "STAR is related to FLAG because both FLAGS and STARS are symbols that are used to represent something else."
+        ]
+    },
+    {
+        "pos": ["RAT", "FLAG", "SALOON", "NUT", "YELLOWSTONE", "CONCERT", "DRAWING", "ICELAND", "GYMNAST"],
+        "neg": ["STEP", "NAPOLEON", "SATELLITE", "TURTLE", "ANT", "SCROLL", "MANICURE", "THIEF", "TRICK", "NEEDLE", "ROOT", "KISS", "ALASKA", "CASINO", "SAHARA", "GOLDILOCKS"],
+        "clue": "SQUIRREL",
+        "clue_words": ["RAT", "NUT"],
+        "explanations": [
+            "RAT is related to SQUIRREL because both are rodents.",
+            "NUT is related to SQUIRREL because SQUIRRELS are known for eating nuts."
+        ]
+    },
+    {
+        "pos": ["FALL", "MICROWAVE", "CRAB", "NET", "DEGREE", "PATIENT", "BOMB", "KIWI", "ALPS", "SEAL"],
+        "neg": ["MUD", "MARK", "DRILL", "PARACHUTE", "MAIL", "COLLAR", "LEAD", "SWING", "RUSSIA", "BALL", "PANTS", "SHEET", "STAMP", "STICK", "LOVE"],
+        "clue": "ANIMAL",
+        "clue_words": ["KIWI", "CRAB", "SEAL"],
+        "explanations": [
+            "KIWI is related to ANIMAL because KIWIS are a species of bird, which are animals.",
+            "CRAB is related to ANIMAL because CRAB is a species of crustacean, which are animals.",
+            "SEAL is related to ANIMAL because SEAL is a species of mammal, which are animals."
+        ]
+    },
+    {
+        "pos": ["OASIS", "TEA", "MAGAZINE", "BUBBLE", "GROOM", "DENTIST", "PIG", "DRESS", "MUMMY", "SHOWER"],
+        "neg": ["BIKINI", "ASTRONAUT", "DRIVER", "FIGHTER", "BASS", "DATE", "SPOT", "PURSE", "OLYMPUS", "MILK", "NOTRE DAME", "LEATHER", "MARATHON", "POP", "EAGLE"],
+        "clue": "CLEANING",
+        "clue_words": ["GROOM", "DENTIST", "SHOWER"],
+        "explanations": [
+            "GROOM is related to CLEANING because GROOMING means to BRUSH or clean a coat.",
+            "DENTIST is related to CLEANING because DENTISTS are known to clean teeth.",
+            "SHOWER is related to CLEANING because SHOWERS wash the body with water."
+        ]
+    },
+    {
+        "pos": ["PRINCESS", "STRAW", "VIKING", "MOUSE", "PAGE", "SOUND", "MAP", "SPRAY", "BAT", "COLUMBUS", "HERCULES"],
+        "neg": ["BOX", "INK", "SPIDER", "SALT", "FAIR", "MATCH", "ANCHOR", "CLOCK", "HOUSE", "TUBE", "SUGAR", "GLOVE", "ROLL", "EAR"],
+        "clue": "PERSON",
+        "clue_words": ["PRINCESS", "VIKING", "COLUMBUS", "HERCULES"],
+        "explanations": [
+            "PRINCESS is related to PERSON because PRINCESS is the daughter of a monarch.",
+            "VIKING is related to PERSON because VIKINGS are Scandinavian pirates, which are people.",
+            "COLUMBUS is related to PERSON because COLUMBUS was an explorer.",
+            "HERCULES is related to PERSON because HERCULES was a mythical Greek hero."
+        ]
+    }
+]

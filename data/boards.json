@@ -1,0 +1,1112 @@
+{
+    "34611852-1810-4636-9576-ada40489ffa7": {
+        "pos": [
+            "PART"
+        ],
+        "neg": [
+            "ICE CREAM",
+            "LAWYER",
+            "STAR",
+            "FILM",
+            "DRAGON",
+            "SPIKE",
+            "ROW",
+            "LINK",
+            "GENIUS",
+            "CLUB"
+        ]
+    },
+    "6f1ce884-5cb0-4059-9713-b242942cfdfb": {
+        "pos": [
+            "FALL",
+            "SWING",
+            "JUPITER",
+            "HEART"
+        ],
+        "neg": [
+            "LEAD",
+            "LIGHT",
+            "STRING",
+            "POST",
+            "MARCH",
+            "HIMALAYAS",
+            "SCALE",
+            "SHOT",
+            "AIR",
+            "HAND",
+            "CHOCOLATE",
+            "NET",
+            "BRIDGE",
+            "PENGUIN"
+        ]
+    },
+    "eb5e444c-addf-4bb5-8fbb-0635a77480aa": {
+        "pos": [
+            "HOSPITAL",
+            "BUCK",
+            "ORGAN",
+            "COVER",
+            "WATCH",
+            "BOARD",
+            "LIGHT",
+            "CAR"
+        ],
+        "neg": [
+            "SHOE",
+            "WASHER",
+            "BATTERY",
+            "DECK",
+            "ANGEL",
+            "FISH",
+            "NOTE",
+            "NEEDLE"
+        ]
+    },
+    "04f50605-866c-4aad-b878-421bb0571718": {
+        "pos": [
+            "SCORPION",
+            "NEW YORK",
+            "CROSS",
+            "WITCH",
+            "MATCH"
+        ],
+        "neg": [
+            "SHIP",
+            "BOX",
+            "MASS",
+            "PIE",
+            "TIE",
+            "GRASS",
+            "PANTS",
+            "STRAW",
+            "GLASS"
+        ]
+    },
+    "cdcce028-74fe-4ebc-a32d-b3f25d3a2349": {
+        "pos": [
+            "OPERA",
+            "MARBLE",
+            "WAKE"
+        ],
+        "neg": [
+            "SPIKE",
+            "TOOTH",
+            "LAWYER",
+            "SCUBA DIVER",
+            "FORCE",
+            "SLIP",
+            "MOSCOW",
+            "HELICOPTER",
+            "MATCH",
+            "CHAIR",
+            "NINJA",
+            "BEAT",
+            "SEAL",
+            "THUMB",
+            "AMERICA"
+        ]
+    },
+    "bf47c8ce-84c9-4745-a1dc-5ec5a20387ba": {
+        "pos": [
+            "CROSS",
+            "COURT",
+            "ORANGE",
+            "KEY",
+            "ARM",
+            "LION",
+            "TOOTH"
+        ],
+        "neg": [
+            "SPRING",
+            "SCREEN",
+            "BELT",
+            "HEAD",
+            "LINK",
+            "KID",
+            "YARD",
+            "DAY",
+            "TOWER",
+            "CANADA"
+        ]
+    },
+    "e1710851-12e5-443c-9049-58cf44990cf4": {
+        "pos": [
+            "DEGREE",
+            "LIFE",
+            "ICE CREAM",
+            "MOLE"
+        ],
+        "neg": [
+            "FIRE",
+            "STOCK",
+            "BUTTON",
+            "DWARF",
+            "CLOAK",
+            "WALL",
+            "LASER",
+            "WITCH",
+            "WHALE",
+            "BUGLE",
+            "SERVER",
+            "TRIANGLE",
+            "FISH"
+        ]
+    },
+    "8e4ca95c-41e1-43b8-87be-365ce7758b8b": {
+        "pos": [
+            "WAVE",
+            "TAP"
+        ],
+        "neg": [
+            "SQUARE",
+            "TAIL",
+            "IRON",
+            "BOW",
+            "SHIP",
+            "NUT",
+            "FILM",
+            "PILOT",
+            "CASINO",
+            "AFRICA",
+            "IVORY",
+            "SWING"
+        ]
+    },
+    "ec7eaeab-ca5d-4823-ae7e-ad297d20d72d": {
+        "pos": [
+            "FORCE"
+        ],
+        "neg": [
+            "ROULETTE",
+            "CHURCH",
+            "CRANE",
+            "PLOT",
+            "SUPERHERO",
+            "PORT",
+            "LINE",
+            "SOUND"
+        ]
+    },
+    "8808fdd2-4fe8-4b19-af6a-dbe70349a3be": {
+        "pos": [
+            "MEXICO",
+            "VACUUM",
+            "CONDUCTOR",
+            "PAPER",
+            "AIR",
+            "WHALE",
+            "PARACHUTE",
+            "LIGHT"
+        ],
+        "neg": [
+            "GREEN",
+            "OPERA",
+            "SHOT",
+            "MODEL",
+            "KIWI",
+            "LEMON",
+            "HONEY",
+            "COOK",
+            "RING",
+            "SQUARE",
+            "ARM",
+            "HEAD",
+            "SHADOW",
+            "SUB"
+        ]
+    },
+    "f3fd8c7d-0e7c-4bc4-9add-1b1a1e6994c9": {
+        "pos": [
+            "ROSE"
+        ],
+        "neg": [
+            "POST",
+            "ROBOT",
+            "SHIP",
+            "CHURCH",
+            "RULER",
+            "ATLANTIS",
+            "JUPITER",
+            "HAWK",
+            "CRASH"
+        ]
+    },
+    "50e7fcf2-3866-4329-a826-5ce9f8c1d79c": {
+        "pos": [
+            "CRASH",
+            "SQUARE"
+        ],
+        "neg": [
+            "BED",
+            "STADIUM",
+            "PAN",
+            "POST",
+            "AGENT",
+            "CALF",
+            "STATE",
+            "WELL",
+            "WEB"
+        ]
+    },
+    "b70f7500-10e6-4fed-84c9-e03724f6da39": {
+        "pos": [
+            "SHADOW",
+            "CARROT",
+            "KNIGHT",
+            "BRIDGE",
+            "SHAKESPEARE",
+            "LOCK",
+            "SLUG",
+            "CHECK",
+            "SHIP"
+        ],
+        "neg": [
+            "COURT",
+            "MICROSCOPE",
+            "BOOM",
+            "LEPRECHAUN",
+            "GAS",
+            "WAVE",
+            "PHOENIX",
+            "CELL",
+            "STICK",
+            "KNIFE",
+            "SHOE",
+            "TOKYO",
+            "KANGAROO"
+        ]
+    },
+    "861837f9-f416-4ae2-9d36-f32f4d84d90f": {
+        "pos": [
+            "GLOVE",
+            "THUMB",
+            "AGENT",
+            "WHALE",
+            "RACKET",
+            "SPACE",
+            "DRAGON"
+        ],
+        "neg": [
+            "NURSE",
+            "TIME",
+            "STREAM",
+            "CLIFF",
+            "STADIUM",
+            "REVOLUTION",
+            "SLUG",
+            "COURT",
+            "OLIVE",
+            "CRICKET",
+            "ARM",
+            "VAN",
+            "LINE",
+            "MILLIONAIRE",
+            "CHEST",
+            "WATCH"
+        ]
+    },
+    "6446b480-dc7e-45be-a4dd-71f6704b3bac": {
+        "pos": [
+            "TAG",
+            "LINK",
+            "GRASS"
+        ],
+        "neg": [
+            "ANTARCTICA",
+            "PYRAMID",
+            "HOOD",
+            "NOVEL",
+            "HOTEL",
+            "BUGLE",
+            "NEW YORK",
+            "BAT"
+        ]
+    },
+    "ffbfe3ff-357a-457c-93c8-ac9eff0170a2": {
+        "pos": [
+            "EAGLE",
+            "LEPRECHAUN",
+            "HEART"
+        ],
+        "neg": [
+            "BUGLE",
+            "KNIGHT",
+            "CAT",
+            "RAY",
+            "WALL",
+            "ALPS",
+            "SEAL",
+            "WAKE",
+            "FENCE",
+            "SUB",
+            "WAR"
+        ]
+    },
+    "19f770e4-3679-42f9-9c31-599f72ced35a": {
+        "pos": [
+            "TRACK",
+            "BALL",
+            "FORCE",
+            "WHALE"
+        ],
+        "neg": [
+            "BOMB",
+            "BEAT",
+            "CRANE",
+            "PLATYPUS",
+            "TUBE",
+            "WELL",
+            "GREECE",
+            "ROOT",
+            "PLATE",
+            "BOOT",
+            "KANGAROO",
+            "THIEF",
+            "BOOM"
+        ]
+    },
+    "d518a918-01e3-4d58-8873-a009f529409a": {
+        "pos": [
+            "TURKEY",
+            "FOREST",
+            "HIMALAYAS",
+            "MAPLE"
+        ],
+        "neg": [
+            "FOOT",
+            "MINT",
+            "STREAM",
+            "ENGLAND",
+            "OPERA",
+            "SPIKE",
+            "COMPOUND",
+            "PUMPKIN",
+            "SPELL",
+            "DEGREE",
+            "CALF",
+            "NURSE",
+            "PISTOL",
+            "CAST"
+        ]
+    },
+    "73508063-0732-455d-90a3-972a58da0260": {
+        "pos": [
+            "MATCH",
+            "EAGLE"
+        ],
+        "neg": [
+            "CLOAK",
+            "REVOLUTION",
+            "BRUSH",
+            "CHECK",
+            "PARK",
+            "DEATH",
+            "CHINA",
+            "CHICK",
+            "RULER"
+        ]
+    },
+    "58827891-5b7c-4311-a2a0-72c9e7037681": {
+        "pos": [
+            "THEATER",
+            "SCALE",
+            "PAPER",
+            "COMIC",
+            "SHAKESPEARE"
+        ],
+        "neg": [
+            "REVOLUTION",
+            "LASER",
+            "LINK",
+            "POISON",
+            "CODE",
+            "PIRATE",
+            "KNIFE",
+            "CZECH",
+            "POUND",
+            "PALM",
+            "SOCK",
+            "AMERICA"
+        ]
+    },
+    "3468489d-65a8-4f25-acb2-9f5846c6da11": {
+        "pos": [
+            "POOL"
+        ],
+        "neg": [
+            "HOLE",
+            "FOOT",
+            "CARD",
+            "DEATH",
+            "BOW",
+            "GENIUS",
+            "DISEASE",
+            "TEMPLE",
+            "BELT",
+            "MAPLE",
+            "POISON",
+            "DRESS",
+            "SHARK",
+            "WORM"
+        ]
+    },
+    "8c100447-a726-4a9c-b9f7-c8ac8399a59b": {
+        "pos": [
+            "PITCH",
+            "BELL"
+        ],
+        "neg": [
+            "WEB",
+            "HORSESHOE",
+            "MILLIONAIRE",
+            "SCUBA DIVER",
+            "AMERICA",
+            "PAPER",
+            "HOOD",
+            "WORM"
+        ]
+    },
+    "1c464fee-a49c-4ab9-99e0-b01a0d727d70": {
+        "pos": [
+            "CHICK",
+            "THEATER",
+            "CHANGE",
+            "GRASS",
+            "FALL",
+            "HAM",
+            "HOOK",
+            "TOKYO",
+            "MOUNT"
+        ],
+        "neg": [
+            "SOUND",
+            "BUFFALO",
+            "ENGLAND",
+            "ANGEL",
+            "FISH",
+            "AIR",
+            "GREECE",
+            "LOG",
+            "SQUARE"
+        ]
+    },
+    "99fbb769-8a25-4898-ac7d-4fa486b7ad41": {
+        "pos": [
+            "SWING",
+            "TOOTH",
+            "JACK",
+            "WHALE",
+            "WELL",
+            "IVORY",
+            "EAGLE"
+        ],
+        "neg": [
+            "CONDUCTOR",
+            "STREAM",
+            "SPINE",
+            "RING",
+            "CAP",
+            "SPACE",
+            "STRIKE",
+            "CENTAUR",
+            "LINE",
+            "LITTER",
+            "COLD",
+            "BATTERY"
+        ]
+    },
+    "25c9f136-6b18-4558-b160-2507b8b1117f": {
+        "pos": [
+            "ICE CREAM",
+            "SNOW",
+            "DICE"
+        ],
+        "neg": [
+            "SATELLITE",
+            "FLY",
+            "SPY",
+            "LEMON",
+            "KNIGHT",
+            "HORSESHOE",
+            "DROP",
+            "UNICORN",
+            "MINT",
+            "HORN",
+            "MISSILE",
+            "CELL",
+            "SMUGGLER",
+            "HORSE",
+            "BANK"
+        ]
+    },
+    "bcebf9cb-fd6b-46f3-b15c-702a1c680f3d": {
+        "pos": [
+            "CHARGE",
+            "STREAM",
+            "SPINE",
+            "COLD"
+        ],
+        "neg": [
+            "TABLET",
+            "CAT",
+            "FLY",
+            "TAIL",
+            "CIRCLE",
+            "KING",
+            "SPOT",
+            "GROUND",
+            "CHAIR",
+            "MOUSE",
+            "TRAIN",
+            "CAPITAL",
+            "PIRATE",
+            "BOMB",
+            "MAMMOTH"
+        ]
+    },
+    "bb14e54a-f005-40c1-919b-b37abad0bc92": {
+        "pos": [
+            "PIANO",
+            "SKYSCRAPER"
+        ],
+        "neg": [
+            "TICK",
+            "SPINE",
+            "CANADA",
+            "DROP",
+            "DOCTOR",
+            "CARROT",
+            "SLIP",
+            "NIGHT"
+        ]
+    },
+    "baa64959-9faf-446c-8e94-dafc5e4a3740": {
+        "pos": [
+            "HONEY",
+            "LOG"
+        ],
+        "neg": [
+            "BOTTLE",
+            "REVOLUTION",
+            "MEXICO",
+            "PIRATE",
+            "PIANO",
+            "MOUTH",
+            "BOX",
+            "POST",
+            "KING"
+        ]
+    },
+    "f7d4b6b9-4232-4b47-b33f-964e97fd0039": {
+        "pos": [
+            "EAGLE"
+        ],
+        "neg": [
+            "WATER",
+            "CIRCLE",
+            "SHOT",
+            "BUCK",
+            "ENGLAND",
+            "POINT",
+            "JET",
+            "BACK",
+            "TOOTH",
+            "APPLE",
+            "SHOP",
+            "SHADOW"
+        ]
+    },
+    "2f00f204-41f8-41cc-a2b2-835657c15730": {
+        "pos": [
+            "COURT",
+            "NOVEL",
+            "KETCHUP",
+            "ORANGE",
+            "BELT"
+        ],
+        "neg": [
+            "MEXICO",
+            "CLIFF",
+            "COLD",
+            "TAIL",
+            "POUND",
+            "POLE",
+            "CHECK",
+            "FACE",
+            "CONDUCTOR",
+            "JACK",
+            "SHADOW"
+        ]
+    },
+    "492e1591-6705-4994-9a5a-50d98ef65275": {
+        "pos": [
+            "DICE",
+            "GLOVE",
+            "EYE",
+            "COLD",
+            "STAR",
+            "BEAR"
+        ],
+        "neg": [
+            "POLICE",
+            "MASS",
+            "DRAFT",
+            "POOL",
+            "CHAIR",
+            "CODE",
+            "CAPITAL",
+            "GREECE",
+            "ORGAN",
+            "TABLET",
+            "LOCK",
+            "CHINA",
+            "SINK",
+            "VACUUM"
+        ]
+    },
+    "a2c36a8a-866e-43f8-a0cc-86926a6ff91c": {
+        "pos": [
+            "SPINE",
+            "ATLANTIS",
+            "KEY"
+        ],
+        "neg": [
+            "KID",
+            "CAP",
+            "STRIKE",
+            "ANGEL",
+            "BOMB",
+            "SCUBA DIVER",
+            "PITCH",
+            "ARM",
+            "SNOWMAN",
+            "BATTERY",
+            "FIGURE",
+            "BUGLE",
+            "MINT",
+            "DWARF",
+            "KNIFE"
+        ]
+    },
+    "994bf885-43f9-4924-9cfe-2f0a051c745e": {
+        "pos": [
+            "CARROT",
+            "WAKE",
+            "CHARGE"
+        ],
+        "neg": [
+            "BOTTLE",
+            "BOX",
+            "WITCH",
+            "MICROSCOPE",
+            "BAR",
+            "ROBIN",
+            "CHECK",
+            "BATTERY",
+            "TORCH",
+            "SCORPION",
+            "DATE",
+            "HOOK",
+            "SPACE",
+            "SCUBA DIVER"
+        ]
+    },
+    "8a15099b-77fc-4fde-8457-ed66dff2e1f0": {
+        "pos": [
+            "TORCH",
+            "CAP"
+        ],
+        "neg": [
+            "LOG",
+            "SOLDIER",
+            "SINK",
+            "COTTON",
+            "COMIC",
+            "PIN",
+            "FORCE",
+            "OIL",
+            "DRESS",
+            "CENTAUR",
+            "SPIDER",
+            "ROULETTE",
+            "ROW",
+            "AMERICA"
+        ]
+    },
+    "eae11fb7-e276-4038-a923-bd5c3e0fae84": {
+        "pos": [
+            "BUFFALO",
+            "STICK",
+            "CZECH",
+            "WATCH"
+        ],
+        "neg": [
+            "SCREEN",
+            "SWITCH",
+            "TAG",
+            "WASHINGTON",
+            "PASTE",
+            "GRACE",
+            "STOCK",
+            "TRAIN",
+            "BOOT",
+            "ORGAN",
+            "SPRING"
+        ]
+    },
+    "24fb8fc7-7e19-41ae-9786-32bed11a3075": {
+        "pos": [
+            "STADIUM",
+            "OIL"
+        ],
+        "neg": [
+            "ANTARCTICA",
+            "MOLE",
+            "BERMUDA",
+            "TABLE",
+            "GRACE",
+            "GHOST",
+            "POUND",
+            "SPIKE",
+            "LOG",
+            "CONTRACT",
+            "BACK"
+        ]
+    },
+    "fbd3ffc6-dcfe-4ebd-bfd0-f1863149381d": {
+        "pos": [
+            "LEPRECHAUN",
+            "PIT"
+        ],
+        "neg": [
+            "CAST",
+            "TRAIN",
+            "MUG",
+            "BOOT",
+            "RING",
+            "EAGLE",
+            "SCALE",
+            "TRACK",
+            "MINE",
+            "KNIGHT",
+            "PASS",
+            "SPIKE",
+            "SERVER",
+            "DEATH",
+            "HIMALAYAS"
+        ]
+    },
+    "1448cee9-5fe8-48b7-ac80-85242283d1e8": {
+        "pos": [
+            "FIGHTER",
+            "PLAY",
+            "WATER",
+            "GRACE",
+            "WHALE"
+        ],
+        "neg": [
+            "SQUARE",
+            "FLY",
+            "NUT",
+            "CHINA",
+            "SOLDIER",
+            "LEAD",
+            "STOCK",
+            "MOSCOW",
+            "THIEF",
+            "SNOW",
+            "AMBULANCE"
+        ]
+    },
+    "f3206084-b7d4-4b7c-b957-1b73e0ac5cd3": {
+        "pos": [
+            "SPY",
+            "PUPIL",
+            "OLIVE",
+            "CROSS",
+            "LAWYER",
+            "COURT",
+            "SPACE",
+            "TRUNK",
+            "BRUSH"
+        ],
+        "neg": [
+            "MOLE",
+            "BELT",
+            "INDIA",
+            "COOK",
+            "NET",
+            "REVOLUTION",
+            "CONTRACT",
+            "DECK"
+        ]
+    },
+    "35d0cc45-08bf-4e85-877d-ea9f33480bcc": {
+        "pos": [
+            "BOOT",
+            "WAR",
+            "KEY",
+            "SCHOOL"
+        ],
+        "neg": [
+            "WAKE",
+            "NINJA",
+            "HEART",
+            "ORGAN",
+            "SLIP",
+            "HORSESHOE",
+            "OPERA",
+            "BEACH",
+            "FOOT",
+            "CAT",
+            "TELESCOPE",
+            "TAG",
+            "FAN"
+        ]
+    },
+    "81fba212-b4e4-4e37-9c59-b2104b4d259d": {
+        "pos": [
+            "RAY",
+            "ATLANTIS",
+            "MICROSCOPE",
+            "FOREST",
+            "MEXICO",
+            "SPY",
+            "AMAZON",
+            "MATCH"
+        ],
+        "neg": [
+            "NOTE",
+            "PORT",
+            "CLUB",
+            "SHOP",
+            "POST",
+            "SOUL",
+            "CAT",
+            "DANCE",
+            "BLOCK",
+            "FILM",
+            "AMERICA",
+            "MARBLE"
+        ]
+    },
+    "db86e727-690f-45b1-a58f-19b66fe45a6e": {
+        "pos": [
+            "MOON",
+            "SNOW",
+            "HOSPITAL"
+        ],
+        "neg": [
+            "BOARD",
+            "CHANGE",
+            "ROSE",
+            "BERMUDA",
+            "PRINCESS",
+            "ICE",
+            "BACK",
+            "HONEY",
+            "TABLE",
+            "BOMB",
+            "LAP"
+        ]
+    },
+    "71afef98-412c-4e19-9ab7-efa7876446c1": {
+        "pos": [
+            "PITCH",
+            "FRANCE",
+            "CAR"
+        ],
+        "neg": [
+            "FALL",
+            "LEPRECHAUN",
+            "PASTE",
+            "LAB",
+            "SHARK",
+            "CASINO",
+            "AZTEC",
+            "BLOCK",
+            "LINK",
+            "MOUSE",
+            "POISON",
+            "REVOLUTION",
+            "KING",
+            "APPLE"
+        ]
+    },
+    "cee43596-2930-4abd-8955-69754d192718": {
+        "pos": [
+            "TUBE",
+            "KNIFE",
+            "SERVER",
+            "CHEST",
+            "MINE",
+            "PENGUIN",
+            "THIEF",
+            "AIR"
+        ],
+        "neg": [
+            "PARK",
+            "WAR",
+            "HELICOPTER",
+            "PLASTIC",
+            "CHOCOLATE",
+            "GHOST",
+            "COLD",
+            "GLASS",
+            "DRAGON",
+            "ATLANTIS",
+            "TORCH"
+        ]
+    },
+    "e38486ab-c531-4934-8351-f4ced0822e34": {
+        "pos": [
+            "FISH",
+            "BAND",
+            "PORT",
+            "SOUL",
+            "RABBIT",
+            "NEW YORK",
+            "COTTON",
+            "GERMANY"
+        ],
+        "neg": [
+            "FALL",
+            "SNOW",
+            "PASTE",
+            "TAP",
+            "SCUBA DIVER",
+            "IRON",
+            "MUG",
+            "COPPER",
+            "HOTEL",
+            "RACKET",
+            "PUMPKIN",
+            "BERMUDA",
+            "BANK",
+            "CYCLE",
+            "LINE",
+            "STICK"
+        ]
+    },
+    "96416393-d275-4412-9167-e74b11ce5e62": {
+        "pos": [
+            "POINT",
+            "DOG",
+            "HAND",
+            "GENIUS",
+            "MOSCOW",
+            "WORM",
+            "FAIR"
+        ],
+        "neg": [
+            "DEGREE",
+            "FORK",
+            "JUPITER",
+            "BAR",
+            "CAPITAL",
+            "SUIT",
+            "PRINCESS",
+            "FAN",
+            "FALL",
+            "HEART",
+            "HOLLYWOOD",
+            "HELICOPTER",
+            "SERVER",
+            "OCTOPUS",
+            "RABBIT",
+            "SLUG"
+        ]
+    },
+    "bf3a7eb4-a051-45ec-aa80-0d26a0aa1b8f": {
+        "pos": [
+            "FOREST",
+            "LOG",
+            "FIRE",
+            "TABLET",
+            "LOCK",
+            "GERMANY",
+            "BRIDGE",
+            "AZTEC"
+        ],
+        "neg": [
+            "ANTARCTICA",
+            "PRESS",
+            "DUCK",
+            "LIFE",
+            "SHAKESPEARE",
+            "POOL",
+            "PLAY",
+            "ROME",
+            "WAKE",
+            "ARM",
+            "FIGURE",
+            "DOG"
+        ]
+    },
+    "5c3576ba-239a-49a4-8107-0aa59ec0c2a2": {
+        "pos": [
+            "SCUBA DIVER",
+            "CZECH",
+            "GREECE",
+            "SHOP"
+        ],
+        "neg": [
+            "CYCLE",
+            "WALL",
+            "SOLDIER",
+            "PUMPKIN",
+            "BERLIN",
+            "NUT",
+            "UNICORN",
+            "RACKET",
+            "HAM",
+            "POUND",
+            "PYRAMID",
+            "IRON",
+            "DEGREE"
+        ]
+    },
+    "eae4642d-71be-468a-9474-71071bb7b5c2": {
+        "pos": [
+            "PLASTIC"
+        ],
+        "neg": [
+            "STAR",
+            "SKYSCRAPER",
+            "DINOSAUR",
+            "FIELD",
+            "MUG",
+            "SUPERHERO",
+            "BALL",
+            "PALM"
+        ]
+    },
+    "3dc8bce7-1660-4432-8106-624c6868f4a2": {
+        "pos": [
+            "BOOM",
+            "KETCHUP",
+            "HAWK",
+            "CODE",
+            "BUGLE",
+            "CAST",
+            "DEATH",
+            "FAIR",
+            "SOUL"
+        ],
+        "neg": [
+            "ANGEL",
+            "HEART",
+            "POLICE",
+            "INDIA",
+            "STOCK",
+            "SUB",
+            "SCALE",
+            "THIEF",
+            "CROSS",
+            "NOVEL",
+            "WAR",
+            "PIPE",
+            "HOSPITAL"
+        ]
+    }
+}
