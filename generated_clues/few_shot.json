@@ -307,5 +307,236 @@
             "PORT is related to COUNTRY because PORTS are located in different countries.",
             "GERMANY is related to COUNTRY because GERMANY is a country."
         ]
+    },
+    "fbd3ffc6-dcfe-4ebd-bfd0-f1863149381d": {
+        "clue": "IRISH",
+        "clue_words": [
+            "LEPRECHAUN",
+            "PIT"
+        ],
+        "explanations": [
+            "LEPRECHAUN is related to IRISH because LEPRECHAUNS are mythical creatures from Irish folklore.",
+            "PIT is related to IRISH because PIT is a traditional Irish game."
+        ]
+    },
+    "71afef98-412c-4e19-9ab7-efa7876446c1": {
+        "clue": "VEHICLE",
+        "clue_words": [
+            "CAR"
+        ],
+        "explanations": [
+            "CAR is related to VEHICLE because CARS are a type of motorized vehicle."
+        ]
+    },
+    "baa64959-9faf-446c-8e94-dafc5e4a3740": {
+        "clue": "BEE",
+        "clue_words": [
+            "HONEY",
+            "LOG"
+        ],
+        "explanations": [
+            "HONEY is related to BEE because BEEs produce honey.",
+            "LOG is related to BEE because BEEs build their hives in hollow logs."
+        ]
+    },
+    "eae11fb7-e276-4038-a923-bd5c3e0fae84": {
+        "clue": "HORN",
+        "clue_words": [
+            "BUFFALO",
+            "STICK"
+        ],
+        "explanations": [
+            "BUFFALO is related to HORN because BUFFALO have horns.",
+            "STICK is related to HORN because STICKS are often used to make musical instruments with horns."
+        ]
+    },
+    "96416393-d275-4412-9167-e74b11ce5e62": {
+        "clue": "ANIMAL",
+        "clue_words": [
+            "DOG",
+            "WORM"
+        ],
+        "explanations": [
+            "DOG is related to ANIMAL because DOG is a species of mammal, which are animals.",
+            "WORM is related to ANIMAL because WORM is a species of invertebrate, which are animals."
+        ]
+    },
+    "bcebf9cb-fd6b-46f3-b15c-702a1c680f3d": {
+        "clue": "BACK",
+        "clue_words": [
+            "SPINE",
+            "CHARGE"
+        ],
+        "explanations": [
+            "SPINE is related to BACK because the SPINE is part of the BACK.",
+            "CHARGE is related to BACK because to CHARGE something means to put energy into it, which can be done by going BACK to it."
+        ]
+    },
+    "8c100447-a726-4a9c-b9f7-c8ac8399a59b": {
+        "clue": "CAMPANILE",
+        "clue_words": [
+            "BELL"
+        ],
+        "explanations": [
+            "BELL is related to CAMPANILE because CAMPANILES are bell towers, which house bells."
+        ]
+    },
+    "3dc8bce7-1660-4432-8106-624c6868f4a2": {
+        "clue": "MUSIC",
+        "clue_words": [
+            "BUGLE",
+            "CAST",
+            "SOUL"
+        ],
+        "explanations": [
+            "BUGLE is related to MUSIC because BUGLES are instruments that are used to make music.",
+            "CAST is related to MUSIC because CASTING is the process of creating a musical performance.",
+            "SOUL is related to MUSIC because SOUL music is a genre of music."
+        ]
+    },
+    "8a15099b-77fc-4fde-8457-ed66dff2e1f0": {
+        "clue": "FIRE",
+        "clue_words": [
+            "TORCH",
+            "CAP"
+        ],
+        "explanations": [
+            "TORCH is related to FIRE because TORCHES are used to create fire.",
+            "CAP is related to FIRE because CAPS are used to extinguish fires."
+        ]
+    },
+    "f3206084-b7d4-4b7c-b957-1b73e0ac5cd3": {
+        "clue": "PROFESSION",
+        "clue_words": [
+            "LAWYER",
+            "COURT",
+            "SPY"
+        ],
+        "explanations": [
+            "LAWYER is related to PROFESSION because LAWYERS are a type of professional.",
+            "COURT is related to PROFESSION because COURTS are a type of professional institution.",
+            "SPY is related to PROFESSION because SPIES are a type of professional."
+        ]
+    },
+    "19f770e4-3679-42f9-9c31-599f72ced35a": {
+        "clue": "SPORT",
+        "clue_words": [
+            "TRACK",
+            "BALL",
+            "FORCE"
+        ],
+        "explanations": [
+            "TRACK is related to SPORT because TRACK is a type of sport.",
+            "BALL is related to SPORT because BALL is used in many sports.",
+            "FORCE is related to SPORT because FORCE is used in many sports, such as football and rugby."
+        ]
+    },
+    "6446b480-dc7e-45be-a4dd-71f6704b3bac": {
+        "clue": "GREEN",
+        "clue_words": [
+            "GRASS",
+            "LINK"
+        ],
+        "explanations": [
+            "GRASS is related to GREEN because GRASS is a type of vegetation that is typically green.",
+            "LINK is related to GREEN because LINK is a color that is often associated with environmentalism and sustainability, which are both related to the color green."
+        ]
+    },
+    "81fba212-b4e4-4e37-9c59-b2104b4d259d": {
+        "clue": "JUNGLE",
+        "clue_words": [
+            "FOREST",
+            "AMAZON"
+        ],
+        "explanations": [
+            "FOREST is related to JUNGLE because FORESTS are a type of JUNGLE.",
+            "AMAZON is related to JUNGLE because the AMAZON is a large tropical rainforest."
+        ]
+    },
+    "1448cee9-5fe8-48b7-ac80-85242283d1e8": {
+        "clue": "ACTION",
+        "clue_words": [
+            "PLAY",
+            "FIGHTER",
+            "GRACE"
+        ],
+        "explanations": [
+            "PLAY is related to ACTION because PLAY involves physical activity.",
+            "FIGHTER is related to ACTION because FIGHTER involves physical activity.",
+            "GRACE is related to ACTION because GRACE involves physical activity."
+        ]
+    },
+    "cee43596-2930-4abd-8955-69754d192718": {
+        "clue": "STEAL",
+        "clue_words": [
+            "THIEF",
+            "MINE"
+        ],
+        "explanations": [
+            "THIEF is related to STEAL because THIEVES are known to STEAL things.",
+            "MINE is related to STEAL because MINING is the process of STEALING resources from the earth."
+        ]
+    },
+    "bf3a7eb4-a051-45ec-aa80-0d26a0aa1b8f": {
+        "clue": "BUILDING",
+        "clue_words": [
+            "BRIDGE",
+            "LOCK"
+        ],
+        "explanations": [
+            "BRIDGE is related to BUILDING because BRIDGES are structures that are built over bodies of water.",
+            "LOCK is related to BUILDING because LOCKS are used to secure buildings."
+        ]
+    },
+    "492e1591-6705-4994-9a5a-50d98ef65275": {
+        "clue": "FUR",
+        "clue_words": [
+            "BEAR",
+            "STAR"
+        ],
+        "explanations": [
+            "BEAR is related to FUR because BEARS have fur.",
+            "STAR is related to FUR because the STAR symbol is often depicted with fur."
+        ]
+    },
+    "3468489d-65a8-4f25-acb2-9f5846c6da11": {
+        "clue": "WATER",
+        "clue_words": [
+            "POOL"
+        ],
+        "explanations": [
+            "POOL is related to WATER because POOLS are filled with water."
+        ]
+    },
+    "db86e727-690f-45b1-a58f-19b66fe45a6e": {
+        "clue": "SKY",
+        "clue_words": [
+            "MOON",
+            "SNOW"
+        ],
+        "explanations": [
+            "MOON is related to SKY because the MOON is visible in the night SKY.",
+            "SNOW is related to SKY because SNOW falls from the SKY."
+        ]
+    },
+    "34611852-1810-4636-9576-ada40489ffa7": {
+        "clue": "PIECE",
+        "clue_words": [
+            "PART"
+        ],
+        "explanations": [
+            "PART is related to PIECE because a PART is a PIECE of something larger."
+        ]
+    },
+    "35d0cc45-08bf-4e85-877d-ea9f33480bcc": {
+        "clue": "LOCK",
+        "clue_words": [
+            "KEY",
+            "BOOT"
+        ],
+        "explanations": [
+            "KEY is related to LOCK because a KEY is used to unlock a LOCK.",
+            "BOOT is related to LOCK because a BOOT is a type of LOCK that is used to secure a computer."
+        ]
     }
 }

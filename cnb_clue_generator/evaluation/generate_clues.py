@@ -33,7 +33,7 @@ def main():
         boards = json.loads(file.read())
     
     file_path = os.path.join(GENERATED_CLUES, f"{file_name}.json")
-    generated_clues = read_generated_clues(file_name)
+    generated_clues = read_generated_clues(file_path)
     unclued_boards = set(boards.keys()) - set(generated_clues.keys())
 
     print("Scenarios:", len(boards), "Missing:", len(unclued_boards))
