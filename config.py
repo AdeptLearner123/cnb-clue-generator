@@ -1,4 +1,5 @@
-CARDWORDS = "data/cardwords.txt"
-BOARDS = "data/boards.json"
+CARDWORDS = "static/cardwords.txt"
+BOARDS = "static/boards.json"
 
-FEW_SHOT_PROMPT = "data/few_shot_prompt.txt"
+GENERATED_CLUES = "generated_clues/"
+FEW_SHOT_PROMPT = "static/few_shot_prompt.txt"
