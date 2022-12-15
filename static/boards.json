@@ -14,7 +14,12 @@
             "LINK",
             "GENIUS",
             "CLUB"
-        ]
+        ],
+        "guesses": {
+            "PIECE": [
+                "PART"
+            ]
+        }
     },
     "6f1ce884-5cb0-4059-9713-b242942cfdfb": {
         "pos": [
@@ -38,7 +43,13 @@
             "NET",
             "BRIDGE",
             "PENGUIN"
-        ]
+        ],
+        "guesses": {
+            "SEASON": [
+                "FALL",
+                "MARCH"
+            ]
+        }
     },
     "eb5e444c-addf-4bb5-8fbb-0635a77480aa": {
         "pos": [
@@ -60,7 +71,13 @@
             "FISH",
             "NOTE",
             "NEEDLE"
-        ]
+        ],
+        "guesses": {
+            "VEHICLE": [
+                "CAR",
+                "BOARD"
+            ]
+        }
     },
     "04f50605-866c-4aad-b878-421bb0571718": {
         "pos": [
@@ -80,7 +97,13 @@
             "PANTS",
             "STRAW",
             "GLASS"
-        ]
+        ],
+        "guesses": {
+            "FIRE": [
+                "MATCH",
+                "GLASS"
+            ]
+        }
     },
     "cdcce028-74fe-4ebc-a32d-b3f25d3a2349": {
         "pos": [
@@ -104,7 +127,13 @@
             "SEAL",
             "THUMB",
             "AMERICA"
-        ]
+        ],
+        "guesses": {
+            "MUSIC": [
+                "BEAT",
+                "OPERA"
+            ]
+        }
     },
     "bf47c8ce-84c9-4745-a1dc-5ec5a20387ba": {
         "pos": [
@@ -127,7 +156,13 @@
             "DAY",
             "TOWER",
             "CANADA"
-        ]
+        ],
+        "guesses": {
+            "STRENGTH": [
+                "ARM",
+                "LION"
+            ]
+        }
     },
     "e1710851-12e5-443c-9049-58cf44990cf4": {
         "pos": [
@@ -150,7 +185,13 @@
             "SERVER",
             "TRIANGLE",
             "FISH"
-        ]
+        ],
+        "guesses": {
+            "SCHOOL": [
+                "FISH",
+                "DEGREE"
+            ]
+        }
     },
     "8e4ca95c-41e1-43b8-87be-365ce7758b8b": {
         "pos": [
@@ -170,7 +211,13 @@
             "AFRICA",
             "IVORY",
             "SWING"
-        ]
+        ],
+        "guesses": {
+            "WATER": [
+                "TAP",
+                "WAVE"
+            ]
+        }
     },
     "ec7eaeab-ca5d-4823-ae7e-ad297d20d72d": {
         "pos": [
@@ -185,7 +232,12 @@
             "PORT",
             "LINE",
             "SOUND"
-        ]
+        ],
+        "guesses": {
+            "POWER": [
+                "FORCE"
+            ]
+        }
     },
     "8808fdd2-4fe8-4b19-af6a-dbe70349a3be": {
         "pos": [
@@ -213,7 +265,14 @@
             "HEAD",
             "SHADOW",
             "SUB"
-        ]
+        ],
+        "guesses": {
+            "FLIGHT": [
+                "KIWI",
+                "AIR",
+                "PARACHUTE"
+            ]
+        }
     },
     "f3fd8c7d-0e7c-4bc4-9add-1b1a1e6994c9": {
         "pos": [
@@ -229,7 +288,12 @@
             "JUPITER",
             "HAWK",
             "CRASH"
-        ]
+        ],
+        "guesses": {
+            "FLOWER": [
+                "ROSE"
+            ]
+        }
     },
     "50e7fcf2-3866-4329-a826-5ce9f8c1d79c": {
         "pos": [
@@ -246,7 +310,13 @@
             "STATE",
             "WELL",
             "WEB"
-        ]
+        ],
+        "guesses": {
+            "IMPACT": [
+                "CRASH",
+                "STATE"
+            ]
+        }
     },
     "b70f7500-10e6-4fed-84c9-e03724f6da39": {
         "pos": [
@@ -274,7 +344,13 @@
             "SHOE",
             "TOKYO",
             "KANGAROO"
-        ]
+        ],
+        "guesses": {
+            "STORY": [
+                "SHAKESPEARE",
+                "KNIGHT"
+            ]
+        }
     },
     "861837f9-f416-4ae2-9d36-f32f4d84d90f": {
         "pos": [
@@ -303,7 +379,13 @@
             "MILLIONAIRE",
             "CHEST",
             "WATCH"
-        ]
+        ],
+        "guesses": {
+            "HAND": [
+                "THUMB",
+                "GLOVE"
+            ]
+        }
     },
     "6446b480-dc7e-45be-a4dd-71f6704b3bac": {
         "pos": [
@@ -320,7 +402,13 @@
             "BUGLE",
             "NEW YORK",
             "BAT"
-        ]
+        ],
+        "guesses": {
+            "GREEN": [
+                "GRASS",
+                "LINK"
+            ]
+        }
     },
     "ffbfe3ff-357a-457c-93c8-ac9eff0170a2": {
         "pos": [
@@ -340,7 +428,13 @@
             "FENCE",
             "SUB",
             "WAR"
-        ]
+        ],
+        "guesses": {
+            "MYTH": [
+                "LEPRECHAUN",
+                "KNIGHT"
+            ]
+        }
     },
     "19f770e4-3679-42f9-9c31-599f72ced35a": {
         "pos": [
@@ -363,7 +457,14 @@
             "KANGAROO",
             "THIEF",
             "BOOM"
-        ]
+        ],
+        "guesses": {
+            "SPORT": [
+                "BALL",
+                "BEAT",
+                "TRACK"
+            ]
+        }
     },
     "d518a918-01e3-4d58-8873-a009f529409a": {
         "pos": [
@@ -387,7 +488,13 @@
             "NURSE",
             "PISTOL",
             "CAST"
-        ]
+        ],
+        "guesses": {
+            "TREE": [
+                "FOREST",
+                "MAPLE"
+            ]
+        }
     },
     "73508063-0732-455d-90a3-972a58da0260": {
         "pos": [
@@ -404,7 +511,13 @@
             "CHINA",
             "CHICK",
             "RULER"
-        ]
+        ],
+        "guesses": {
+            "FLY": [
+                "EAGLE",
+                "CHICK"
+            ]
+        }
     },
     "58827891-5b7c-4311-a2a0-72c9e7037681": {
         "pos": [
@@ -427,7 +540,13 @@
             "PALM",
             "SOCK",
             "AMERICA"
-        ]
+        ],
+        "guesses": {
+            "STORY": [
+                "SHAKESPEARE",
+                "THEATER"
+            ]
+        }
     },
     "3468489d-65a8-4f25-acb2-9f5846c6da11": {
         "pos": [
@@ -448,7 +567,12 @@
             "DRESS",
             "SHARK",
             "WORM"
-        ]
+        ],
+        "guesses": {
+            "WATER": [
+                "POOL"
+            ]
+        }
     },
     "8c100447-a726-4a9c-b9f7-c8ac8399a59b": {
         "pos": [
@@ -464,7 +588,12 @@
             "PAPER",
             "HOOD",
             "WORM"
-        ]
+        ],
+        "guesses": {
+            "CAMPANILE": [
+                "BELL"
+            ]
+        }
     },
     "1c464fee-a49c-4ab9-99e0-b01a0d727d70": {
         "pos": [
@@ -488,7 +617,13 @@
             "GREECE",
             "LOG",
             "SQUARE"
-        ]
+        ],
+        "guesses": {
+            "CITY": [
+                "TOKYO",
+                "BUFFALO"
+            ]
+        }
     },
     "99fbb769-8a25-4898-ac7d-4fa486b7ad41": {
         "pos": [
@@ -513,7 +648,13 @@
             "LITTER",
             "COLD",
             "BATTERY"
-        ]
+        ],
+        "guesses": {
+            "BIRD": [
+                "EAGLE",
+                "STREAM"
+            ]
+        }
     },
     "25c9f136-6b18-4558-b160-2507b8b1117f": {
         "pos": [
@@ -537,7 +678,13 @@
             "SMUGGLER",
             "HORSE",
             "BANK"
-        ]
+        ],
+        "guesses": {
+            "COLD": [
+                "ICE CREAM",
+                "SNOW"
+            ]
+        }
     },
     "bcebf9cb-fd6b-46f3-b15c-702a1c680f3d": {
         "pos": [
@@ -562,7 +709,13 @@
             "PIRATE",
             "BOMB",
             "MAMMOTH"
-        ]
+        ],
+        "guesses": {
+            "BACK": [
+                "TAIL",
+                "SPINE"
+            ]
+        }
     },
     "bb14e54a-f005-40c1-919b-b37abad0bc92": {
         "pos": [
@@ -578,7 +731,12 @@
             "CARROT",
             "SLIP",
             "NIGHT"
-        ]
+        ],
+        "guesses": {
+            "TOWER": [
+                "SKYSCRAPER"
+            ]
+        }
     },
     "baa64959-9faf-446c-8e94-dafc5e4a3740": {
         "pos": [
@@ -595,7 +753,13 @@
             "BOX",
             "POST",
             "KING"
-        ]
+        ],
+        "guesses": {
+            "BEE": [
+                "HONEY",
+                "LOG"
+            ]
+        }
     },
     "f7d4b6b9-4232-4b47-b33f-964e97fd0039": {
         "pos": [
@@ -614,7 +778,12 @@
             "APPLE",
             "SHOP",
             "SHADOW"
-        ]
+        ],
+        "guesses": {
+            "FLY": [
+                "JET"
+            ]
+        }
     },
     "2f00f204-41f8-41cc-a2b2-835657c15730": {
         "pos": [
@@ -636,7 +805,13 @@
             "CONDUCTOR",
             "JACK",
             "SHADOW"
-        ]
+        ],
+        "guesses": {
+            "CLOTH": [
+                "BELT",
+                "FACE"
+            ]
+        }
     },
     "492e1591-6705-4994-9a5a-50d98ef65275": {
         "pos": [
@@ -662,7 +837,13 @@
             "CHINA",
             "SINK",
             "VACUUM"
-        ]
+        ],
+        "guesses": {
+            "FUR": [
+                "BEAR",
+                "COLD"
+            ]
+        }
     },
     "a2c36a8a-866e-43f8-a0cc-86926a6ff91c": {
         "pos": [
@@ -686,7 +867,12 @@
             "MINT",
             "DWARF",
             "KNIFE"
-        ]
+        ],
+        "guesses": {
+            "LOCK": [
+                "KEY"
+            ]
+        }
     },
     "994bf885-43f9-4924-9cfe-2f0a051c745e": {
         "pos": [
@@ -709,7 +895,12 @@
             "HOOK",
             "SPACE",
             "SCUBA DIVER"
-        ]
+        ],
+        "guesses": {
+            "VEGETABLE": [
+                "CARROT"
+            ]
+        }
     },
     "8a15099b-77fc-4fde-8457-ed66dff2e1f0": {
         "pos": [
@@ -731,7 +922,13 @@
             "ROULETTE",
             "ROW",
             "AMERICA"
-        ]
+        ],
+        "guesses": {
+            "FIRE": [
+                "TORCH",
+                "OIL"
+            ]
+        }
     },
     "eae11fb7-e276-4038-a923-bd5c3e0fae84": {
         "pos": [
@@ -752,7 +949,13 @@
             "BOOT",
             "ORGAN",
             "SPRING"
-        ]
+        ],
+        "guesses": {
+            "HORN": [
+                "BUFFALO",
+                "TRAIN"
+            ]
+        }
     },
     "24fb8fc7-7e19-41ae-9786-32bed11a3075": {
         "pos": [
@@ -771,7 +974,13 @@
             "LOG",
             "CONTRACT",
             "BACK"
-        ]
+        ],
+        "guesses": {
+            "SPORT": [
+                "STADIUM",
+                "SPIKE"
+            ]
+        }
     },
     "fbd3ffc6-dcfe-4ebd-bfd0-f1863149381d": {
         "pos": [
@@ -794,7 +1003,13 @@
             "SERVER",
             "DEATH",
             "HIMALAYAS"
-        ]
+        ],
+        "guesses": {
+            "IRISH": [
+                "LEPRECHAUN",
+                "MUG"
+            ]
+        }
     },
     "1448cee9-5fe8-48b7-ac80-85242283d1e8": {
         "pos": [
@@ -816,7 +1031,14 @@
             "THIEF",
             "SNOW",
             "AMBULANCE"
-        ]
+        ],
+        "guesses": {
+            "ACTION": [
+                "LEAD",
+                "PLAY",
+                "FIGHTER"
+            ]
+        }
     },
     "f3206084-b7d4-4b7c-b957-1b73e0ac5cd3": {
         "pos": [
@@ -839,7 +1061,14 @@
             "REVOLUTION",
             "CONTRACT",
             "DECK"
-        ]
+        ],
+        "guesses": {
+            "PROFESSION": [
+                "LAWYER",
+                "COOK",
+                "PUPIL"
+            ]
+        }
     },
     "35d0cc45-08bf-4e85-877d-ea9f33480bcc": {
         "pos": [
@@ -862,7 +1091,13 @@
             "TELESCOPE",
             "TAG",
             "FAN"
-        ]
+        ],
+        "guesses": {
+            "LOCK": [
+                "KEY",
+                "FOOT"
+            ]
+        }
     },
     "81fba212-b4e4-4e37-9c59-b2104b4d259d": {
         "pos": [
@@ -888,7 +1123,13 @@
             "FILM",
             "AMERICA",
             "MARBLE"
-        ]
+        ],
+        "guesses": {
+            "JUNGLE": [
+                "FOREST",
+                "AMAZON"
+            ]
+        }
     },
     "db86e727-690f-45b1-a58f-19b66fe45a6e": {
         "pos": [
@@ -908,7 +1149,13 @@
             "TABLE",
             "BOMB",
             "LAP"
-        ]
+        ],
+        "guesses": {
+            "SKY": [
+                "SNOW",
+                "MOON"
+            ]
+        }
     },
     "71afef98-412c-4e19-9ab7-efa7876446c1": {
         "pos": [
@@ -931,7 +1178,12 @@
             "REVOLUTION",
             "KING",
             "APPLE"
-        ]
+        ],
+        "guesses": {
+            "VEHICLE": [
+                "CAR"
+            ]
+        }
     },
     "cee43596-2930-4abd-8955-69754d192718": {
         "pos": [
@@ -956,7 +1208,13 @@
             "DRAGON",
             "ATLANTIS",
             "TORCH"
-        ]
+        ],
+        "guesses": {
+            "STEAL": [
+                "THIEF",
+                "CHEST"
+            ]
+        }
     },
     "e38486ab-c531-4934-8351-f4ced0822e34": {
         "pos": [
@@ -986,7 +1244,13 @@
             "CYCLE",
             "LINE",
             "STICK"
-        ]
+        ],
+        "guesses": {
+            "COUNTRY": [
+                "GERMANY",
+                "BERMUDA"
+            ]
+        }
     },
     "96416393-d275-4412-9167-e74b11ce5e62": {
         "pos": [
@@ -1015,7 +1279,13 @@
             "OCTOPUS",
             "RABBIT",
             "SLUG"
-        ]
+        ],
+        "guesses": {
+            "ANIMAL": [
+                "OCTOPUS",
+                "RABBIT"
+            ]
+        }
     },
     "bf3a7eb4-a051-45ec-aa80-0d26a0aa1b8f": {
         "pos": [
@@ -1041,7 +1311,13 @@
             "ARM",
             "FIGURE",
             "DOG"
-        ]
+        ],
+        "guesses": {
+            "BUILDING": [
+                "BRIDGE",
+                "ROME"
+            ]
+        }
     },
     "5c3576ba-239a-49a4-8107-0aa59ec0c2a2": {
         "pos": [
@@ -1064,7 +1340,14 @@
             "PYRAMID",
             "IRON",
             "DEGREE"
-        ]
+        ],
+        "guesses": {
+            "TRAVEL": [
+                "GREECE",
+                "CZECH",
+                "BERLIN"
+            ]
+        }
     },
     "eae4642d-71be-468a-9474-71071bb7b5c2": {
         "pos": [
@@ -1079,7 +1362,12 @@
             "SUPERHERO",
             "BALL",
             "PALM"
-        ]
+        ],
+        "guesses": {
+            "MOLD": [
+                "PLASTIC"
+            ]
+        }
     },
     "3dc8bce7-1660-4432-8106-624c6868f4a2": {
         "pos": [
@@ -1107,6 +1395,13 @@
             "WAR",
             "PIPE",
             "HOSPITAL"
-        ]
+        ],
+        "guesses": {
+            "MUSIC": [
+                "BUGLE",
+                "SCALE",
+                "PIPE"
+            ]
+        }
     }
 }
