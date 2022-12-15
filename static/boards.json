@@ -17,7 +17,8 @@
         ],
         "guesses": {
             "PIECE": [
-                "PART"
+                "PART",
+                "SPIKE"
             ]
         }
     },
@@ -101,7 +102,8 @@
         "guesses": {
             "FIRE": [
                 "MATCH",
-                "GLASS"
+                "GLASS",
+                "CROSS"
             ]
         }
     },
@@ -214,8 +216,9 @@
         ],
         "guesses": {
             "WATER": [
-                "TAP",
-                "WAVE"
+                "WAVE",
+                "SHIP",
+                "TAP"
             ]
         }
     },
@@ -235,7 +238,9 @@
         ],
         "guesses": {
             "POWER": [
-                "FORCE"
+                "FORCE",
+                "SUPERHERO",
+                "CHURCH"
             ]
         }
     },
@@ -268,9 +273,10 @@
         ],
         "guesses": {
             "FLIGHT": [
-                "KIWI",
                 "AIR",
-                "PARACHUTE"
+                "PARACHUTE",
+                "SHOT",
+                "LIGHT"
             ]
         }
     },
@@ -348,7 +354,9 @@
         "guesses": {
             "STORY": [
                 "SHAKESPEARE",
-                "KNIGHT"
+                "KNIGHT",
+                "PHOENIX",
+                "LEPRECHAUN"
             ]
         }
     },
@@ -383,7 +391,10 @@
         "guesses": {
             "HAND": [
                 "THUMB",
-                "GLOVE"
+                "GLOVE",
+                "WATCH",
+                "ARM",
+                "CHEST"
             ]
         }
     },
@@ -432,7 +443,8 @@
         "guesses": {
             "MYTH": [
                 "LEPRECHAUN",
-                "KNIGHT"
+                "KNIGHT",
+                "EAGLE"
             ]
         }
     },
@@ -462,7 +474,10 @@
             "SPORT": [
                 "BALL",
                 "BEAT",
-                "TRACK"
+                "TRACK",
+                "GREECE",
+                "PLATE",
+                "ROOT"
             ]
         }
     },
@@ -544,7 +559,10 @@
         "guesses": {
             "STORY": [
                 "SHAKESPEARE",
-                "THEATER"
+                "THEATER",
+                "COMIC",
+                "REVOLUTION",
+                "PIRATE"
             ]
         }
     },
@@ -570,7 +588,9 @@
         ],
         "guesses": {
             "WATER": [
-                "POOL"
+                "POOL",
+                "SHARK",
+                "HOLE"
             ]
         }
     },
@@ -591,7 +611,8 @@
         ],
         "guesses": {
             "CAMPANILE": [
-                "BELL"
+                "BELL",
+                "PITCH"
             ]
         }
     },
@@ -621,7 +642,9 @@
         "guesses": {
             "CITY": [
                 "TOKYO",
-                "BUFFALO"
+                "BUFFALO",
+                "SQUARE",
+                "GREECE"
             ]
         }
     },
@@ -652,7 +675,7 @@
         "guesses": {
             "BIRD": [
                 "EAGLE",
-                "STREAM"
+                "SPINE"
             ]
         }
     },
@@ -712,8 +735,9 @@
         ],
         "guesses": {
             "BACK": [
+                "SPINE",
                 "TAIL",
-                "SPINE"
+                "CHAIR"
             ]
         }
     },
@@ -757,7 +781,8 @@
         "guesses": {
             "BEE": [
                 "HONEY",
-                "LOG"
+                "LOG",
+                "MOUTH"
             ]
         }
     },
@@ -781,7 +806,9 @@
         ],
         "guesses": {
             "FLY": [
-                "JET"
+                "JET",
+                "EAGLE",
+                "SHOT"
             ]
         }
     },
@@ -809,7 +836,7 @@
         "guesses": {
             "CLOTH": [
                 "BELT",
-                "FACE"
+                "COLD"
             ]
         }
     },
@@ -870,7 +897,9 @@
         ],
         "guesses": {
             "LOCK": [
-                "KEY"
+                "KEY",
+                "KID",
+                "CAP"
             ]
         }
     },
@@ -926,7 +955,8 @@
         "guesses": {
             "FIRE": [
                 "TORCH",
-                "OIL"
+                "OIL",
+                "SOLDIER"
             ]
         }
     },
@@ -953,6 +983,7 @@
         "guesses": {
             "HORN": [
                 "BUFFALO",
+                "ORGAN",
                 "TRAIN"
             ]
         }
@@ -978,7 +1009,9 @@
         "guesses": {
             "SPORT": [
                 "STADIUM",
-                "SPIKE"
+                "SPIKE",
+                "TABLE",
+                "CONTRACT"
             ]
         }
     },
@@ -1006,8 +1039,7 @@
         ],
         "guesses": {
             "IRISH": [
-                "LEPRECHAUN",
-                "MUG"
+                "LEPRECHAUN"
             ]
         }
     },
@@ -1036,7 +1068,9 @@
             "ACTION": [
                 "LEAD",
                 "PLAY",
-                "FIGHTER"
+                "FIGHTER",
+                "SOLDIER",
+                "FLY"
             ]
         }
     },
@@ -1066,7 +1100,8 @@
             "PROFESSION": [
                 "LAWYER",
                 "COOK",
-                "PUPIL"
+                "PUPIL",
+                "SPY"
             ]
         }
     },
@@ -1127,7 +1162,8 @@
         "guesses": {
             "JUNGLE": [
                 "FOREST",
-                "AMAZON"
+                "AMAZON",
+                "MEXICO"
             ]
         }
     },
@@ -1152,8 +1188,9 @@
         ],
         "guesses": {
             "SKY": [
+                "MOON",
                 "SNOW",
-                "MOON"
+                "BOMB"
             ]
         }
     },
@@ -1211,8 +1248,7 @@
         ],
         "guesses": {
             "STEAL": [
-                "THIEF",
-                "CHEST"
+                "THIEF"
             ]
         }
     },
@@ -1248,7 +1284,8 @@
         "guesses": {
             "COUNTRY": [
                 "GERMANY",
-                "BERMUDA"
+                "BERMUDA",
+                "BAND"
             ]
         }
     },
@@ -1283,7 +1320,10 @@
         "guesses": {
             "ANIMAL": [
                 "OCTOPUS",
-                "RABBIT"
+                "RABBIT",
+                "DOG",
+                "WORM",
+                "SLUG"
             ]
         }
     },
@@ -1315,7 +1355,10 @@
         "guesses": {
             "BUILDING": [
                 "BRIDGE",
-                "ROME"
+                "ROME",
+                "AZTEC",
+                "POOL",
+                "LOG"
             ]
         }
     },
@@ -1345,7 +1388,10 @@
             "TRAVEL": [
                 "GREECE",
                 "CZECH",
-                "BERLIN"
+                "BERLIN",
+                "SCUBA DIVER",
+                "SHOP",
+                "PYRAMID"
             ]
         }
     },
@@ -1400,7 +1446,11 @@
             "MUSIC": [
                 "BUGLE",
                 "SCALE",
-                "PIPE"
+                "PIPE",
+                "BOOM",
+                "SOUL",
+                "HEART",
+                "INDIA"
             ]
         }
     }

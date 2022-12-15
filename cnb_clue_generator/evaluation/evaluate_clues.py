@@ -39,14 +39,14 @@ def prompt_guesses(board, clue):
     return guesses
 
 
-def get_guesses(board_id, boards, clue, num):
+def get_guesses(board_id, boards, clue):
     board = boards[board_id]
 
     if "guesses" not in board:
         board["guesses"] = dict()
     
     if clue not in board["guesses"]:
-        board["guesses"][clue] = prompt_guesses(board, clue, num)
+        board["guesses"][clue] = prompt_guesses(board, clue)
 
         with open(BOARDS, "w") as file:
             file.write(json.dumps(boards, indent=4))
@@ -89,14 +89,14 @@ def main():
     print("Unrelatd Positives", len(unrelated_positives))
     print("Guessed Negatives", len(guessed_negatives))
 
+    print()
+    print("Unrelated Positives:")
     for clue, word in unrelated_positives:
-        print()
-        print("Unrelated Positives:")
         print("\t", clue, "  ", word)
 
+    print()
+    print("Guessed Negatives:")
     for clue, word in guessed_negatives:
-        print()
-        print("Guessed Negatives:")
         print("\t", clue, "  ", word)
 
 if __name__ == "__main__":
