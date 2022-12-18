@@ -1,30 +1,21 @@
-from config import FEW_SHOT_PROMPT
 from .clue_generator_base import ClueGeneratorBase
 
-import os
 import openai
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+class GPTFineTunedClueGenerator(ClueGeneratorBase):
+    PROMPT_END_TOKEN = "\n\n###\n\n"
+    END_TOKEN = " END"
 
-class GPTClueGenerator(ClueGeneratorBase):
-    FEW_SHOT_PROMPT = "Give a single-word clue that links to as many of the positive words as possible, while avoiding the negative words and list which positive words it is linked with. Explain why each positive word is related."
-
-    def __init__(self, api_key):
-        openai.api_key = api_key
-
+    def __init__(self):
         self._prompt_tokens = 0
         self._completion_tokens = 0
         self._total_tokens = 0
 
-        with open(FEW_SHOT_PROMPT, "r") as file:
-            self._few_shot_prompt = file.read()
-
 
     def _create_prompt(self, pos_words, neg_words):
-        return self._few_shot_prompt + "\n" + \
-            f"Positive: {', '.join(pos_words)}\n" + \
-            f"Negative: {', '.join(neg_words)}\n" + \
-            "Clue:"
+        return \
+            "positive: " + ", ".join(pos_words) + "\n" + \
+            "negative: " + ", ".join(neg_words) + self.PROMPT_END_TOKEN
 
 
     def _parse_completion(self, completion):
@@ -47,8 +38,11 @@ class GPTClueGenerator(ClueGeneratorBase):
 
     def generate_clue(self, pos_words, neg_words):
         prompt = self._create_prompt(pos_words, neg_words)
-        completion = openai.Completion.create(engine="text-davinci-003", prompt=prompt, temperature=0, max_tokens=256)
-        #print(completion.choices[0].text)
+        print("Prompt")
+        print(prompt)
+        completion = openai.Completion.create(model="davinci:ft-personal:board-clue-generator-2022-12-16-00-51-01", prompt=prompt, temperature=0, max_tokens=512, stop=" END")
+        print("Completed")
+        print(completion.choices[0].text)
         self._update_usage(completion.usage)
 
         clue, clue_words, explanations = self._parse_completion(completion.choices[0].text)

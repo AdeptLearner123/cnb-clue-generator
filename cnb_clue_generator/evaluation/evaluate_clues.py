@@ -8,8 +8,9 @@ import random
 def parse_args():
     parser = ArgumentParser()
     parser.add_argument("-f", "--file-name", type=str, required=True)
+    parser.add_argument("-b", "--boards-file", type=str, required=True)
     args = parser.parse_args()
-    return args.file_name
+    return args.file_name, args.boards_file
 
 
 def prompt_guess(words):
@@ -55,13 +56,13 @@ def get_guesses(board_id, boards, clue):
 
 
 def main():
-    file_name = parse_args()
+    file_name, boards_file = parse_args()
     file_path = os.path.join(GENERATED_CLUES, f"{file_name}.json")
 
     with open(file_path, "r") as file:
         board_clues = json.loads(file.read())        
 
-    with open(BOARDS, "r") as file:
+    with open(os.path.join(BOARDS, f"{boards_file}.json"), "r") as file:
         boards = json.loads(file.read())
 
     total_correct, total_incorrect = 0, 0

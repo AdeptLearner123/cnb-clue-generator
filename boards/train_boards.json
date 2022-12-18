@@ -1,0 +1,337 @@
+{
+    "3c59a915-b395-48de-8c52-9f4273a55b28": {
+        "pos": [
+            "PLATYPUS",
+            "SPINE",
+            "ICE",
+            "HORSESHOE",
+            "BUTTON",
+            "LINE",
+            "YARD",
+            "POLE",
+            "SHIP"
+        ],
+        "neg": [
+            "LAWYER",
+            "POUND",
+            "GRACE",
+            "TOOTH",
+            "BOW",
+            "NAIL",
+            "DEATH",
+            "CAPITAL"
+        ],
+        "clue": "MAST",
+        "clue_words": ["YARD", "POLE", "SHIP"],
+        "pos_explanations": {
+            "YARD": "YARD and MAST are related because a YARD is a spar slung across a MAST to hang a sail from.",
+            "POLE": "POLE and MAST are related because a MAST is a long, upright POLE on a ship to hang sails from.",
+            "SHIP": "MAST and SHIP are related because a MAST is a long post on a SHIP."   
+        },
+        "neg_explanations": {
+            "PLATYPUS": "PLATYPUS and MAST are not related. Although both PLATYPI and MAST are related to water in that PLATYPI are semiaquatic and often found in lakes and MASTS are found on ships which sail on water, this is a weak relation.",
+            "SPINE": "SPINE and MAST are not related. Although a SPINE and a MAST are both long and thin in shape, this is a weak relation.",
+            "ICE": "ICE and MAST are not related. Although both ICE and MAST are related to water in that ICE is frozen water and MASTS are found on ships which sail on water, this is a weak relation.",
+            "HORSESHOE": "HORSESHOE and MAST are not related. A HORSESHOE is an arched band of iron worn by horses, whereas a MAST is a tall post on a ship.",
+            "BUTTON": "BUTTON and MAST are not related. A BUTTON is a small knob worn on a garment, while a MAST is a tall post on a ship.",
+            "LINE": "LINE and MAST are not related. A LINE is a long, narrow mark or band, while MAST is a tall post on a ship.",
+            "LAWYER": "LAWYER and MAST are not related. A LAWYER is a person who practices law, whereas a MAST is a tall pole on a ship.",
+            "POUND": "POUND and MAST are not related. A POUND is a unit of measurement for weight, while a MAST is a tall pole on a ship.",
+            "GRACE": "GRACE and MAST are not related. GRACE describes elegance and refinement of movement, while a MAST is a tall pole on a ship.",
+            "TOOTH": "TOOTH and MAST are not related. TOOTH is a bony structure for biting and chewing, while a MAST is a tall pole on a ship.",
+            "BOW": "BOW and MAST are indirectly related because a BOW is the frontend of a ship, while a MAST is a tall pole on a ship.",
+            "NAIL": "NAIL and MAST are not related because a NAIL is a small metal spike while a MAST is a tall pole on a ship.",
+            "DEATH": "DEATH and MAST are not related because DEATH is the action or fact of DYING while a MAST is a tall pole on a ship.",
+            "CAPITAL": "CAPITAL and MAST are not related because CAPITAL is the seat of government in a country, while a MAST is a tall pole on a ship."
+        }
+    },
+    "e7d086d4-c276-418d-830c-05c2073a8ce9": {
+        "pos": [
+            "LOCK",
+            "ENGLAND",
+            "DRAGON",
+            "DOG",
+            "NURSE",
+            "KANGAROO",
+            "BED"
+        ],
+        "neg": [
+            "BRIDGE",
+            "MATCH",
+            "KETCHUP",
+            "CARROT",
+            "MOON",
+            "MAIL",
+            "WORM",
+            "PASTE",
+            "SCREEN",
+            "PRINCESS",
+            "PENGUIN",
+            "BELL",
+            "BOND",
+            "SPOT",
+            "DOCTOR",
+            "LAWYER"
+        ],
+        "clue": "FUR",
+        "clue_words": ["DOG", "KANGAROO"],
+        "pos_explanations": {
+            "DOG": "DOG and FUR are related because DOGS are domesticated mammals that have fur.",
+            "KANGAROO": "KANGAROO and FUR are related because KANGAROOS are mammals that have fur."
+        },
+        "neg_explanations": {
+            "LOCK": "LOCK and FUR are not related. A LOCK is a mechanism for locking, while FUR is short, fine hair on animals.",
+            "ENGLAND": "ENGLAND and FUR are not related. ENGLAND is an island country in europe, while FUR is short, fine hair on animals.",
+            "DRAGON": "DRAGON and FUR are not related. DRAGONS are depicted as being covered in scales rather than FUR.",
+            "NURSE": "NURSE and FUR are not relatd. A NURSE is a person who cares for the sick in a hospital, while FUR is short, fine hair on animals.",
+            "BED": "BED and FUR are not related. A BED is a piece of furniture for sleeping, while FUR is short, fine hair on animals.",
+            "BRIDGE": "BRIDGE and FUR are not related. A BRIDGE is a structure that carries a road across an obstacle, while FUR is short, fine hair on animals.",
+            "MATCH": "MATCH and FUR are not related. A MATCH is a contest in a sport, while FUR is short, fine hair on animals.",
+            "KETCHUP": "KETCHUP and FUR are not related. KETCHUP is a condiment, while FUR is short, fine hair on animals.",
+            "CARROT": "CARROT and FUR are not related. CARROT is a vegetable while FUR is short, fine hair on animals.",
+            "MOON": "MOON and FUR are not related. The MOON is Earth's satellite, while FUR is short, fine hair on animals.",
+            "MAIL": "MAIL and FUR are not related. MAIL refers to letters and packages, while FUR is short, fine hair on animals",
+            "WORM": "WORM and FUR are not related. WORMS are invertebrates that are slimy and do not possess FUR",
+            "PASTE": "PASTE and FUR are not related. PASTE is a thick substance while FUR is short, fine hair on animals.",
+            "SCREEN": "SCREEN and FUR are not related. A SCREEN is an electronic display while FUR is short, fine hair on animals.",
+            "PRINCESS": "PRINCESS and FUR are not related. A PRINCESS is a human and humans are not covered in FUR.",
+            "PENGUIN": "PENGUIN and FUR are not related. PENGUINS are covered in FEATHERS, not FUR.",
+            "BELL": "BELL and FUR are not related. A BELL is a hollow object, while FUR is short, fine hair on animals.",
+            "BOND": "BOND and FUR are not related. A BOND is a relationship between people, while FUR is short, fine hair on animals.",
+            "SPOT": "SPOT and FUR are not related. Although animals may have SPOTS on their FUR, this is a weak relation.",
+            "DOCTOR": "DOCTOR and FUR are not related. DOCTORS are humans and humans do not have FUR.",
+            "LAWYER": "LAWYER and FUR are not related. LAWYERS are humans and humans do not have FUR."
+        }
+    },
+    "11161f97-2a92-467c-bd91-0a62882db857": {
+        "pos": [
+            "WAVE",
+            "ROUND",
+            "REVOLUTION",
+            "WHIP"
+        ],
+        "neg": [
+            "CYCLE",
+            "AMERICA",
+            "OPERA",
+            "BOMB",
+            "COURT",
+            "BAR",
+            "SLIP",
+            "ALIEN",
+            "CENTER",
+            "BOND",
+            "TICK",
+            "HOLE"
+        ],
+        "clue": "SURGE",
+        "clue_words": ["WAVE", "REVOLUTION", "WHIP"],
+        "pos_explanations": {
+            "WAVE": "WAVE and SURGE are related because a SURGE is a sudden and powerful force, often used to describe WAVES.",
+            "REVOLUTION": "REVOLUTION and SURGE are related because SURGE can be used to describe a REVOLUTIONARY movement.",
+            "WHIP": "WHIP and SURGE are related because they both describe a sudden movement or force."
+        },
+        "neg_explanations": {
+            "ROUND": "ROUND and SURGE are not related because ROUND describes a circular object, while SURGE describes a sudden and powerful force.",
+            "AMERICA": "AMERICAN and SURGE are not related. AMERICA is a country in North America, while SURGE is a sudden and powerful force.",
+            "OPERA": "OPERA and SURGE are not related. OPERA is a dramatic performance accompanied by music, while SURGE is a sudden and powerful force.",
+            "BOMB": "BOMB and SURGE are not related. While BOMBS release powerful forces, SURGE is not usually used to describe BOMBS.",
+            "COURT": "COURT and SURGE are not related. COURT is a tribunal, while SURGE is a powerful force.",
+            "BAR": "BAR and SURGE are not related. A BAR is an establishment where alcoholic drinks are served, while SURGE is a powerful force.",
+            "SLIP": "SLIP and SURGE are not related. A SLIP is an unintentional slide, while SURGE is a powerful force.",
+            "ALIEN": "ALIEN and SURGE are not related. An ALIEN is an extraterrestrial being, while SURGE is a sudden and powerful force.",
+            "CENTER": "CENTER and SURGE are not related because CENTER refers to the middle of something while SURGE is a sudden force.",
+            "BOND": "BOND and SURGE are not related because a BOND is a relationship between people while SURGE is a sudden and powerful force.",
+            "TICK": "TICK and SURGE are not related because a TICK is a sound made by clocks while SURGE is a sudden and powerful force.",
+            "HOLE": "HOLE and SURGE are not related because a HOLE is a hollow part of a surface while SURGE is a sudden force."
+        }
+    },
+    "c781ff75-e28d-4825-97ac-e149a7203a2a": {
+        "pos": [
+            "GREEN"
+        ],
+        "neg": [
+            "PLATE",
+            "COURT",
+            "BOARD",
+            "TIE",
+            "SLIP",
+            "DWARF",
+            "SHIP",
+            "MAPLE",
+            "HOLE"
+        ],
+        "clue": "COLOR",
+        "clue_words": ["GREEN"],
+        "pos_explanations": {
+            "GREEN": "GREEN is related to COLOR because GREEN is a COLOR."
+        },
+        "neg_explanations": {
+            "PLATE": "PLATE and COLOR are unrelated because PLATE is a dish which has nothing to do with COLOR.",
+            "COURT": "COURT and COLOR are unrelated because COURT is a tribunal which has nothing to do with COLOR.",
+            "BOARD": "BOARD and COLOR are unrelated because a BOARD is a flat piece of wood which is unrelated to COLOR.",
+            "TIE": "TIE and COLOR are unrelated because a TIE is a piece of string which has nothing to do with COLOR.",
+            "SLIP": "SLIP and COLOR are unrelated because a SLIP is an unintentional slide which has nothing to do with COLOR.",
+            "DWARF": "DWARF and COLOR are unrelated because DWARVES are small mythical men which has nothing to do with COLOR.",
+            "SHIP": "SHIP and COLOR are unrelated because a SHIP is a boat which is unrelated to COLOR.",
+            "MAPLE": "MAPLE and COLOR are unrelated because a MAPLE is a tree which is unrelated to COLOR.",
+            "HOLE": "HOLE and COLOR are unrelated because a HOLE is a hollow part of a surface which is unrelated to COLOR."
+        }
+    },
+    "e944d74e-7836-4d2a-b24d-e03797657588": {
+        "pos": [
+            "BERMUDA",
+            "FOREST",
+            "STATE",
+            "STRING"
+        ],
+        "neg": [
+            "AMAZON",
+            "PARK",
+            "SKYSCRAPER",
+            "SATURN",
+            "MOUNT",
+            "VET",
+            "POINT",
+            "HEAD",
+            "EAGLE",
+            "FILE",
+            "WHALE",
+            "SHOT",
+            "TORCH",
+            "SPACE",
+            "SHARK"
+        ],
+        "clue": "COUNTRY",
+        "clue_words": ["BERMUDA", "STATE"],
+        "pos_explanations": {
+            "BERMUDA": "BERMUDA and COUNTRY are related because even though BERMUDA is considered a territory, it is administered as a self-governing COUNTRY",
+            "STATE": "STATE and COUNTRY are related because both STATE and COUNTRY refer to a self-governing nation."
+        },
+        "neg_explanations": {
+            "AMAZON": "AMAZON and COUNTRY are not related because AMAZON is a rainforest which is not a COUNTRY.",
+            "PARK": "PARK and COUNTRY are not related because a PARK is a public green area, which is not a COUNTRY.",
+            "SKYSCRAPER": "SKYSCRAPER and COUNTRY are not related because a SKYSCRAPER is a building, which is not a COUNTRY.",
+            "SATURN": "SATURN and COUNTRY are not related because SATURN is a planet, which is not a COUNTRY.",
+            "MOUNT": "MOUNT and COUNTRY are not related because a MOUNT refers to a mountain, which is not a COUNTRY.",
+            "VET": "VET and COUNTRY are not related because a VET is a veterinary surgeon, which is not a COUNTRY.",
+            "POINT": "POINT and COUNTRY are not related because a POINT is a sharp end, whereas a COUNTRY is a nation.",
+            "HEAD": "HEAD and COUNTRY might be related because COUNTRIES usually have a HEAD of state, but this is a weak relation.",
+            "EAGLE": "EAGLE and COUNTRY might be related because many COUNTRIES have EAGLES as their national symbol, but this is a weak relation.",
+            "FILE": "FILE and COUNTRY are not related because a FILE is a digital collection of data, while a COUNTRY is a nation.",
+            "WHALE": "WHALE and COUNTRY are not related because WHALES are marine animals while COUNTRY is a nation.",
+            "SHOT": "SHOT and COUNTRY are not related because a SHOT is a firing of a gun while COUNTRY is a nation.",
+            "TORCH": "TORCH and COUNTRY are not related because a TORCH is a portable means of illuminatino, while COUNTRY is a nation.",
+            "SPACE": "SPACE and COUNTRY are not related because while many COUNTRIES have SPACE programs, this is a weak relation.",
+            "SHARK": "SHARK and COUNTRY are not related because SHARKS are fish, while COUNTRIES are nations."
+        }
+    },
+    "ee01cfdf-ae1f-4638-8fd7-fee6d5333ca8": {
+        "pos": [
+            "PIRATE",
+            "PUMPKIN",
+            "DECK",
+            "JUPITER",
+            "TURKEY",
+            "BOLT",
+            "WASHINGTON",
+            "STREAM"
+        ],
+        "neg": [
+            "HOLE",
+            "SATELLITE",
+            "DUCK",
+            "PLANE",
+            "ORANGE",
+            "BAND",
+            "SATURN",
+            "CONTRACT",
+            "SCREEN",
+            "KETCHUP",
+            "POOL",
+            "GLASS",
+            "FIRE",
+            "BATTERY",
+            "COOK",
+            "TICK"
+        ],
+        "clue": "SHIP",
+        "clue_words": ["PIRATE, DECK"],
+        "pos_explanations": {
+            "PIRATE": "PIRATE and SHIP are related because PIRATES rob SHIPS at sea.",
+            "DECK": "DECK and SHIP are related because a DECK refers to the planks extending across a SHIP."
+        },
+        "neg_explanations": {
+            "PUMPKIN": "PUMPKIN and SHIP are not related because a PUMPKIN is a squash while a SHIP is a boat.",
+            "JUPITER": "JUPITER and SHIP are not related because JUPITER is a planet while SHIP is a boat.",
+            "TURKEY": "TURKEY and SHIP are not related because TURKEY is a bird while SHIP is a boat.",
+            "BOLT": "BOLT and SHIP are not related because a BOLT is a bar that fastens a door, while a SHIP is a boat.",
+            "WASHINGTON": "WASHINGTON and SHIP are not related because WASHINGTON was a founding father of the US while SHIP is a boat.",
+            "STREAM": "STREAM and SHIP might be related becaus a STREAM is a small river while a SHIP can sail on a river, but this is a weak relation.",
+            "HOLE": "HOLE and SHIP are unrelated because a HOLE is a hollow part of a surface while a SHIP is a boat.",
+            "SATELLITE": "SATELLITE and SHIP are not related because a SATELLITE is a body that orbits the Earth while a SHIP is a boat.",
+            "DUCK": "DUCK and SHIP are not related because a DUCK is a bird while a SHIP is a boat.",
+            "PLANE": "PLANE and SHIP might be related because they are both vehicles that transport people, but this is a weak relation.",
+            "ORANGE": "ORANGE and SHIP are not related because ORANGE is a color while SHIP is a boat.",
+            "BAND": "BAND and SHIP are not related because BAND is a musical ensemble while SHIP is a boat.",
+            "SATURN": "SATURN and SHIP are not related because SATURN is a planet while SHIP is a boat.",
+            "CONTRACT": "CONTRACT and SHIP are not related because a CONTRACT is a legal argreement while SHIP is a boat.",
+            "SCREEN": "SCREEN and SHIP are not related because a SCREEN is an electronic display while SHIP is a boat.",
+            "KETCHUP": "KETCHUP and SHIP are not related because KETCHUP is a condiment while SHIP is a boat.",
+            "POOL": "POOL and SHIP might be related because a POOL is a small area of water and SHIPS sail on water, but this is a weak relation.",
+            "GLASS": "GLASS and SHIP might be related because some SHIPS have windows that are made of GLASS, but this is a weak relation.",
+            "FIRE": "FIRE and SHIP are not related. FIRE is combustion while SHIP is a boat.",
+            "BATTERY": "BATTERY and SHIP are not related because a BATTERY is a container that stores electrical energy, while a SHIP is a boat.",
+            "COOK": "COOK and SHIP are not related because although SHIPS might have COOKS to feed the crew, this is a weak relation.",
+            "TICK": "TICK and SHIP are not related because TICK is a sound produced by clocks, while SHIP is a boat."
+        }
+    },
+    "ff0b0a66-95d8-45f1-9a14-3ba0d58fad8f": {
+        "pos": [
+            "KIWI",
+            "BELT",
+            "HOLE",
+            "BOW",
+            "QUEEN",
+            "FALL"
+        ],
+        "neg": [
+            "TRIANGLE",
+            "WELL",
+            "ROUND",
+            "AMERICA",
+            "DWARF",
+            "GERMANY",
+            "FIGURE",
+            "PISTOL",
+            "POLICE",
+            "DEATH",
+            "VET",
+            "DANCE"
+        ],
+        "clue": "SASH",
+        "clue_words": ["BELT", "QUEEN"],
+        "pos_explanations": {
+            "BELT": "BELT and SASH are related because both are loops that are worn around the body.",
+            "QUEEN": "QUEEN and SASH are related because QUEENS often wear SASHES to indicate their regal status."
+        },
+        "neg_explanations": {
+            "KIWI": "KIWI and SASH are not related because KIWI is a fruit while SASH is a piece of clothing.",
+            "HOLE": "HOLE and SASH are not related because HOLE is a hollow part of a surface while SASH is a piece of cloth.",
+            "BOW": "BOW and SASH are not related because BOW is a weapon while SASH is a piece of cloth.",
+            "FALL": "FALL and SASH are not related because FALL is a downward movement while SASH is a piece of CLOTH.",
+            "TRIANGLE": "TRIANGLE and SASH are not related because TRIANGLE is a geometric shape while SASH is a piece of cloth.",
+            "WELL": "WELL and SASH are not related because a WELL is a deep pit to obtain water and SASH is a piece of cloth.",
+            "ROUND": "ROUND and SASH are not related because ROUND describes a circular object while SASH is a piece of cloth.",
+            "AMERICA": "AMERICA and SASH are not related because AMERICA is a country in North America while SASH is a piece of cloth.",
+            "DWARF": "DWARF and SASH are not related because DWARF is a short mythical human-like creature while SASH is a piece of cloth.",
+            "GERMANY": "GERMANY and SASH are not related because GERMANY is a country in Europe while SASH is a piece of cloth.",
+            "FIGURE": "FIGURE and SASH are not related because a FIGURE is a number while a SASH is a loop of cloth.",
+            "PISTOL": "PISTOL and SASH are not related because a PISTOL is a weapon while a SASH is a loop of cloth.",
+            "POLICE": "POLICE and SASH are not related because POLICE is a law enforcement agency while SASH is a loop of cloth.",
+            "DEATH": "DEATH and SASH are not RELATED because DEATH is the act or fact of dying while SASH is a loop of cloth.",
+            "VET": "VET and SASH are not related because a VET is a veterinary surgeon while SASH is a loop of cloth.",
+            "DANCE": "DANCE and SASH are not related because DANCE is rhythmic movement while SASH is a loop of cloth."
+        }
+    }
+}
