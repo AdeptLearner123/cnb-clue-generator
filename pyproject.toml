@@ -9,6 +9,7 @@ packages = [{include = "cnb_clue_generator"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 openai = "^0.25.0"
+gensim = "^4.2.0"
 
 [tool.poetry.scripts]
 test-openai     = "tools.test_openai:main"

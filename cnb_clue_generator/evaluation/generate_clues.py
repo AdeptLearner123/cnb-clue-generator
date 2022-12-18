@@ -1,17 +1,20 @@
 from config import BOARDS, GENERATED_CLUES
-from cnb_clue_generator.clue_generator.gpt_clue_generator import GPTClueGenerator
+from cnb_clue_generator.utils.create_model import create_model
 
 from argparse import ArgumentParser
 import json
 import os
+import openai
 from tqdm import tqdm
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def parse_args():
     parser = ArgumentParser()
+    parser.add_argument("-m", "--model-name", type=str, required=True)
     parser.add_argument("-f", "--file-name", type=str, required=True)
-    parser.add_argument("-k", "--api-key", type=str, required=True)
     args = parser.parse_args()
-    return args.file_name, args.api_key
+    return args.file_name, args.model_name
 
 
 def read_generated_clues(file_path):
@@ -26,8 +29,8 @@ def read_generated_clues(file_path):
 
 
 def main():
-    file_name, api_key = parse_args()
-    clue_generator = GPTClueGenerator(api_key)
+    file_name, model_name = parse_args()
+    clue_generator = create_model(model_name)
     
     with open(BOARDS, "r") as file:
         boards = json.loads(file.read())
@@ -54,7 +57,7 @@ def main():
         with open(file_path, "w+") as file:
             file.write(json.dumps(generated_clues, indent=4))
     
-        print("Usage:", clue_generator.get_usage())
+        #print("Usage:", clue_generator.get_usage())
 
 
 if __name__ == "__main__":
