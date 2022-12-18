@@ -13,8 +13,9 @@ def parse_args():
     parser = ArgumentParser()
     parser.add_argument("-m", "--model-name", type=str, required=True)
     parser.add_argument("-f", "--file-name", type=str, required=True)
+    parser.add_argument("-b", "--boards-file", type=str, required=True)
     args = parser.parse_args()
-    return args.file_name, args.model_name
+    return args.file_name, args.boards_file, args.model_name
 
 
 def read_generated_clues(file_path):
@@ -29,10 +30,10 @@ def read_generated_clues(file_path):
 
 
 def main():
-    file_name, model_name = parse_args()
+    file_name, boards_file, model_name = parse_args()
     clue_generator = create_model(model_name)
     
-    with open(BOARDS, "r") as file:
+    with open(os.path.join(BOARDS, f"{boards_file}.json"), "r") as file:
         boards = json.loads(file.read())
     
     file_path = os.path.join(GENERATED_CLUES, f"{file_name}.json")

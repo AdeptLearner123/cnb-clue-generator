@@ -4,6 +4,8 @@ from tqdm import tqdm
 import gensim.downloader
 
 class VectorClueGenerator(ClueGeneratorBase):
+    MIN_SIMILARITY = 0.4
+    
     def __init__(self, model_name):
         self._keyed_vectors = gensim.downloader.load(model_name)
 
@@ -13,13 +15,13 @@ class VectorClueGenerator(ClueGeneratorBase):
         clue_sort_keys = dict()
 
         for clue in list(self._keyed_vectors.index_to_key):
-            if clue.upper() in pos_words:
+            if not self._is_valid_clue(clue, pos_words):
                 continue
 
-            max_neg_similarity = 0
+            similarity_threshold = self.MIN_SIMILARITY
 
             for neg_word in neg_words:
-                max_neg_similarity = max(max_neg_similarity, self._similarity(clue, neg_word))
+                similarity_threshold = max(similarity_threshold, self._similarity(clue, neg_word))
             
             clueable_pos_words = []
             pos_word_similarities = []
@@ -27,10 +29,7 @@ class VectorClueGenerator(ClueGeneratorBase):
             for pos_word in pos_words:
                 similarity = self._similarity(clue, pos_word)
 
-                if clue == "pet":
-                    print(pos_word, similarity, max_neg_similarity)
-
-                if similarity > max_neg_similarity:
+                if similarity > similarity_threshold:
                     clueable_pos_words.append(pos_word)
                     pos_word_similarities.append(similarity)
                     total_similarity += similarity
@@ -45,6 +44,10 @@ class VectorClueGenerator(ClueGeneratorBase):
         similarities = clue_pos_word_similarities[top_clue]
         explanations = [ f"{word} similarity: {round(similarity, 2)}" for word, similarity in zip(clue_words, similarities) ]
         return top_clue.upper(), clue_words, explanations
+
+
+    def _is_valid_clue(self, clue, pos_words):
+        return clue.upper() not in pos_words and "_" not in clue.upper() and "-" not in clue.upper() and not any([ pos_word in clue.upper() for pos_word in pos_words ])
 
 
     def _similarity(self, word1, word2):

@@ -1,0 +1,51 @@
+{
+    "db86e727-690f-45b1-a58f-19b66fe45a6e": {
+        "clue": "MEDICAL",
+        "clue_words": [
+            "HOSPITAL"
+        ],
+        "explanations": [
+            "HOSPITAL similarity: 0.6899999976158142"
+        ]
+    },
+    "cee43596-2930-4abd-8955-69754d192718": {
+        "clue": "NECK",
+        "clue_words": [
+            "KNIFE",
+            "CHEST"
+        ],
+        "explanations": [
+            "KNIFE similarity: 0.41999998688697815",
+            "CHEST similarity: 0.6499999761581421"
+        ]
+    },
+    "24fb8fc7-7e19-41ae-9786-32bed11a3075": {
+        "clue": "CRUDE",
+        "clue_words": [
+            "OIL"
+        ],
+        "explanations": [
+            "OIL similarity: 0.7200000286102295"
+        ]
+    },
+    "3dc8bce7-1660-4432-8106-624c6868f4a2": {
+        "clue": "WHOM",
+        "clue_words": [
+            "CAST",
+            "DEATH"
+        ],
+        "explanations": [
+            "CAST similarity: 0.4099999964237213",
+            "DEATH similarity: 0.4099999964237213"
+        ]
+    },
+    "e1710851-12e5-443c-9049-58cf44990cf4": {
+        "clue": "BACHELOR",
+        "clue_words": [
+            "DEGREE"
+        ],
+        "explanations": [
+            "DEGREE similarity: 0.7099999785423279"
+        ]
+    }
+}

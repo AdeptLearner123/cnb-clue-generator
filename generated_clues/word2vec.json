@@ -1,0 +1,492 @@
+{
+    "f3206084-b7d4-4b7c-b957-1b73e0ac5cd3": {
+        "clue": "JUDGE",
+        "clue_words": [
+            "LAWYER",
+            "COURT"
+        ],
+        "explanations": [
+            "LAWYER similarity: 0.5099999904632568",
+            "COURT similarity: 0.699999988079071"
+        ]
+    },
+    "bf47c8ce-84c9-4745-a1dc-5ec5a20387ba": {
+        "clue": "EAR",
+        "clue_words": [
+            "ARM",
+            "TOOTH"
+        ],
+        "explanations": [
+            "ARM similarity: 0.4099999964237213",
+            "TOOTH similarity: 0.44999998807907104"
+        ]
+    },
+    "eae4642d-71be-468a-9474-71071bb7b5c2": {
+        "clue": "SILICONE",
+        "clue_words": [
+            "PLASTIC"
+        ],
+        "explanations": [
+            "PLASTIC similarity: 0.6000000238418579"
+        ]
+    },
+    "f7d4b6b9-4232-4b47-b33f-964e97fd0039": {
+        "clue": "BIRDIE",
+        "clue_words": [
+            "EAGLE"
+        ],
+        "explanations": [
+            "EAGLE similarity: 0.6000000238418579"
+        ]
+    },
+    "96416393-d275-4412-9167-e74b11ce5e62": {
+        "clue": "PUPPY",
+        "clue_words": [
+            "DOG"
+        ],
+        "explanations": [
+            "DOG similarity: 0.8100000023841858"
+        ]
+    },
+    "3dc8bce7-1660-4432-8106-624c6868f4a2": {
+        "clue": "CATSUP",
+        "clue_words": [
+            "KETCHUP"
+        ],
+        "explanations": [
+            "KETCHUP similarity: 0.7300000190734863"
+        ]
+    },
+    "eb5e444c-addf-4bb5-8fbb-0635a77480aa": {
+        "clue": "VEHICLE",
+        "clue_words": [
+            "CAR"
+        ],
+        "explanations": [
+            "CAR similarity: 0.7799999713897705"
+        ]
+    },
+    "1c464fee-a49c-4ab9-99e0-b01a0d727d70": {
+        "clue": "BEYONCE",
+        "clue_words": [
+            "CHICK",
+            "TOKYO"
+        ],
+        "explanations": [
+            "CHICK similarity: 0.5",
+            "TOKYO similarity: 0.46000000834465027"
+        ]
+    },
+    "50e7fcf2-3866-4329-a826-5ce9f8c1d79c": {
+        "clue": "ACCIDENT",
+        "clue_words": [
+            "CRASH"
+        ],
+        "explanations": [
+            "CRASH similarity: 0.800000011920929"
+        ]
+    },
+    "d518a918-01e3-4d58-8873-a009f529409a": {
+        "clue": "TAMARACK",
+        "clue_words": [
+            "FOREST",
+            "MAPLE"
+        ],
+        "explanations": [
+            "FOREST similarity: 0.47999998927116394",
+            "MAPLE similarity: 0.550000011920929"
+        ]
+    },
+    "6446b480-dc7e-45be-a4dd-71f6704b3bac": {
+        "clue": "LAWNS",
+        "clue_words": [
+            "GRASS"
+        ],
+        "explanations": [
+            "GRASS similarity: 0.6100000143051147"
+        ]
+    },
+    "f3fd8c7d-0e7c-4bc4-9add-1b1a1e6994c9": {
+        "clue": "SURGED",
+        "clue_words": [
+            "ROSE"
+        ],
+        "explanations": [
+            "ROSE similarity: 0.8100000023841858"
+        ]
+    },
+    "ffbfe3ff-357a-457c-93c8-ac9eff0170a2": {
+        "clue": "BIRDIE",
+        "clue_words": [
+            "EAGLE"
+        ],
+        "explanations": [
+            "EAGLE similarity: 0.6000000238418579"
+        ]
+    },
+    "861837f9-f416-4ae2-9d36-f32f4d84d90f": {
+        "clue": "CREATURE",
+        "clue_words": [
+            "WHALE",
+            "DRAGON"
+        ],
+        "explanations": [
+            "WHALE similarity: 0.49000000953674316",
+            "DRAGON similarity: 0.5199999809265137"
+        ]
+    },
+    "58827891-5b7c-4311-a2a0-72c9e7037681": {
+        "clue": "THEATRICAL",
+        "clue_words": [
+            "THEATER",
+            "COMIC"
+        ],
+        "explanations": [
+            "THEATER similarity: 0.6299999952316284",
+            "COMIC similarity: 0.47999998927116394"
+        ]
+    },
+    "24fb8fc7-7e19-41ae-9786-32bed11a3075": {
+        "clue": "PETROLEUM",
+        "clue_words": [
+            "OIL"
+        ],
+        "explanations": [
+            "OIL similarity: 0.7699999809265137"
+        ]
+    },
+    "a2c36a8a-866e-43f8-a0cc-86926a6ff91c": {
+        "clue": "CRUCIAL",
+        "clue_words": [
+            "KEY"
+        ],
+        "explanations": [
+            "KEY similarity: 0.7599999904632568"
+        ]
+    },
+    "ec7eaeab-ca5d-4823-ae7e-ad297d20d72d": {
+        "clue": "SUBDUE",
+        "clue_words": [
+            "FORCE"
+        ],
+        "explanations": [
+            "FORCE similarity: 0.4000000059604645"
+        ]
+    },
+    "bcebf9cb-fd6b-46f3-b15c-702a1c680f3d": {
+        "clue": "CHILLY",
+        "clue_words": [
+            "COLD"
+        ],
+        "explanations": [
+            "COLD similarity: 0.6899999976158142"
+        ]
+    },
+    "bb14e54a-f005-40c1-919b-b37abad0bc92": {
+        "clue": "VIOLIN",
+        "clue_words": [
+            "PIANO"
+        ],
+        "explanations": [
+            "PIANO similarity: 0.8199999928474426"
+        ]
+    },
+    "99fbb769-8a25-4898-ac7d-4fa486b7ad41": {
+        "clue": "GYRFALCONS",
+        "clue_words": [
+            "WHALE",
+            "IVORY",
+            "EAGLE"
+        ],
+        "explanations": [
+            "WHALE similarity: 0.4000000059604645",
+            "IVORY similarity: 0.4099999964237213",
+            "EAGLE similarity: 0.4000000059604645"
+        ]
+    },
+    "e38486ab-c531-4934-8351-f4ced0822e34": {
+        "clue": "EELS",
+        "clue_words": [
+            "FISH",
+            "RABBIT"
+        ],
+        "explanations": [
+            "FISH similarity: 0.6899999976158142",
+            "RABBIT similarity: 0.4099999964237213"
+        ]
+    },
+    "8e4ca95c-41e1-43b8-87be-365ce7758b8b": {
+        "clue": "SURGE",
+        "clue_words": [
+            "WAVE"
+        ],
+        "explanations": [
+            "WAVE similarity: 0.5099999904632568"
+        ]
+    },
+    "b70f7500-10e6-4fed-84c9-e03724f6da39": {
+        "clue": "FERRY",
+        "clue_words": [
+            "BRIDGE",
+            "SHIP"
+        ],
+        "explanations": [
+            "BRIDGE similarity: 0.4300000071525574",
+            "SHIP similarity: 0.5099999904632568"
+        ]
+    },
+    "492e1591-6705-4994-9a5a-50d98ef65275": {
+        "clue": "MITT",
+        "clue_words": [
+            "GLOVE"
+        ],
+        "explanations": [
+            "GLOVE similarity: 0.6899999976158142"
+        ]
+    },
+    "1448cee9-5fe8-48b7-ac80-85242283d1e8": {
+        "clue": "FISH",
+        "clue_words": [
+            "WATER",
+            "WHALE"
+        ],
+        "explanations": [
+            "WATER similarity: 0.41999998688697815",
+            "WHALE similarity: 0.550000011920929"
+        ]
+    },
+    "35d0cc45-08bf-4e85-877d-ea9f33480bcc": {
+        "clue": "ELEMENTARY",
+        "clue_words": [
+            "SCHOOL"
+        ],
+        "explanations": [
+            "SCHOOL similarity: 0.7900000214576721"
+        ]
+    },
+    "8c100447-a726-4a9c-b9f7-c8ac8399a59b": {
+        "clue": "UNRUNG",
+        "clue_words": [
+            "BELL"
+        ],
+        "explanations": [
+            "BELL similarity: 0.5699999928474426"
+        ]
+    },
+    "71afef98-412c-4e19-9ab7-efa7876446c1": {
+        "clue": "MERCEDES",
+        "clue_words": [
+            "FRANCE",
+            "CAR"
+        ],
+        "explanations": [
+            "FRANCE similarity: 0.4300000071525574",
+            "CAR similarity: 0.4399999976158142"
+        ]
+    },
+    "bf3a7eb4-a051-45ec-aa80-0d26a0aa1b8f": {
+        "clue": "WILDLAND",
+        "clue_words": [
+            "FOREST",
+            "FIRE"
+        ],
+        "explanations": [
+            "FOREST similarity: 0.47999998927116394",
+            "FIRE similarity: 0.4699999988079071"
+        ]
+    },
+    "6f1ce884-5cb0-4059-9713-b242942cfdfb": {
+        "clue": "DROP",
+        "clue_words": [
+            "FALL"
+        ],
+        "explanations": [
+            "FALL similarity: 0.5899999737739563"
+        ]
+    },
+    "db86e727-690f-45b1-a58f-19b66fe45a6e": {
+        "clue": "HOPSITAL",
+        "clue_words": [
+            "HOSPITAL"
+        ],
+        "explanations": [
+            "HOSPITAL similarity: 0.7799999713897705"
+        ]
+    },
+    "81fba212-b4e4-4e37-9c59-b2104b4d259d": {
+        "clue": "SOMMER",
+        "clue_words": [
+            "ATLANTIS",
+            "MEXICO",
+            "AMAZON"
+        ],
+        "explanations": [
+            "ATLANTIS similarity: 0.5199999809265137",
+            "MEXICO similarity: 0.47999998927116394",
+            "AMAZON similarity: 0.4399999976158142"
+        ]
+    },
+    "cee43596-2930-4abd-8955-69754d192718": {
+        "clue": "ROBBER",
+        "clue_words": [
+            "KNIFE",
+            "THIEF"
+        ],
+        "explanations": [
+            "KNIFE similarity: 0.41999998688697815",
+            "THIEF similarity: 0.7400000095367432"
+        ]
+    },
+    "e1710851-12e5-443c-9049-58cf44990cf4": {
+        "clue": "LIVES",
+        "clue_words": [
+            "LIFE"
+        ],
+        "explanations": [
+            "LIFE similarity: 0.6000000238418579"
+        ]
+    },
+    "5c3576ba-239a-49a4-8107-0aa59ec0c2a2": {
+        "clue": "PORTUGAL",
+        "clue_words": [
+            "CZECH",
+            "GREECE"
+        ],
+        "explanations": [
+            "CZECH similarity: 0.550000011920929",
+            "GREECE similarity: 0.6499999761581421"
+        ]
+    },
+    "73508063-0732-455d-90a3-972a58da0260": {
+        "clue": "GAME",
+        "clue_words": [
+            "MATCH"
+        ],
+        "explanations": [
+            "MATCH similarity: 0.6499999761581421"
+        ]
+    },
+    "8808fdd2-4fe8-4b19-af6a-dbe70349a3be": {
+        "clue": "DOLPHIN",
+        "clue_words": [
+            "WHALE"
+        ],
+        "explanations": [
+            "WHALE similarity: 0.7699999809265137"
+        ]
+    },
+    "eae11fb7-e276-4038-a923-bd5c3e0fae84": {
+        "clue": "BISON",
+        "clue_words": [
+            "BUFFALO"
+        ],
+        "explanations": [
+            "BUFFALO similarity: 0.6399999856948853"
+        ]
+    },
+    "34611852-1810-4636-9576-ada40489ffa7": {
+        "clue": "ELEMENT",
+        "clue_words": [
+            "PART"
+        ],
+        "explanations": [
+            "PART similarity: 0.5"
+        ]
+    },
+    "994bf885-43f9-4924-9cfe-2f0a051c745e": {
+        "clue": "AFTERMATH",
+        "clue_words": [
+            "WAKE"
+        ],
+        "explanations": [
+            "WAKE similarity: 0.5699999928474426"
+        ]
+    },
+    "19f770e4-3679-42f9-9c31-599f72ced35a": {
+        "clue": "DOLPHIN",
+        "clue_words": [
+            "WHALE"
+        ],
+        "explanations": [
+            "WHALE similarity: 0.7699999809265137"
+        ]
+    },
+    "2f00f204-41f8-41cc-a2b2-835657c15730": {
+        "clue": "CREAMSICLE",
+        "clue_words": [
+            "KETCHUP",
+            "ORANGE"
+        ],
+        "explanations": [
+            "KETCHUP similarity: 0.46000000834465027",
+            "ORANGE similarity: 0.550000011920929"
+        ]
+    },
+    "fbd3ffc6-dcfe-4ebd-bfd0-f1863149381d": {
+        "clue": "SHAMROCK",
+        "clue_words": [
+            "LEPRECHAUN"
+        ],
+        "explanations": [
+            "LEPRECHAUN similarity: 0.5600000023841858"
+        ]
+    },
+    "04f50605-866c-4aad-b878-421bb0571718": {
+        "clue": "SERPENT",
+        "clue_words": [
+            "SCORPION",
+            "WITCH"
+        ],
+        "explanations": [
+            "SCORPION similarity: 0.6000000238418579",
+            "WITCH similarity: 0.46000000834465027"
+        ]
+    },
+    "8a15099b-77fc-4fde-8457-ed66dff2e1f0": {
+        "clue": "FLAME",
+        "clue_words": [
+            "TORCH"
+        ],
+        "explanations": [
+            "TORCH similarity: 0.6700000166893005"
+        ]
+    },
+    "25c9f136-6b18-4558-b160-2507b8b1117f": {
+        "clue": "SLEET",
+        "clue_words": [
+            "SNOW"
+        ],
+        "explanations": [
+            "SNOW similarity: 0.6800000071525574"
+        ]
+    },
+    "3468489d-65a8-4f25-acb2-9f5846c6da11": {
+        "clue": "SWIMMING",
+        "clue_words": [
+            "POOL"
+        ],
+        "explanations": [
+            "POOL similarity: 0.4699999988079071"
+        ]
+    },
+    "baa64959-9faf-446c-8e94-dafc5e4a3740": {
+        "clue": "WWW.INGFUNDS.COM",
+        "clue_words": [
+            "LOG"
+        ],
+        "explanations": [
+            "LOG similarity: 0.6800000071525574"
+        ]
+    },
+    "cdcce028-74fe-4ebc-a32d-b3f25d3a2349": {
+        "clue": "DUOMO",
+        "clue_words": [
+            "OPERA",
+            "MARBLE"
+        ],
+        "explanations": [
+            "OPERA similarity: 0.4000000059604645",
+            "MARBLE similarity: 0.44999998807907104"
+        ]
+    }
+}
