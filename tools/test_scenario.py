@@ -10,7 +10,7 @@ def parse_args():
     parser = ArgumentParser()
     parser.add_argument("-m","--model-name", required=True)
     parser.add_argument("-p","--positive", nargs="+", required=True)
-    parser.add_argument("-n","--negative", nargs="+", required=True)
+    parser.add_argument("-n","--negative", nargs="*", required=True)
     args = parser.parse_args()
     return args.positive, args.negative, args.model_name
 
@@ -26,8 +26,7 @@ def main():
     print("Explanations:")
     print("\n".join(explanations))
 
-    #print()
-    #print("Usage:", clue_generator.get_usage())
+    clue_generator.print_usage()
 
 
 if __name__ == "__main__":

@@ -1,0 +1,29 @@
+{
+    "pos": ["DOG", "CAT"],
+    "neg": [],
+    "proposals": [
+        {
+            "pos": ["CAT"],
+            "neg": [],
+            "clue": "FELINE"
+        },
+        {
+            "pos": ["DOG"],
+            "neg": [],
+            "clue": "CANINE"
+        },
+        {
+            "pos": ["CAT", "DOG"],
+            "neg": [],
+            "clue": "PET"
+        }
+    ],
+    "relations": [
+        [ "DOG", "CANINE" ],
+        [ "CAT", "FELINE" ],
+        [ "DOG", "PET" ],
+        [ "CAT", "PET" ]
+    ],
+    "clue": "PET",
+    "clue_words": ["DOG", "CAT"]
+}

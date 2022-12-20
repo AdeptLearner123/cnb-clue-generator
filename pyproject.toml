@@ -20,6 +20,9 @@ generate-clues  = "cnb_clue_generator.evaluation.generate_clues:main"
 evaluate-clues  = "cnb_clue_generator.evaluation.evaluate_clues:main"
 prepare-train-data  = "cnb_clue_generator.fine_tuned_model.prepare_train_data:main"
 
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.2.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"

@@ -5,7 +5,8 @@ import gensim.downloader
 
 class VectorClueGenerator(ClueGeneratorBase):
     MIN_SIMILARITY = 0.4
-    
+    NEG_BUFFER = 0.1
+
     def __init__(self, model_name):
         self._keyed_vectors = gensim.downloader.load(model_name)
 
@@ -21,7 +22,7 @@ class VectorClueGenerator(ClueGeneratorBase):
             similarity_threshold = self.MIN_SIMILARITY
 
             for neg_word in neg_words:
-                similarity_threshold = max(similarity_threshold, self._similarity(clue, neg_word))
+                similarity_threshold = max(similarity_threshold, self._similarity(clue, neg_word) + self.NEG_BUFFER)
             
             clueable_pos_words = []
             pos_word_similarities = []

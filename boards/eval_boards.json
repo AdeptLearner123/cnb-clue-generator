@@ -19,6 +19,12 @@
             "PIECE": [
                 "PART",
                 "SPIKE"
+            ],
+            "ELEMENT": [
+                "PART"
+            ],
+            "WHICH": [
+                "PART"
             ]
         }
     },
@@ -49,6 +55,15 @@
             "SEASON": [
                 "FALL",
                 "MARCH"
+            ],
+            "DROP": [
+                "FALL",
+                "SWING"
+            ],
+            "MOONS": [
+                "JUPITER",
+                "LIGHT",
+                "SHOT"
             ]
         }
     },
@@ -77,6 +92,10 @@
             "VEHICLE": [
                 "CAR",
                 "BOARD"
+            ],
+            "YOU": [],
+            "PUT": [
+                "COVER"
             ]
         }
     },
@@ -104,6 +123,15 @@
                 "MATCH",
                 "GLASS",
                 "CROSS"
+            ],
+            "SERPENT": [
+                "SCORPION",
+                "GRASS"
+            ],
+            "TOURNAMENT": [
+                "MATCH",
+                "TIE",
+                "BOX"
             ]
         }
     },
@@ -134,6 +162,10 @@
             "MUSIC": [
                 "BEAT",
                 "OPERA"
+            ],
+            "DUOMO": [],
+            "GRANITE": [
+                "MARBLE"
             ]
         }
     },
@@ -163,6 +195,17 @@
             "STRENGTH": [
                 "ARM",
                 "LION"
+            ],
+            "EAR": [
+                "HEAD",
+                "TOOTH",
+                "ARM",
+                "LION"
+            ],
+            "RED": [
+                "ORANGE",
+                "CROSS",
+                "CANADA"
             ]
         }
     },
@@ -192,6 +235,13 @@
             "SCHOOL": [
                 "FISH",
                 "DEGREE"
+            ],
+            "LIVES": [
+                "LIFE",
+                "STOCK"
+            ],
+            "BACHELOR": [
+                "DEGREE"
             ]
         }
     },
@@ -219,6 +269,16 @@
                 "WAVE",
                 "SHIP",
                 "TAP"
+            ],
+            "SURGE": [
+                "WAVE",
+                "SWING",
+                "SHIP"
+            ],
+            "TIDAL": [
+                "WAVE",
+                "SHIP",
+                "SWING"
             ]
         }
     },
@@ -241,6 +301,14 @@
                 "FORCE",
                 "SUPERHERO",
                 "CHURCH"
+            ],
+            "SUBDUE": [
+                "FORCE",
+                "SOUND",
+                "SUPERHERO"
+            ],
+            "MILITARY": [
+                "FORCE"
             ]
         }
     },
@@ -277,6 +345,13 @@
                 "PARACHUTE",
                 "SHOT",
                 "LIGHT"
+            ],
+            "DOLPHIN": [
+                "WHALE",
+                "HEAD"
+            ],
+            "MEXICAN": [
+                "MEXICO"
             ]
         }
     },
@@ -298,6 +373,14 @@
         "guesses": {
             "FLOWER": [
                 "ROSE"
+            ],
+            "SURGED": [
+                "CRASH",
+                "SHIP",
+                "ROSE"
+            ],
+            "FELL": [
+                "CRASH"
             ]
         }
     },
@@ -320,6 +403,11 @@
         "guesses": {
             "IMPACT": [
                 "CRASH",
+                "STATE"
+            ],
+            "ACCIDENT": [
+                "CRASH",
+                "BED",
                 "STATE"
             ]
         }
@@ -357,6 +445,10 @@
                 "KNIGHT",
                 "PHOENIX",
                 "LEPRECHAUN"
+            ],
+            "FERRY": [
+                "SHIP",
+                "BRIDGE"
             ]
         }
     },
@@ -395,6 +487,15 @@
                 "WATCH",
                 "ARM",
                 "CHEST"
+            ],
+            "CREATURE": [
+                "WHALE",
+                "SLUG",
+                "DRAGON",
+                "CRICKET"
+            ],
+            "HUMPBACK": [
+                "WHALE"
             ]
         }
     },
@@ -417,6 +518,12 @@
         "guesses": {
             "GREEN": [
                 "GRASS",
+                "LINK"
+            ],
+            "LAWNS": [
+                "GRASS"
+            ],
+            "CONNECTION": [
                 "LINK"
             ]
         }
@@ -445,6 +552,13 @@
                 "LEPRECHAUN",
                 "KNIGHT",
                 "EAGLE"
+            ],
+            "BIRDIE": [
+                "EAGLE",
+                "CAT"
+            ],
+            "BRAIN": [
+                "HEART"
             ]
         }
     },
@@ -478,6 +592,14 @@
                 "GREECE",
                 "PLATE",
                 "ROOT"
+            ],
+            "DOLPHIN": [
+                "WHALE",
+                "PLATYPUS",
+                "KANGAROO"
+            ],
+            "HUMPBACK": [
+                "WHALE"
             ]
         }
     },
@@ -508,6 +630,14 @@
             "TREE": [
                 "FOREST",
                 "MAPLE"
+            ],
+            "TAMARACK": [
+                "FOREST",
+                "MAPLE"
+            ],
+            "PINE": [
+                "FOREST",
+                "MAPLE"
             ]
         }
     },
@@ -531,6 +661,12 @@
             "FLY": [
                 "EAGLE",
                 "CHICK"
+            ],
+            "GAME": [
+                "MATCH"
+            ],
+            "TOURNAMENT": [
+                "MATCH"
             ]
         }
     },
@@ -563,6 +699,16 @@
                 "COMIC",
                 "REVOLUTION",
                 "PIRATE"
+            ],
+            "THEATRICAL": [
+                "THEATER",
+                "SHAKESPEARE",
+                "COMIC",
+                "PIRATE"
+            ],
+            "THEATRE": [
+                "THEATER",
+                "SHAKESPEARE"
             ]
         }
     },
@@ -591,6 +737,11 @@
                 "POOL",
                 "SHARK",
                 "HOLE"
+            ],
+            "SWIMMING": [
+                "POOL",
+                "SHARK",
+                "FOOT"
             ]
         }
     },
@@ -613,6 +764,14 @@
             "CAMPANILE": [
                 "BELL",
                 "PITCH"
+            ],
+            "UNRUNG": [
+                "BELL",
+                "PITCH"
+            ],
+            "INNING": [
+                "PITCH",
+                "AMERICA"
             ]
         }
     },
@@ -645,6 +804,16 @@
                 "BUFFALO",
                 "SQUARE",
                 "GREECE"
+            ],
+            "BEYONCE": [
+                "SOUND",
+                "THEATER",
+                "CHICK"
+            ],
+            "COME": [],
+            "SAMMICH": [
+                "HAM",
+                "ENGLAND"
             ]
         }
     },
@@ -676,7 +845,12 @@
             "BIRD": [
                 "EAGLE",
                 "SPINE"
-            ]
+            ],
+            "GYRFALCONS": [
+                "EAGLE",
+                "STRIKE"
+            ],
+            "BOTH": []
         }
     },
     "25c9f136-6b18-4558-b160-2507b8b1117f": {
@@ -706,6 +880,15 @@
             "COLD": [
                 "ICE CREAM",
                 "SNOW"
+            ],
+            "SLEET": [
+                "SNOW",
+                "ICE CREAM",
+                "DROP"
+            ],
+            "RAIN": [
+                "SNOW",
+                "DROP"
             ]
         }
     },
@@ -738,6 +921,16 @@
                 "SPINE",
                 "TAIL",
                 "CHAIR"
+            ],
+            "CHILLY": [
+                "COLD"
+            ],
+            "WATER": [
+                "STREAM",
+                "PIRATE"
+            ],
+            "FLOWS": [
+                "STREAM"
             ]
         }
     },
@@ -759,6 +952,9 @@
         "guesses": {
             "TOWER": [
                 "SKYSCRAPER"
+            ],
+            "VIOLIN": [
+                "PIANO"
             ]
         }
     },
@@ -783,6 +979,11 @@
                 "HONEY",
                 "LOG",
                 "MOUTH"
+            ],
+            "WWW.INGFUNDS.COM": [],
+            "SYRUP": [
+                "HONEY",
+                "BOTTLE"
             ]
         }
     },
@@ -809,6 +1010,13 @@
                 "JET",
                 "EAGLE",
                 "SHOT"
+            ],
+            "BIRDIE": [
+                "EAGLE",
+                "SHOT"
+            ],
+            "BALD": [
+                "EAGLE"
             ]
         }
     },
@@ -837,6 +1045,15 @@
             "CLOTH": [
                 "BELT",
                 "COLD"
+            ],
+            "CREAMSICLE": [
+                "ORANGE",
+                "COLD"
+            ],
+            "JUICE": [
+                "ORANGE",
+                "COLD",
+                "KETCHUP"
             ]
         }
     },
@@ -869,6 +1086,13 @@
             "FUR": [
                 "BEAR",
                 "COLD"
+            ],
+            "MITT": [
+                "GLOVE"
+            ],
+            "WARM": [
+                "COLD",
+                "STAR"
             ]
         }
     },
@@ -900,6 +1124,11 @@
                 "KEY",
                 "KID",
                 "CAP"
+            ],
+            "CRUCIAL": [
+                "KEY",
+                "SPINE",
+                "BATTERY"
             ]
         }
     },
@@ -927,6 +1156,12 @@
         ],
         "guesses": {
             "VEGETABLE": [
+                "CARROT"
+            ],
+            "AFTERMATH": [
+                "WAKE"
+            ],
+            "CELERY": [
                 "CARROT"
             ]
         }
@@ -957,6 +1192,10 @@
                 "TORCH",
                 "OIL",
                 "SOLDIER"
+            ],
+            "FLAME": [
+                "TORCH",
+                "OIL"
             ]
         }
     },
@@ -985,6 +1224,14 @@
                 "BUFFALO",
                 "ORGAN",
                 "TRAIN"
+            ],
+            "BISON": [
+                "BUFFALO"
+            ],
+            "'LL": [],
+            "KEEP": [
+                "STOCK",
+                "WATCH"
             ]
         }
     },
@@ -1012,6 +1259,13 @@
                 "SPIKE",
                 "TABLE",
                 "CONTRACT"
+            ],
+            "PETROLEUM": [
+                "OIL",
+                "CONTRACT"
+            ],
+            "CRUDE": [
+                "OIL"
             ]
         }
     },
@@ -1040,6 +1294,12 @@
         "guesses": {
             "IRISH": [
                 "LEPRECHAUN"
+            ],
+            "SHAMROCK": [
+                "LEPRECHAUN"
+            ],
+            "MOSH": [
+                "PIT"
             ]
         }
     },
@@ -1071,6 +1331,11 @@
                 "FIGHTER",
                 "SOLDIER",
                 "FLY"
+            ],
+            "FISH": [
+                "WATER",
+                "WHALE",
+                "STOCK"
             ]
         }
     },
@@ -1102,6 +1367,11 @@
                 "COOK",
                 "PUPIL",
                 "SPY"
+            ],
+            "JUDGE": [
+                "COURT",
+                "LAWYER",
+                "CONTRACT"
             ]
         }
     },
@@ -1131,6 +1401,14 @@
             "LOCK": [
                 "KEY",
                 "FOOT"
+            ],
+            "ELEMENTARY": [
+                "SCHOOL"
+            ],
+            "THE": [],
+            "PRIMARY": [
+                "KEY",
+                "SCHOOL"
             ]
         }
     },
@@ -1164,7 +1442,9 @@
                 "FOREST",
                 "AMAZON",
                 "MEXICO"
-            ]
+            ],
+            "SOMMER": [],
+            "DREAMCAST": []
         }
     },
     "db86e727-690f-45b1-a58f-19b66fe45a6e": {
@@ -1191,6 +1471,13 @@
                 "MOON",
                 "SNOW",
                 "BOMB"
+            ],
+            "HOPSITAL": [
+                "HOSPITAL"
+            ],
+            "MEDICAL": [
+                "HOSPITAL",
+                "TABLE"
             ]
         }
     },
@@ -1218,6 +1505,9 @@
         ],
         "guesses": {
             "VEHICLE": [
+                "CAR"
+            ],
+            "MERCEDES": [
                 "CAR"
             ]
         }
@@ -1249,6 +1539,15 @@
         "guesses": {
             "STEAL": [
                 "THIEF"
+            ],
+            "ROBBER": [
+                "THIEF",
+                "KNIFE"
+            ],
+            "NECK": [
+                "CHEST",
+                "TUBE",
+                "AIR"
             ]
         }
     },
@@ -1286,6 +1585,14 @@
                 "GERMANY",
                 "BERMUDA",
                 "BAND"
+            ],
+            "EELS": [
+                "FISH",
+                "LINE"
+            ],
+            "ALBUM": [
+                "BAND",
+                "SOUL"
             ]
         }
     },
@@ -1324,7 +1631,17 @@
                 "DOG",
                 "WORM",
                 "SLUG"
-            ]
+            ],
+            "PUPPY": [
+                "DOG",
+                "HEART"
+            ],
+            "WAY": [
+                "POINT",
+                "FAIR",
+                "FORK"
+            ],
+            "ONE": []
         }
     },
     "bf3a7eb4-a051-45ec-aa80-0d26a0aa1b8f": {
@@ -1359,6 +1676,16 @@
                 "AZTEC",
                 "POOL",
                 "LOG"
+            ],
+            "WILDLAND": [
+                "FOREST",
+                "ANTARCTICA",
+                "LOG"
+            ],
+            "AREA": [
+                "PLAY",
+                "FOREST",
+                "POOL"
             ]
         }
     },
@@ -1392,6 +1719,16 @@
                 "SCUBA DIVER",
                 "SHOP",
                 "PYRAMID"
+            ],
+            "PORTUGAL": [
+                "GREECE",
+                "CZECH",
+                "BERLIN"
+            ],
+            "BULGARIA": [
+                "CZECH",
+                "GREECE",
+                "BERLIN"
             ]
         }
     },
@@ -1411,6 +1748,12 @@
         ],
         "guesses": {
             "MOLD": [
+                "PLASTIC"
+            ],
+            "SILICONE": [
+                "PLASTIC"
+            ],
+            "BAGS": [
                 "PLASTIC"
             ]
         }
@@ -1451,6 +1794,19 @@
                 "SOUL",
                 "HEART",
                 "INDIA"
+            ],
+            "CATSUP": [
+                "KETCHUP",
+                "STOCK"
+            ],
+            "WHOM": [
+                "SOUL",
+                "THIEF"
+            ],
+            "DIED": [
+                "DEATH",
+                "SOUL",
+                "WAR"
             ]
         }
     }

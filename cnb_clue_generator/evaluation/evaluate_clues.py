@@ -40,7 +40,7 @@ def prompt_guesses(board, clue):
     return guesses
 
 
-def get_guesses(board_id, boards, clue):
+def get_guesses(board_id, boards, clue, boards_path):
     board = boards[board_id]
 
     if "guesses" not in board:
@@ -49,7 +49,7 @@ def get_guesses(board_id, boards, clue):
     if clue not in board["guesses"]:
         board["guesses"][clue] = prompt_guesses(board, clue)
 
-        with open(BOARDS, "w") as file:
+        with open(boards_path, "w") as file:
             file.write(json.dumps(boards, indent=4))
     
     return board["guesses"][clue]
@@ -62,7 +62,8 @@ def main():
     with open(file_path, "r") as file:
         board_clues = json.loads(file.read())        
 
-    with open(os.path.join(BOARDS, f"{boards_file}.json"), "r") as file:
+    boards_path = os.path.join(BOARDS, f"{boards_file}.json")
+    with open(boards_path, "r") as file:
         boards = json.loads(file.read())
 
     total_correct, total_incorrect = 0, 0
@@ -73,7 +74,7 @@ def main():
         clue = board_clue["clue"]
         clue_words = board_clue["clue_words"]
 
-        all_clue_guesses = get_guesses(board_id, boards, clue)
+        all_clue_guesses = get_guesses(board_id, boards, clue, boards_path)
         clue_guesses = all_clue_guesses[:len(clue_words)]
         
         correct = len(set(clue_words).intersection(set(clue_guesses)))

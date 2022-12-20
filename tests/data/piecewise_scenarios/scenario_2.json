@@ -1,0 +1,62 @@
+{
+    "pos": ["DOG", "FROG", "SPIDER"],
+    "neg": ["OCTOPUS"],
+    "clue": "VERTEBRATE",
+    "clue_words": ["DOG", "FROG"],
+    "proposals": [
+        {
+            "pos": ["DOG"],
+            "neg": [],
+            "clue": "CANINE"
+        },
+        {
+            "pos": ["FROG"],
+            "neg": [],
+            "clue": "AMPHIBEAN"
+        },
+        {
+            "pos": ["SPIDER"],
+            "neg": [],
+            "clue": "ARACHNID"
+        },
+        {
+            "pos": ["DOG", "FROG"],
+            "neg": [],
+            "clue": "ANIMAL"
+        },
+        {
+            "pos": ["DOG", "SPIDER"],
+            "neg": [],
+            "clue": "CRAWL"
+        },
+        {
+            "pos": ["FROG", "SPIDER"],
+            "neg": [],
+            "clue": "ANIMAL"
+        },
+        {
+            "pos": ["DOG", "FROG", "SPIDER"],
+            "neg": [],
+            "clue": "ANIMAL"
+        },
+        {
+            "pos": ["DOG", "FROG"],
+            "neg": ["OCTOPUS"],
+            "clue": "VERTEBRATE"
+        }
+    ],
+    "relations": [
+        [ "DOG", "CANINE" ],
+        [ "FROG", "AMPHIBEAN" ],
+        [ "SPIDER", "ARACHNID" ],
+        [ "DOG", "ANIMAL" ],
+        [ "DOG", "CRAWL" ],
+        [ "DOG", "VERTEBRATE" ],
+        [ "FROG", "ANIMAL" ],
+        [ "FROG", "VERTEBRATE" ],
+        [ "SPIDER", "ANIMAL" ],
+        [ "SPIDER", "CRAWL" ],
+        [ "OCTOPUS", "ANIMAL" ],
+        [ "OCTOPUS", "CRAWL" ]
+    ]
+}
