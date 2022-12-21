@@ -2,10 +2,8 @@ from config import FEW_SHOT_PROMPT
 from cnb_clue_generator.utils.gpt_completion_model import GPTCompletionModel
 from .clue_generator_base import ClueGeneratorBase
 
-import openai
 
 class GPTFewShotClueGenerator(ClueGeneratorBase, GPTCompletionModel):
-    FEW_SHOT_PROMPT = "Give a single-word clue that links to as many of the positive words as possible, while avoiding the negative words and list which positive words it is linked with. Explain why each positive word is related."
 
     def __init__(self):
         super().__init__()

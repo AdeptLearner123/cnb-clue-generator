@@ -1,0 +1,11 @@
+answers: nut, bark
+clue: tree
+
+answers: trick, spells, wizard, enchanted, mystic
+clue: magic
+
+answers: football, soccer, rugby, tennis
+clue: sport
+
+answers: yarn, shoe, knit, stocking
+clue: sock

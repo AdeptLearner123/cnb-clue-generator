@@ -1,0 +1,563 @@
+{
+    "94c0ca63-1eec-40fa-bb97-0f4b8d3ec114": {
+        "clue": "TIP",
+        "clue_words": [
+            "POINT",
+            "ROOT"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "74778bc1-5c84-438a-a633-4a97e80d7448": {
+        "clue": "CHAIR",
+        "clue_words": [
+            "TABLE",
+            "COLD"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "a2df7a71-1f20-445d-a279-1dd328f04ec0": {
+        "clue": "SKIN",
+        "clue_words": [
+            "SCALE",
+            "MOLE"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "126a16cc-63e8-4c76-bba3-3af8950f8d4f": {
+        "clue": "CHESS",
+        "clue_words": [
+            "MINE",
+            "KNIGHT"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "392e9aa2-bf54-43d6-99d9-153474f0bcd0": {
+        "clue": "BREED",
+        "clue_words": [
+            "CROSS",
+            "MAMMOTH"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "06d6adc4-ff20-4f0b-9139-127d4224ad1c": {
+        "clue": "SHARP",
+        "clue_words": [
+            "NOTE",
+            "NAIL"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "70f50fa5-1c31-46e7-bd04-a019b8ca09c9": {
+        "clue": "APPLE",
+        "clue_words": [
+            "GREEN",
+            "WASHINGTON"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "91e1c75c-bab5-4dd5-9132-1f8ac25d4b88": {
+        "clue": "PYRAMID",
+        "clue_words": [
+            "EGYPT",
+            "FORCE"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "2aeb0047-3d20-4572-b378-692f1623d4b4": {
+        "clue": "SHAPE",
+        "clue_words": [
+            "PUMPKIN",
+            "ROUND"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "b120ddc1-3eb4-4141-8da0-e7217b2adc8e": {
+        "clue": "WIZARD",
+        "clue_words": [
+            "CLOAK",
+            "ARM"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "4a17b01c-370b-4926-9964-6465d7e205f5": {
+        "clue": "AMPHITHEATER",
+        "clue_words": [
+            "STADIUM",
+            "WELL"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "e437e241-c1c6-47b9-aeef-a170ee88ed0e": {
+        "clue": "PICNIC",
+        "clue_words": [
+            "PARK",
+            "DAY"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "2c6d7552-eaa5-4d24-8ab3-bdbaccf8c8c3": {
+        "clue": "EAGLE",
+        "clue_words": [
+            "AMERICA",
+            "DRILL"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "be248de1-7d8e-44c1-bcb7-3f0dd10ce291": {
+        "clue": "CHURCH",
+        "clue_words": [
+            "MASS",
+            "COURT"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "e5c3f437-18dd-486d-aa1d-a862a8b7e3ed": {
+        "clue": "ENGLAND",
+        "clue_words": [
+            "CHURCH",
+            "LONDON"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "d9eb5975-dcf9-4ad5-b698-803ac6b8ea0b": {
+        "clue": "CHINA",
+        "clue_words": [
+            "BEIJING",
+            "BACK"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "1162758b-6499-4bea-8f92-2715ae95e523": {
+        "clue": "PUPPET",
+        "clue_words": [
+            "SOCK",
+            "FIGURE"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "21c21657-d546-4fac-a367-d2baa6d1eee5": {
+        "clue": "FISH",
+        "clue_words": [
+            "SHARK",
+            "SHOP"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "f543cf47-39cb-4aed-b14e-88b1c9d5ff71": {
+        "clue": "MOON",
+        "clue_words": [
+            "JUPITER",
+            "BUTTON"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "6fd0bf25-cb58-459c-beb6-ca1b8626d736": {
+        "clue": "FAIRY TALE",
+        "clue_words": [
+            "GIANT",
+            "CZECH"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "ef9980d8-5279-4e4a-a029-0f9386b740d7": {
+        "clue": "SNOW WHITE",
+        "clue_words": [
+            "DWARF",
+            "BUTTON"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "94ad0fb6-3e1a-42fc-a650-3d3361c0d6dc": {
+        "clue": "FRUIT",
+        "clue_words": [
+            "NUT",
+            "BERRY"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "e3e01755-1338-42cf-b940-516050ad517c": {
+        "clue": "BADMINTON",
+        "clue_words": [
+            "RACKET",
+            "LITTER"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "3efea504-126b-4c74-b29a-7838be30c3ee": {
+        "clue": "TIMEPIECE",
+        "clue_words": [
+            "SATURN",
+            "WATCH"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "af114002-dd42-419b-b36e-6db7ce7b16ce": {
+        "clue": "POST",
+        "clue_words": [
+            "MAIL",
+            "ANGEL"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "3a8b4a75-b25f-445c-88cb-0ec7da8b56c9": {
+        "clue": "INSTRUMENT",
+        "clue_words": [
+            "LEMON",
+            "HORN"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "01f3978e-84de-4888-b8e2-f06cf98e85d4": {
+        "clue": "TUXEDO",
+        "clue_words": [
+            "POINT",
+            "PENGUIN"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "214595fa-a363-4733-bd01-126f38aa200c": {
+        "clue": "PREDATOR",
+        "clue_words": [
+            "THIEF",
+            "SHARK"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "651b7981-bbe4-456f-8155-94a1c85ed041": {
+        "clue": "FENCE",
+        "clue_words": [
+            "WALL",
+            "IRON"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "4e519ef2-8d0e-425c-85b1-c2b980e7c011": {
+        "clue": "REPUBLIC",
+        "clue_words": [
+            "CZECH",
+            "VET"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "6ae333a6-d175-428c-9b09-22daddac9eea": {
+        "clue": "FAIRY TALE",
+        "clue_words": [
+            "HONEY",
+            "WITCH"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "c2850304-623e-4fec-9b6d-f7bb99e568bb": {
+        "clue": "EYE",
+        "clue_words": [
+            "ROCK",
+            "PUPIL"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "6da0a554-1c40-4156-86bb-50dbaaef9bdf": {
+        "clue": "LAUGHTER",
+        "clue_words": [
+            "KID",
+            "SOUND"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "6e120b41-849a-4015-95d7-965eff588943": {
+        "clue": "FISHING",
+        "clue_words": [
+            "CAST",
+            "WATER"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "5dd0ac69-1361-42c4-a7d6-e9f84c37bc35": {
+        "clue": "HAMMER",
+        "clue_words": [
+            "NAIL",
+            "CONCERT"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "b63acbc7-aa35-4920-b1c3-4baea405159d": {
+        "clue": "OAR",
+        "clue_words": [
+            "ROW",
+            "STICK"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "23490b68-64ca-4188-b433-2a1cad627570": {
+        "clue": "INSTRUMENT",
+        "clue_words": [
+            "FLUTE",
+            "KEY"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "d339aaee-d4fb-4c2f-afca-4d0cb0a0b0ce": {
+        "clue": "WINTER",
+        "clue_words": [
+            "COLD",
+            "HAND"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "45719572-babc-4645-8480-47df3b88e18a": {
+        "clue": "CIVILIZATION",
+        "clue_words": [
+            "AFRICA",
+            "AZTEC"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "9c74523c-5aa1-41ac-a91b-8d528c89a11e": {
+        "clue": "FLAG",
+        "clue_words": [
+            "CIRCLE",
+            "ENGLAND"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "d92bc963-4bde-4456-a44b-a6216e54f6b0": {
+        "clue": "SAMURAI",
+        "clue_words": [
+            "NINJA",
+            "COPPER"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "345f466c-284b-460b-af47-5de8d6024985": {
+        "clue": "KING",
+        "clue_words": [
+            "LION",
+            "GRACE"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "0e636c67-a42b-43a9-953e-f22d6c6ea548": {
+        "clue": "POWER",
+        "clue_words": [
+            "FORCE",
+            "PYRAMID"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "537d7d65-f10f-4861-ac1b-4e5a61506841": {
+        "clue": "FURNITURE",
+        "clue_words": [
+            "SPACE",
+            "CHAIR"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "202a8b0b-6bd6-4448-bab6-0bc83af4cbcb": {
+        "clue": "EYE",
+        "clue_words": [
+            "OIL",
+            "PUPIL"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "901c0098-07b9-4480-8283-d0d18c152958": {
+        "clue": "VEHICLE",
+        "clue_words": [
+            "HELICOPTER",
+            "VAN"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "ca79398b-910a-40a0-a6e5-1d9c36633f62": {
+        "clue": "VACCINE",
+        "clue_words": [
+            "SHOT",
+            "CYCLE"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "5c800bc0-63bb-48e7-b1ee-496141873bea": {
+        "clue": "GUN",
+        "clue_words": [
+            "PISTOL",
+            "APPLE"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "fcd1a892-7ed3-4012-a5ef-60817bc07a3c": {
+        "clue": "WIZARD",
+        "clue_words": [
+            "CLOAK",
+            "DICE"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "be376c79-37a5-413a-9b2c-cd9c3f034dfc": {
+        "clue": "THEATER",
+        "clue_words": [
+            "PLAY",
+            "CANADA"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    },
+    "8a990549-6b50-4c6f-aff9-ec5e3c1cbd65": {
+        "clue": "TOOL",
+        "clue_words": [
+            "DRILL",
+            "ARM"
+        ],
+        "explanations": [
+            "",
+            ""
+        ]
+    }
+}
