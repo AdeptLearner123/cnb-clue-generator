@@ -1,0 +1,667 @@
+[
+    {
+        "word1": "CRANE",
+        "word2": "GRASS",
+        "clue": "OSTRICH",
+        "explanation1": "OSTRICHES and CRANES are both large birds.",
+        "explanation2": "OSTRICHES are large, flightless birds that feed on a variety of plants, such as GRASS."
+    },
+    {
+        "word1": "DRAFT",
+        "word2": "SCUBA DIVER",
+        "clue": "NAVY",
+        "explanation1": "The DRAFT is the process of conscripting individuals into the military, and the NAVY is a branch of the military.",
+        "explanation2": "SCUBA DIVERS are people who explore the ocean, while the NAVY sails on the ocean, so both are related to the ocean."
+    },
+    {
+        "word1": "CLUB",
+        "word2": "PIN",
+        "clue": "BOWLING",
+        "explanation1": "A BOWLING CLUB is an organization dedicated to the sport of BOWLING.",
+        "explanation2": "In BOWLING, a PIN is an upright bottle-shaped piece to be toppled by a BOWLING ball."
+    },
+    {
+        "word1": "CLIFF",
+        "word2": "SPIDER",
+        "clue": "CLIMB",
+        "explanation1": "A CLIFF is a steep, rocky face of a mountain that can be CLIMBED by skilled rock climbers.",
+        "explanation2": "SPIDERS are known for their ability to CLIMB surfaces with their legs and setae (hair) on their feet."
+    },
+    {
+        "word1": "WEB",
+        "word2": "SPIKE",
+        "clue": "TRAFFIC",
+        "explanation1": "WEB TRAFFIC refers to the amount of data that is transmitted to and from a website over the internet.",
+        "explanation2": "A SPIKE in TRAFFIC refers to a sudden increase in the amount of data that is transmitted over the internet to and from a website."
+    },
+    {
+        "word1": "BERMUDA",
+        "word2": "SEAL",
+        "clue": "SEA",
+        "explanation1": "BERMUDA is an island territory in the North Atlantic and is surrounded by SEA.",
+        "explanation2": "SEALS are aquatic mammals that live in the SEA."
+    },
+    {
+        "word1": "EMBASSY",
+        "word2": "TEACHER",
+        "clue": "DIPLOMAT",
+        "explanation1": "A DIPLOMAT is a representative of a government who is stationed at an EMBASSY in a foreign country.",
+        "explanation2": "A TEACHER and a DIPLOMAT are both occupations that a person may hold."
+    },
+    {
+        "word1": "HELICOPTER",
+        "word2": "MILLIONAIRE",
+        "clue": "EXPENSIVE",
+        "explanation1": "HELICOPTERS are often considered to be more EXPENSIVE than other modes of transport.",
+        "explanation2": "MILLIONAIRES are considered to possess a lot of money, so they are able to afford EXPENSIVE things."
+    },
+    {
+        "word1": "GERMANY",
+        "word2": "BEIJING",
+        "clue": "CHINA",
+        "explanation1": "GERMANY and CHINA are both countries.",
+        "explanation2": "BEIJING is the capital of CHINA."
+    },
+    {
+        "word1": "BUFFALO",
+        "word2": "KID",
+        "clue": "CALF",
+        "explanation1": "A young BUFFALO is referred to as a CALF.",
+        "explanation2": "A CALF and a KID are both young creatures, with a CALF being a young cow and a KID being a young human being."
+    },
+    {
+        "word1": "SCHOOL",
+        "word2": "STICK",
+        "clue": "CANE",
+        "explanation1": "A CANE is often used in SCHOOLS as a disciplinary tool.",
+        "explanation2": "A CANE is a thin, rod-like STICK."
+    },
+    {
+        "word1": "LAP",
+        "word2": "CRICKET",
+        "clue": "TRACK",
+        "explanation1": "A LAP is a unit of distance used to measure the length of a TRACK.",
+        "explanation2": "TRACK and CRICKET are both sports."
+    },
+    {
+        "word1": "SNOW",
+        "word2": "SPRING",
+        "clue": "WINTER",
+        "explanation1": "SNOW is a type of precipitation that typically falls during the WINTER months.",
+        "explanation2": "SPRING is the season that follows WINTER."
+    },
+    {
+        "word1": "CENTAUR",
+        "word2": "IRON",
+        "clue": "HORSESHOE",
+        "explanation1": "A CENTAUR has the body of a horse, and a HORSESHOE is placed on the hooves of a horse.",
+        "explanation2": "HORSESHOES are typically made of metal, such as IRON."
+    },
+    {
+        "word1": "PISTOL",
+        "word2": "COOK",
+        "clue": "FIRE",
+        "explanation1": "To FIRE can mean to discharge a firearm, such as a PISTOL.",
+        "explanation2": "FIRE is a common source of heat used for COOKING."
+    },
+    {
+        "word1": "CHURCH",
+        "word2": "DRAGON",
+        "clue": "SATAN",
+        "explanation1": "SATAN is often viewed as the enemy of the CHURCH that must be overcome.",
+        "explanation2": "In some religious traditions, SATAN is depicted as a serpent or DRAGON."
+    },
+    {
+        "word1": "TRAIN",
+        "word2": "OIL",
+        "clue": "COAL",
+        "explanation1": "COAL is often used as a fuel to power TRAINS.",
+        "explanation2": "COAL and OIL are both fossil fuels."
+    },
+    {
+        "word1": "DANCE",
+        "word2": "FOOT",
+        "clue": "SHUFFLING",
+        "explanation1": "SHUFFLING is a popular DANCE style that is often associated with electronic dance music (EDM).",
+        "explanation2": "SHUFFLING is a dance style that involves sliding the FEET across the ground while dancing to music."
+    },
+    {
+        "word1": "NUT",
+        "word2": "MAMMOTH",
+        "clue": "BROWN",
+        "explanation1": "Many NUTS are BROWN in color, or have a BROWN outer shell or coating.",
+        "explanation2": "A MAMMOTH is often depicted as being covered in BROWN hair."
+    },
+    {
+        "word1": "SPIDER",
+        "word2": "MINE",
+        "clue": "CRAWL",
+        "explanation1": "SPIDERS are known to CRAWL on their eight legs.",
+        "explanation2": "The purpose of CRAWLING, which scans and gathers data from the internet, is to collect data that can then be MINED."
+    },
+    {
+        "word1": "WATCH",
+        "word2": "ROSE",
+        "clue": "TITANIC",
+        "explanation1": "TITANIC is a movie that can be WATCHED by an audience.",
+        "explanation2": "ROSE is one of the main characters of the movie TITANIC."
+    },
+    {
+        "word1": "QUEEN",
+        "word2": "PIN",
+        "clue": "CHESS",
+        "explanation1": "A QUEEN is a CHESS piece.",
+        "explanation2": "In CHESS, a PIN is an attack where an opposing piece or pawn is unable to move since it is shielding a more valuable piece."
+    },
+    {
+        "word1": "BOX",
+        "word2": "TRIANGLE",
+        "clue": "RECTANGLE",
+        "explanation1": "All six faces of a box are RECTANGLES.",
+        "explanation2": "A TRIANGLE and a RECTANGLE are both 2D shapes."
+    },
+    {
+        "word1": "TRAIN",
+        "word2": "CRASH",
+        "clue": "COLLISION",
+        "explanation1": "A TRAIN can be involved in a COLLISION, such as if it crashes into another TRAIN or car.",
+        "explanation2": "A CRASH is a sudden, violent COLLISION."
+    },
+    {
+        "word1": "WATCH",
+        "word2": "STREAM",
+        "clue": "NETFLIX",
+        "explanation1": "NETFLIX is a streaming service that allows users to WATCH movies.",
+        "explanation2": "NETFLIX is a service that enables users to STREAM movies."
+    },
+    {
+        "word1": "CLOAK",
+        "word2": "HOOD",
+        "clue": "ROBE",
+        "explanation1": "A ROBE and a CLOAK are both garments that can be worn over the body.",
+        "explanation2": "A ROBE can have a HOOD attached to it."
+    },
+    {
+        "word1": "PLANE",
+        "word2": "HIMALAYAS",
+        "clue": "HIGH",
+        "explanation1": "PLANES can fly HIGH in the air.",
+        "explanation2": "The HIMALAYAS is one of the HIGHEST places in the world."
+    },
+    {
+        "word1": "MEXICO",
+        "word2": "MATCH",
+        "clue": "SOCCER",
+        "explanation1": "SOCCER is one of the most popular sports in MEXICO.",
+        "explanation2": " A SOCCER game is also known as a SOCCER MATCH."
+    },
+    {
+        "word1": "STATE",
+        "word2": "PLATYPUS",
+        "clue": "AUSTRALIA",
+        "explanation1": "A STATE is a self-governing nation, such as AUSTRALIA.",
+        "explanation2": "The PLATYPUS is only found in AUSTRALIA."
+    },
+    {
+        "word1": "IVORY",
+        "word2": "AZTEC",
+        "clue": "GOLD",
+        "explanation1": "IVORY and GOLD are both highly valuable and often found in jewelry.",
+        "explanation2": "The AZTECS placed a high value on GOLD and had many GOLD deposits in their territory."
+    },
+    {
+        "word1": "RACKET",
+        "word2": "SHOT",
+        "clue": "TENNIS",
+        "explanation1": "TENNIS is a sport played with a RACKET.",
+        "explanation2": "In TENNIS, players can strike the ball with a RACKET, which is called a SHOT."
+    },
+    {
+        "word1": "GLOVE",
+        "word2": "FIGHTER",
+        "clue": "BOXING",
+        "explanation1": "In BOXING, players wear GLOVES.",
+        "explanation2": "BOXING involves FIGHTERS who compete against each other in a ring."
+    },
+    {
+        "word1": "CONCERT",
+        "word2": "BELL",
+        "clue": "MUSIC",
+        "explanation1": "A CONCERT is an event where MUSIC is played by an orchestra or band.",
+        "explanation2": "A BELL is a percussion instrument that can be used to play MUSIC."
+    },
+    {
+        "word1": "DATE",
+        "word2": "REVOLUTION",
+        "clue": "DAY",
+        "explanation1": "A DATE is a specific DAY of the month.",
+        "explanation2": "A DAY is marked by a single REVOLUTION of the Earth on its axis."
+    },
+    {
+        "word1": "JET",
+        "word2": "EAGLE",
+        "clue": "FLIGHT",
+        "explanation1": "A JET is an aircraft, so it is capable of FLIGHT.",
+        "explanation2": "An EAGLE is a bird, so it is capable of FLIGHT."
+    },
+    {
+        "word1": "PIT",
+        "word2": "TRACK",
+        "clue": "ORCHESTRA",
+        "explanation1": "A PIT is where an ORCHESTRA plays music during an opera or play.",
+        "explanation2": "An ORCHESTRA plays music, which can be recorded as a TRACK."
+    },
+    {
+        "word1": "HORSE",
+        "word2": "MEXICO",
+        "clue": "COWBOY",
+        "explanation1": "COWBOYS are often depicted as riding on HORSES.",
+        "explanation2": "The COWBOY lifestyle was influenced by MEXICAN culture, such as the use of a lasso and sombrero hat."
+    },
+    {
+        "word1": "COLD",
+        "word2": "DOCTOR",
+        "clue": "FLU",
+        "explanation1": "A COLD and the FLU are both illnesses caused by viruses.",
+        "explanation2": "A FLU can be treated by a DOCTOR."
+    },
+    {
+        "word1": "BOND",
+        "word2": "STOCK",
+        "clue": "SECURITY",
+        "explanation1": "A BOND is a type of financial SECURITY.",
+        "explanation2": "A STOCK is a type of financial SECURITY."
+    },
+    {
+        "word1": "EAGLE",
+        "word2": "LIGHT",
+        "clue": "FEATHER",
+        "explanation1": "An EAGLE is a bird that is covered in FEATHERS.",
+        "explanation2": "A FEATHER is LIGHT in weight and thin."
+    },
+    {
+        "word1": "FILM",
+        "word2": "BOX",
+        "clue": "TICKET",
+        "explanation1": "A FILM that is shown in a movie theater would require a TICKET in order to be viewed.",
+        "explanation2": "A TICKET can be purchased at a movie theater's BOX office."
+    },
+    {
+        "word1": "LEPRECHAUN",
+        "word2": "MOLE",
+        "clue": "SMALL",
+        "explanation1": "LEPRECHAUNS are often depicted as SMALL men.",
+        "explanation2": "A MOLE is a SMALL burrowing mammal."
+    },
+    {
+        "word1": "TURKEY",
+        "word2": "PLANE",
+        "clue": "WINGS",
+        "explanation1": "A TURKEY is a bird that possesses WINGS.",
+        "explanation2": "A PLANE is a flying machine that possesses WINGS."
+    },
+    {
+        "word1": "DANCE",
+        "word2": "TIME",
+        "clue": "BEAT",
+        "explanation1": "The BEAT of a SONG or piece of music is an important element in DANCE.",
+        "explanation2": "The BEAT of a SONG or piece of music is used to mark the passage of TIME."
+    },
+    {
+        "word1": "MERCURY",
+        "word2": "PLATE",
+        "clue": "ROUND",
+        "explanation1": "MERCURY is a planet shaped in a sphere, so it is ROUND in shape.",
+        "explanation2": "A PLATE is a flat, ROUND dish used for serving food."
+    },
+    {
+        "word1": "MOSCOW",
+        "word2": "SNOW",
+        "clue": "COLD",
+        "explanation1": "MOSCOW is the capital of Russia, and is known for long and COLD winters.",
+        "explanation2": "SNOW is frozen water and COLD to the touch."
+    },
+    {
+        "word1": "POINT",
+        "word2": "CHARGE",
+        "clue": "ELECTRON",
+        "explanation1": "ELECTRONS are often depicted as POINTS in diagrams, due to their extremely small size.",
+        "explanation2": "An ELECTRON has a negative electric CHARGE."
+    },
+    {
+        "word1": "SATURN",
+        "word2": "QUEEN",
+        "clue": "GODDESS",
+        "explanation1": "SATURN is a god in Roman mythology, while GODDESS is a female deity, so both SATURN and GODDESS are deities.",
+        "explanation2": "GODDESS and QUEEN are both depicted as women possessing great power."
+    },
+    {
+        "word1": "ANGEL",
+        "word2": "MERCURY",
+        "clue": "GOD",
+        "explanation1": "In Christianity, ANGELS are the messengers of GOD.",
+        "explanation2": "In Greek mythology, MERCURY is a GOD."
+    },
+    {
+        "word1": "DIAMOND",
+        "word2": "LUCK",
+        "clue": "FORTUNE",
+        "explanation1": "DIAMONDS are associated with wealth due to their high value, while FORTUNE can refer to someone's wealth.",
+        "explanation2": "FORTUNE is often seen as being influenced by LUCK."
+    },
+    {
+        "word1": "FISH",
+        "word2": "WATER",
+        "clue": "OCEAN",
+        "explanation1": "Many species of FISH live in the OCEAN.",
+        "explanation2": "The OCEAN is a vast body of WATER covering most of the Earth."
+    },
+    {
+        "word1": "OIL",
+        "word2": "WAVE",
+        "clue": "LIQUID",
+        "explanation1": "OIL is often found in LIQUID form.",
+        "explanation2": "WAVES can occur in LIQUIDS and the movement of a WAVE is often associated with the flow of a LIQUID."
+    },
+    {
+        "word1": "CZECH",
+        "word2": "BERLIN",
+        "clue": "EUROPE",
+        "explanation1": "The CZECH Republic is located within EUROPE.",
+        "explanation2": "BERLIN is the capital of GERMANY, which is in EUROPE."
+    },
+    {
+        "word1": "MOLE",
+        "word2": "BUFFALO",
+        "clue": "MAMMAL",
+        "explanation1": "MOLES are small, burrowing MAMMALS.",
+        "explanation2": "BUFFALO are large MAMMALS with horns."
+    },
+    {
+        "word1": "RING",
+        "word2": "ENGLAND",
+        "clue": "STONEHENGE",
+        "explanation1": "STONEHENGE is an ancient stone structure built in the shape of concentric RINGS.",
+        "explanation2": "STONEHENGE is located in ENGLAND."
+    },
+    {
+        "word1": "WELL",
+        "word2": "MOLE",
+        "clue": "DIG",
+        "explanation1": "A WELL is a deep hole for drawing water, often created by DIGGING a hole into the ground.",
+        "explanation2": "A MOLE is a burrowing animal that DIGS through the ground."
+    },
+    {
+        "word1": "GOLD",
+        "word2": "FISH",
+        "clue": "GOOSE",
+        "explanation1": "The phrase GOLDEN GOOSE is a metaphor that refers to a person or thing that is a source of great wealth and prosperity.",
+        "explanation2": "GOOSE and FISH are both vertebrate animals."
+    },
+    {
+        "word1": "ROW",
+        "word2": "LOCH NESS",
+        "clue": "WATER",
+        "explanation1": "ROWING is an activity or sport that is done on the surface of WATER.",
+        "explanation2": "LOCH NESS is a body of WATER in Scotland."
+    },
+    {
+        "word1": "THUMB",
+        "word2": "PIANO",
+        "clue": "FINGER",
+        "explanation1": "The THUMB is one of the five FINGERS",
+        "explanation2": "A PIANO is played by pressing the keys with FINGERS."
+    },
+    {
+        "word1": "DEATH",
+        "word2": "LIFE",
+        "clue": "RESURRECTION",
+        "explanation1": "RESURRECTION is the return to life from DEATH.",
+        "explanation2": "RESURRECTION is the return to LIFE from death."
+    },
+    {
+        "word1": "PUPIL",
+        "word2": "LINE",
+        "clue": "GEOMETRY",
+        "explanation1": "A pupil at a school might study the subject of GEOMETRY.",
+        "explanation2": "A LINE is a geometric figure that is a common concept in GEOMETRY."
+    },
+    {
+        "word1": "SOUND",
+        "word2": "HORSE",
+        "clue": "WHINNY",
+        "explanation1": "A WHINNY is a high-pitched SOUND made by a horse.",
+        "explanation2": "A WHINNY is a high-pitched sound made by a HORSE."
+    },
+    {
+        "word1": "BOMB",
+        "word2": "KNIFE",
+        "clue": "WEAPON",
+        "explanation1": "A BOMB is an explosive WEAPON.",
+        "explanation2": "A KNIFE is a sharp tool that can be used as a WEAPON."
+    },
+    {
+        "word1": "CANADA",
+        "word2": "FILM",
+        "clue": "REYNOLDS",
+        "explanation1": "Ryan REYNOLDS is a CANADIAN-American actor.",
+        "explanation2": "Ryan REYNOLDS is an actor who has played in several FILMS."
+    },
+    {
+        "word1": "ROBIN",
+        "word2": "TURKEY",
+        "clue": "BIRD",
+        "explanation1": "A ROBIN is a type of BIRD.",
+        "explanation2": "A TURKEY is a type of BIRD."
+    },
+    {
+        "word1": "PLOT",
+        "word2": "AUSTRALIA",
+        "clue": "BLANCHETT",
+        "explanation1": "Cate BLANCHETT is an actor who plays in movies that involve PLOTS.",
+        "explanation2": "Cate BLANCHETT is an actress from AUSTRALIA."
+    },
+    {
+        "word1": "BOX",
+        "word2": "GREECE",
+        "clue": "PANDORA",
+        "explanation1": "The myth of PANDORA and the BOX is often used to warn about the dangers of curiosity.",
+        "explanation2": "PANDORA is a woman from GREEK mythology."
+    },
+    {
+        "word1": "ROCK",
+        "word2": "ALPS",
+        "clue": "MOUNTAIN",
+        "explanation1": "A MOUNTAIN is a rising formation caused by the movement of ROCK layers.",
+        "explanation2": "The ALPS is a MOUNTAIN range in Europe."
+    },
+    {
+        "word1": "LONDON",
+        "word2": "PILOT",
+        "clue": "SPITFIRE",
+        "explanation1": "The SPITFIRE was a plane used by the RAF to defend LONDON during the Battle of Britain.",
+        "explanation2": "The SPITFIRE is a plane that must be piloted by a PILOT."
+    },
+    {
+        "word1": "EAGLE",
+        "word2": "ARM",
+        "clue": "WING",
+        "explanation1": "EAGLES are birds that have WINGS.",
+        "explanation2": "ARMS and WINGS are both appendages on animals used for movement."
+    },
+    {
+        "word1": "PALM",
+        "word2": "FACE",
+        "clue": "HAND",
+        "explanation1": "PALMS are the inner surface of the HAND.",
+        "explanation2": "HAND and FACE are both parts of the human body."
+    },
+    {
+        "word1": "FILM",
+        "word2": "TEACHER",
+        "clue": "PANOPTO",
+        "explanation1": "PANOPTO can create, edit, and share video content that was captured on FILM.",
+        "explanation2": "PANOPTO is often used by TEACHERS to record and share their lectures."
+    },
+    {
+        "word1": "MERCURY",
+        "word2": "BERLIN",
+        "clue": "GREECE",
+        "explanation1": "MERCURY is a god in GREEK mythology.",
+        "explanation2": "GREECE and BERLIN are both located in EUROPE."
+    },
+    {
+        "word1": "HEAD",
+        "word2": "LIMOUSINE",
+        "clue": "HOOD",
+        "explanation1": "A HOOD is a piece of clothing that covers the HEAD.",
+        "explanation2": "A HOOD is a metal covering for the engine of a car, such as a LIMOUSINE."
+    },
+    {
+        "word1": "PYRAMID",
+        "word2": "CHEST",
+        "clue": "TREASURE",
+        "explanation1": "PYRAMIDS were built as tombs for the pharaohs of Egypt, and were often filled with TREASURE.",
+        "explanation2": "CHESTS are often used to store valuable items that can be considered as TREASURE."
+    },
+    {
+        "word1": "WEB",
+        "word2": "BATTERY",
+        "clue": "PHONE",
+        "explanation1": "A smartPHONE can be used to browse the internet, also known as the WEB.",
+        "explanation2": "A PHONE has a BATTERY that powers the device."
+    },
+    {
+        "word1": "ANGEL",
+        "word2": "WITCH",
+        "clue": "MYTH",
+        "explanation1": "ANGELS are often featured in MYTHS.",
+        "explanation2": "WITCHES are often featured in MYTHS."
+    },
+    {
+        "word1": "SHARK",
+        "word2": "SCIENTIST",
+        "clue": "OCEANOGRAPHY",
+        "explanation1": "OCEANOGRAPHY is the study of the ocean and its inhabitants, which include SHARKS.",
+        "explanation2": "People who study and research OCEANOGRAPHY are SCIENTISTS."
+    },
+    {
+        "word1": "EUROPE",
+        "word2": "ALPS",
+        "clue": "FRANCE",
+        "explanation1": "FRANCE is a country in EUROPE.",
+        "explanation2": "The ALPS are a mountain chain that is partially in FRANCE."
+    },
+    {
+        "word1": "COPPER",
+        "word2": "FIRE",
+        "clue": "SMELT",
+        "explanation1": "COPPER is SMELTED to extract COPPER from its ore.",
+        "explanation2": "FIRE is a source of heat often used to SMELT various metals."
+    },
+    {
+        "word1": "CENTAUR",
+        "word2": "PALM",
+        "clue": "HUMAN",
+        "explanation1": "A CENTAUR has the upper body of a HUMAN.",
+        "explanation2": "A PALM is a part of the HUMAN body."
+    },
+    {
+        "word1": "SHOP",
+        "word2": "PORT",
+        "clue": "TRADE",
+        "explanation1": "To SHOP is a form of TRADE by exchanging money for goods from a store.",
+        "explanation2": "A PORT is often used to conduct TRADE across the sea."
+    },
+    {
+        "word1": "PAN",
+        "word2": "BAT",
+        "clue": "HANDHELD",
+        "explanation1": "A PAN is often has a handle, allowing it to be HANDHELD.",
+        "explanation2": "A BAT is a HANDHELD implement used to hit a ball in a game."
+    },
+    {
+        "word1": "MEXICO",
+        "word2": "PISTOL",
+        "clue": "CARTEL",
+        "explanation1": "MEXICO has a history of drug CARTELS operating within its borders.",
+        "explanation2": "CARTELS are often involved in violent crime that may involve firearms such as PISTOLS."
+    },
+    {
+        "word1": "KIWI",
+        "word2": "SQUARE",
+        "clue": "OVAL",
+        "explanation1": "A KIWI is a type of fruit that has an OVAL shape.",
+        "explanation2": "OVAL and SQUARE are both 2D geometric figures."
+    },
+    {
+        "word1": "BOLT",
+        "word2": "ROUND",
+        "clue": "RIFLE",
+        "explanation1": "A BOLT is a mechanical device used in RIFLES to load and fire bullets.",
+        "explanation2": "A ROUND is the ammunition needed to fire one shot from a RIFLE."
+    },
+    {
+        "word1": "PLAY",
+        "word2": "DANCE",
+        "clue": "PERFORMANCE",
+        "explanation1": "A PLAY is a type of PERFORMANCE.",
+        "explanation2": "DANCE can be a type of PERFORMANCE."
+    },
+    {
+        "word1": "VET",
+        "word2": "STRIKE",
+        "clue": "WAR",
+        "explanation1": "A VET can refer to a veteran, or someone who has fought in a WAR.",
+        "explanation2": "A STRIKE can refer to an attack or airstrike, which occurs in WAR."
+    },
+    {
+        "word1": "FILE",
+        "word2": "BUG",
+        "clue": "SOFTWARE",
+        "explanation1": "A FILE is a digital container of data that can be read and written to by SOFTWARE.",
+        "explanation2": "A BUG is a glitch or defect in a piece of SOFTWARE."
+    },
+    {
+        "word1": "ORANGE",
+        "word2": "FORK",
+        "clue": "EAT",
+        "explanation1": "ORANGES are fruits that can be EATEN.",
+        "explanation2": "FORKS are utensils that are used for EATING food."
+    },
+    {
+        "word1": "CLUB",
+        "word2": "SUIT",
+        "clue": "CARD",
+        "explanation1": "CLUBS is a suit in a standard deck of CARDS.",
+        "explanation2": "A SUIT is one of the four sets in a standard deck of CARDS."
+    },
+    {
+        "word1": "SCHOOL",
+        "word2": "CHANGE",
+        "clue": "REFORM",
+        "explanation1": "Education REFORM is a common topic in politics, and is focused on the improvement of SCHOOLS.",
+        "explanation2": "REFORM is the process of CHANGING an existing system or institution."
+    },
+    {
+        "word1": "GROUND",
+        "word2": "SHOE",
+        "clue": "FOOT",
+        "explanation1": "FEET are used for standing and walking on the GROUND.",
+        "explanation2": "SHOES are worn around the FEET."
+    },
+    {
+        "word1": "IRON",
+        "word2": "PLANE",
+        "clue": "ALUMINUM",
+        "explanation1": "IRON and ALUMINUM are both metals.",
+        "explanation2": "PLANES are often built with ALUMINUM due to its light weight."
+    },
+    {
+        "word1": "HORSE",
+        "word2": "BAT",
+        "clue": "MAMMAL",
+        "explanation1": "HORSES are a large type of MAMMALS.",
+        "explanation2": "BATS are a type of flying MAMMALS."
+    }
+]
