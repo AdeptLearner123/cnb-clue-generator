@@ -7,3 +7,5 @@ SIMPLE_PROMPT = "static/simple_prompt.txt"
 
 TRAIN_BOARDS = "boards/train_boards.json"
 TRAIN_DATA = "data/train_data.json"
+
+WORD_PAIRS = "data/word_pairs.json"

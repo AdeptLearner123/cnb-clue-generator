@@ -7,8 +7,8 @@
         "neg": [],
         "clue": "AFL",
         "explanations": [
-            "BLOCK is related to AFL because AFL stands for Australian Football League, and BLOCKING is a legal move in football.",
-            "AUSTRALIA is related to AFL because AFL stands for Australian Football League which is located in AUSTRALIA."
+            "AFL stands for Australian Football League, and BLOCKING is a legal move in football.",
+            "AFL stands for AUSTRALIAN Football League which is located in AUSTRALIA."
         ]
     },
     "d0b93090-726e-4246-b2b7-c61e0eeaa22e": {
@@ -19,8 +19,8 @@
         "neg": [],
         "clue": "AIR",
         "explanations": [
-            "PARARCHUTE is related to AIR because PARACHUTES are used to slow one's descent through the AIR.",
-            "BRUSH is related to AIR because together they form the word AIRBRUSH, which is a tool."
+            "PARACHUTES are used to slow one's descent through the AIR.",
+            "BRUSH and AIR form the word AIRBRUSH, which is a tool."
         ]
     },
     "e2722292-a5db-4c3d-a9ee-5d0692a42268": {
@@ -31,8 +31,8 @@
         "neg": [],
         "clue": "BUSINESS",
         "explanations": [
-            "SKYSCRAPER is related to BUSINESS because many BUSINESSES have offices located within SKYSCRAPERS.",
-            "DRESS is related to BUSINESS because BUSINESS-casual is a form of DRESS."
+            "Many BUSINESSES have offices located within SKYSCRAPERS.",
+            "BUSINESS-casual is a form of DRESS."
         ]
     },
     "dd0df677-1374-4ee2-976a-0e65df4df70f": {
@@ -43,8 +43,8 @@
         "neg": [],
         "clue": "PISTOL",
         "explanations": [
-            "BOW is related to PISTOL because both are a type of weapon.",
-            "BOND is related to PISTOL because James BOND is a fictional character who carries a PISTOL."
+            "BOW and PISTOL are both a type of weapon.",
+            "James BOND is a fictional character who often carries a PISTOL."
         ]
     },
     "9919c9aa-9627-4ae9-bec5-7d07ce5fa365": {
@@ -55,8 +55,8 @@
         "neg": [],
         "clue": "FEVER",
         "explanations": [
-            "DOCTOR is related to FEVER because people go to the DOCTOR to treat a FEVER.",
-            "COLD is related to FEVER because COLD and FEVER are both a type of illness."
+            "People go to the DOCTOR to treat a FEVER.",
+            "COLD and FEVER are both a type of illness."
         ]
     },
     "e161c5ee-8000-4fa8-9472-a2982f3d0412": {
@@ -67,8 +67,8 @@
         "neg": [],
         "clue": "OCCUPATION",
         "explanations": [
-            "SCIENTIST is related to OCCUPATION because being a SCIENTIST is an OCCUPATION.",
-            "AGENT is an OCCUPATION because being an AGENT is an OCCUPATION."
+            "Being a SCIENTIST is an OCCUPATION.",
+            "Being an AGENT is an OCCUPATION."
         ]
     },
     "60889eb0-f353-4d65-8645-e389f7de35e3": {
@@ -79,8 +79,8 @@
         "neg": [],
         "clue": "CRYOSLEEP",
         "explanations": [
-            "BED is related to CRYOSLEEP because both are used for sleeping.",
-            "ALIEN is related to CRYOSLEEP because both ALIENS and CRYOSLEEP are often found in science fiction."
+            "BED and CRYOSLEEP are both used for sleeping.",
+            "Both ALIENS and CRYOSLEEP are often found in science fiction."
         ]
     },
     "4bae3df5-019e-4ea1-9599-abc525caf40c": {
@@ -91,8 +91,8 @@
         "neg": [],
         "clue": "HANG",
         "explanations": [
-            "HANG is related to PAN because a HANG is also often referred to as a handPAN.",
-            "BEAT is related to HANG because a HANG is a type of drum that is used to produce a BEAT."
+            "A HANG is also often referred to as a handPAN.",
+            "A HANG is a type of drum that is used to produce a BEAT."
         ]
     },
     "c835f072-dd14-4fd5-b2ac-0facec1bed59": {
@@ -103,8 +103,8 @@
         "neg": [],
         "clue": "BEE",
         "explanations": [
-            "KANGAROO is related to BEE because both are animals.",
-            "SPELL is related to BEE because together they form the word SPELLING BEE, which is a spelling contest."
+            "Both KANGAROO and BEE are a type of animal.",
+            "SPELL and BEE form the word SPELLING BEE, which is a spelling contest."
         ]
     },
     "cf913955-e3fe-43ab-99ea-0bb07c365cf6": {
@@ -115,8 +115,8 @@
         "neg": [],
         "clue": "GIFT",
         "explanations": [
-            "BOX is related to GIFT because GIFTS are usually given in a BOX.",
-            "TIE is related to GIFT because GIFTS usually have a ribbon TIED around them."
+            "GIFTS are usually given in a BOX.",
+            "GIFTS are often given with a bowTIE on them."
         ]
     },
     "1869c036-5d0e-4bcf-afdd-e85930d4d993": {
@@ -127,8 +127,8 @@
         "neg": [],
         "clue": "METAMORPHOSIS",
         "explanations": [
-            "CHANGE is related to METAMORPHOSIS because METAMORPHOSIS is a process where insects CHANGE into their adult forms.",
-            "BUG is related to METAMORPHOSIS because METAMORPHOSIS most often occurs in insects, which are considered to be BUGS."
+            "METAMORPHOSIS is a process where insects CHANGE into their adult forms.",
+            "METAMORPHOSIS most often occurs in insects, which are considered to be BUGS."
         ]
     },
     "77aa28a7-d53e-4db9-ab02-02a47c4e1cea": {
@@ -139,8 +139,8 @@
         "neg": [],
         "clue": "DISCRETE",
         "explanations": [
-            "SMUGGLER is related to DISCRETE because SMUGGLERS move goods illicitly, so they often have to be DISCRETE.",
-            "SLIP is related to DISCRETE because to SLIP away means to leave quietly and DISCRETELY."
+            "SMUGGLERS move goods illicitly, so they often have to be DISCRETE.",
+            "To SLIP away means to leave quietly and DISCRETELY."
         ]
     },
     "8d81b256-1fc1-49da-983e-e0552df5354c": {
@@ -151,8 +151,8 @@
         "neg": [],
         "clue": "PERCHERON",
         "explanations": [
-            "HORSE is related to PERCHERON because a PERCHERON is a type of draft HORSE.",
-            "DRAFT is related to PERCHERON because a PERCHERON is a type of DRAFT horse."
+            "A PERCHERON is a type of draft HORSE.",
+            "A PERCHERON is a type of DRAFT horse."
         ]
     },
     "ffb02753-e278-48be-8713-57b112309534": {
@@ -163,8 +163,8 @@
         "neg": [],
         "clue": "WHEEL",
         "explanations": [
-            "LIMOUSINE is related to WHEEL because a LIMOUSINE is a car which has 4 WHEELS.",
-            "ROULETTE is related to WHEEL because ROULETTE is a gambling game played with a spinning WHEEL."
+            "A LIMOUSINE is a car which has 4 WHEELS.",
+            "ROULETTE is a gambling game played with a spinning WHEEL."
         ]
     },
     "b2fd223a-0c5e-432e-8136-50e6a9174039": {
@@ -176,7 +176,7 @@
         "clue": "SNEZKA",
         "explanations": [
             "SNEZKA is a mountain, which is typically formed by the movement of ROCK layers.",
-            "CZECH "
+            "SNEZKA is a mountain located in the CZECH Republic."
         ]
     },
     "6a8356fa-4aa1-4a35-ae09-365dcd090eee": {
@@ -184,3387 +184,1283 @@
             "ROBIN",
             "MARBLE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "ROUND",
+        "explanations": [
+            "ROBIN and ROUND together form the word ROUNDROBIN, which is a tournament format.",
+            "MARBLES are small, ROUND objects that are often used in games or toys."
+        ]
     },
     "2fbab682-1e95-4a40-b01a-67321a983a27": {
         "pos": [
             "BERLIN",
             "SQUARE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "CITY",
+        "explanations": [
+            "BERLIN is a CITY and the capital of Germany.",
+            "CITIES often have public SQUARES or plazas."
+        ]
     },
     "ab95d73c-79c1-44e5-9bf5-d88e425d25c5": {
         "pos": [
             "GIANT",
             "FORCE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "TITAN",
+        "explanations": [
+            "A TITAN is a GIANT in Greek mythology.",
+            "A TITAN can be used to refer to someone who is very powerful thus possesses a lot of FORCE."
+        ]
     },
     "9ff7046f-846a-4dd9-bc74-42be1abf5baa": {
         "pos": [
             "BOTTLE",
             "PARACHUTE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "EQUIPMENT",
+        "explanations": [
+            "A BOTTLE is a piece of EQUIPMENT that is used to store water.",
+            "A PARACHUTE is a piece of EQUIPMENT that slows one's descent through the air."
+        ]
     },
     "5f59261e-5f4d-47c2-9d2b-8cfd4155e1dd": {
         "pos": [
             "JACK",
             "KETCHUP"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "JAMES",
+        "explanations": [
+            "JACK and JAMES are both common English boy names.",
+            "JAMES Mease is credited with developing the first tomato-based ketchup recipe."
+        ]
     },
     "2f072cb5-a71d-447c-9682-070ed9947b30": {
         "pos": [
             "CENTER",
             "BAND"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "STAGE",
+        "explanations": [
+            "CENTER STAGE is a common word denoting the CENTER of a STAGE.",
+            "BANDS often perform their music on STAGES in front of an audience."
+        ]
     },
     "c0ac614c-b317-4726-9018-348f51121be5": {
         "pos": [
             "CAP",
             "VAN"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "HOOD",
+        "explanations": [
+            "A CAP is a kind of hat that covers the head, similar to how a HOOD is also a covering for the head.",
+            "A VAN is a motor vehicle with a HOOD that covers the engine."
+        ]
     },
     "edb455f4-6119-4a9b-b562-4a9f28655048": {
         "pos": [
             "BOOM",
             "SPOT"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "SNIPER",
+        "explanations": [
+            "BOOM is a loud sound, such as one made by a SNIPER when it fires.",
+            "A SNIPER is someone who shoots from a long range, and would have to SPOT their target from a long distance."
+        ]
     },
     "ed04c6e4-ea17-402e-98c3-adc9a8c94165": {
         "pos": [
             "PIN",
             "LINE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "THIN",
+        "explanations": [
+            "A PIN is a THIN, pointed object that is used for fastening things together.",
+            "A LINE is a long, THIN mark or stroke."
+        ]
     },
     "f335b3d5-cc3f-4988-aafb-2ee432e51a7b": {
         "pos": [
             "DUCK",
             "TRIP"
         ],
-        "neg": []
-    },
-    "25878cb1-df70-420c-9b23-f1ab30e251c3": {
-        "pos": [
-            "CHICK",
-            "TRIP"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "WADDLE",
+        "explanations": [
+            "A WADDLE is a characteristic gait or movement of a DUCK.",
+            "A WADDLE can be used to refer to taking a TRIP, such as \"they WADDLED to the beach.\""
+        ]
     },
     "3df5103e-e9af-4459-99bd-637b9bbe236c": {
         "pos": [
             "PAPER",
             "CENTAUR"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "STORY",
+        "explanations": [
+            "PAPER is often used as a medium for writing or printing STORIES.",
+            "CENTAURS are often featured as characters in STORIES or myths."
+        ]
     },
     "5c2092d1-2e3b-4e5f-a018-19a04c382baf": {
         "pos": [
             "PARK",
             "BOOT"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "HIKING",
+        "explanations": [
+            "HIKING is an outdoor activity that involves trekking through natural surroundings, such as a PARK.",
+            "HIKING is typically done whlie wearing sturdy footwear, such as BOOTS."
+        ]
     },
     "c14ad426-d491-4f0e-aad9-7d67c9644ddc": {
         "pos": [
             "ROUND",
             "SHIP"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "HULL",
+        "explanations": [
+            "A HULL is the outer structure of a ship and is often ROUND in shape.",
+            "A HULL is the outer structure of a SHIP."
+        ]
     },
     "ec95fe01-0843-4822-a7f9-63ccbb209f52": {
         "pos": [
             "JAM",
             "THUMB"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "THICK",
+        "explanations": [
+            "JAM is made by cooking fruit and sugar until it is THICK and spreadable.",
+            "The THUMB is the THICKEST and most robust of the five fingers."
+        ]
     },
     "bf890f0e-ddb9-48cf-b92c-f7a22ffd0ca6": {
         "pos": [
             "FISH",
             "GHOST"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "CREATURE",
+        "explanations": [
+            "GHOST is a supernatural being or entity and is often classified as a type of CREATURE.",
+            "FISH are a type of CREATURE that live in the water."
+        ]
     },
     "97181c1e-f34b-44f9-a54f-467ddac59107": {
         "pos": [
             "IVORY",
             "PENGUIN"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "WHITE",
+        "explanations": [
+            "IVORY is a hard, WHITE material obtained from the tusks of certain animals.",
+            "PENGUINS have black wings and a WHITE front."
+        ]
     },
     "308fbf24-f7de-41a5-8735-a592c4140658": {
         "pos": [
             "MEXICO",
             "CRANE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "EAGLE",
+        "explanations": [
+            "The EAGLE is the bird that is depicted on the MEXICAN flag.",
+            "CRANE and EAGLE are both a type of bird."
+        ]
     },
     "5ff5c6ba-990d-4cfb-b86a-4b70aa830314": {
         "pos": [
             "THUMB",
             "FISH"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "FIN",
+        "explanations": [
+            "THUMB and FIN are both an appendages that help animals navigate and grasp objects.",
+            "FISH and FIN are related because FISH are aquatic animals that possess FINS."
+        ]
     },
     "9a3dca05-29a5-4a66-b406-4f3586e7386f": {
         "pos": [
             "ENGLAND",
             "BED"
         ],
-        "neg": []
-    },
-    "3e6f52c3-d772-4e5d-8503-3390563634c4": {
-        "pos": [
-            "POOL",
-            "NEEDLE"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "QUEEN",
+        "explanations": [
+            "The QUEEN of ENGLAND is the head of state of the United Kingdom, which includes ENGLAND.",
+            "A QUEEN-sized bed is a type of BED that is larger than a full-sized BED but smaller than a king-sized BED."
+        ]
     },
     "710c5e82-1b0a-47b9-a196-b5bdd4cef848": {
         "pos": [
             "ORANGE",
             "MOUSE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "CHEDDAR",
+        "explanations": [
+            "CHEDDAR cheese is a type of cheese that is made with cow's milk and is known for its sharp, tangy flavor and its distinctive ORANGE color.",
+            "MICE are often attracted to cheese, such as CHEDDAR cheese."
+        ]
     },
     "0657602c-476e-40fe-8f5e-e79e7db2587e": {
         "pos": [
             "CAT",
             "ROOT"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "TEETH",
+        "explanations": [
+            "CATS have TEETH just like humans do.",
+            "The ROOTS of TEETH are the part of the TOOTH that is embedded in the jawbone and provides support and stability for the TOOTH."
+        ]
     },
     "bdd536a3-315c-49d7-99ed-eeec0b270ca9": {
         "pos": [
             "JAM",
             "BILL"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "GROCERIES",
+        "explanations": [
+            "JAM and GROCERIES are related because JAM is a type of food that is often found in the grocery store.",
+            "GROCERIES and BILL are related because GROCERIES are a type of purchase that is often included on a BILL."
+        ]
     },
     "d7ab48fb-7500-4b43-8aa5-273849708ee7": {
         "pos": [
             "SOCK",
             "ENGLAND"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "FOOTBALL",
+        "explanations": [
+            "FOOTBALL players wear SOCKS as part of their uniform.",
+            "FOOTBALL (also known as soccer) is the national sport of ENGLAND."
+        ]
     },
     "87788170-1e1c-42a2-9525-6483694f12b2": {
         "pos": [
             "APPLE",
             "MAIL"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "IMESSAGE",
+        "explanations": [
+            "IMESSAGE is a messaging service that is provided by APPLE and is used to send and receive messages between APPLE devices.",
+            "IMESSAGE and MAIL are both ways to send and receive messages."
+        ]
     },
     "71e23e0a-5a97-4671-883b-04f8afe7b993": {
         "pos": [
             "COTTON",
             "TAP"
         ],
-        "neg": []
+        "neg": [],
+        "clue:": "SOFT",
+        "explanation": [
+            "COTTON is a type of fabric that is known for its SOFTNESS.",
+            "A TAP is a SOFT and brief touch."
+        ]
     },
     "91caaf5d-56f6-4a5f-94d8-d56709fae1c9": {
         "pos": [
             "CAT",
             "PILOT"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "BIRD",
+        "explanations": [
+            "CATS are known to hunt and prey on BIRDS.",
+            "BIRD and PILOT are related because both involve the use of flight."
+        ]
     },
     "ccc41d79-0f22-48d6-b710-4c035ca43b5e": {
         "pos": [
             "GHOST",
             "OCTOPUS"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "KRAKEN",
+        "explanations": [
+            "A GHOST and a KRAKEN are both mythical creatures.",
+            "A KRAKEN is often depicted as a giant OCTOPUS-like creature with tentacles that it uses to drag ships and sailors to their deaths."
+        ]
     },
     "f0994c3b-7dcf-4362-90d5-78bef70174bc": {
         "pos": [
             "FALL",
             "CLIFF"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "DROP",
+        "explanations": [
+            "A DROP is a steep FALL from a higher to a lower level.",
+            "A DROP is a steep fall from a higher to a lower level, and a CLIFF is a high, steep rock face or precipice."
+        ]
     },
     "0f2721c3-14c9-4e28-aeee-645d7b958ed2": {
         "pos": [
             "PENGUIN",
             "WAKE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "HATCH",
+        "explanations": [
+            "PENGUINS HATCH from eggs, just like many other birds.",
+            "WAKE is the process of emerging from sleep, while HATCH is the process of a bird emerging from an eggshell, so both words refer to the process of emerging from something."
+        ]
     },
     "c1544f1f-a702-42d0-8a0d-54ad2c9ae273": {
         "pos": [
             "BAT",
             "SOCK"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "EQUIPMENT",
+        "explanations": [
+            "A BAT is a piece of EQUIPMENT used in sports such as baseball, cricket, and softball.",
+            "A SOCK is a piece of clothing that is worn on the foot and lower leg, so they can be considered to be EQUIPMENT in a certain context."
+        ]
     },
     "f8c1d221-5137-4d47-84bf-9340bc774f38": {
         "pos": [
             "STRAW",
             "INDIA"
         ],
-        "neg": []
-    },
-    "f7298f8c-354e-4dd3-bc54-0b2d1b62740e": {
-        "pos": [
-            "HIMALAYAS",
-            "WHIP"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "COW",
+        "explanations": [
+            "STRAW is a type of plant material that is often used as a feed for COWS and other livestock.",
+            "INDIA is a country with a large population of COWS and a long history of COW worship."
+        ]
     },
     "3e6de45c-d4ef-42bc-9c03-d8e6464e3694": {
         "pos": [
             "STADIUM",
             "BOOM"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "CHEER",
+        "explanations": [
+            "A STADIUM is a place where people gather to watch sporting events, and CHEERING is a common activity that takes place at these events.",
+            "CHEER is a loud shout of approval or support, while a BOOM is a loud, resonant sound, so both BOOM and CHEER are loud sounds."
+        ]
     },
     "6e8c1dfb-ee23-4991-a048-a5a0919bea5b": {
         "pos": [
             "WASHER",
             "HAND"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "SOAP",
+        "explanations": [
+            "A WASHER is a device that is used to clean clothes or other objects, and SOAP is a cleaning product that is often used in conjunction with a washer to remove dirt and stains.",
+            "SOAP is a cleaning product that is often used to wash the HANDS."
+        ]
     },
     "f51467b2-f379-428a-96e9-ab114185ebca": {
         "pos": [
             "MOUNT",
             "PUPIL"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "MONTOLOGY",
+        "explanations": [
+            "MONTOLOGY is the scientific study of mountains, and a MOUNT is a mountain or a high hill.",
+            "A PUPIL is a student and MONTOLOGY is the study of mountains, so a student studying MONTOLOGY could be referred to as a PUPIL."
+        ]
     },
     "e5ff771a-9887-405f-af82-9067fa1941cd": {
         "pos": [
             "ATLANTIS",
             "HOLE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "SINK",
+        "explanations": [
+            "According to legend, ATLANTIS was a mythical island nation that was said to have SUNK beneath the sea.",
+            "SINK and HOLE together form the word SINKHOLE, a natural depression in the ground that is formed when the surface layer of soil or rock collapses into a hollow space below."
+        ]
     },
     "53f0df32-3bea-4e2f-a753-1a21e0d04c46": {
         "pos": [
             "IRON",
             "LOG"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "WOOD",
+        "explanations": [
+            "WOOD and IRON are both materials that are used in a variety of applications.",
+            "A LOG is a piece of WOOD that has been cut from a tree, typically for use as a building material or fuel."
+        ]
     },
     "772bf6b7-bd01-47b7-a25c-44156116aa58": {
         "pos": [
             "WORM",
             "TICK"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "BUG",
+        "explanations": [
+            "A WORM is a long, thin, soft-bodied invertebrate animal that belongs to the same class as insects and spiders, while a BUG is an insect or other small invertebrate animal.",
+            "A TICK is a small, arachnid insect that feeds on the blood of animals and humans, while a BUG is an insect or other small invertebrate animal."
+        ]
     },
     "32de1492-91fc-4cbe-adee-1b1e2517c712": {
         "pos": [
             "SLUG",
             "TRACK"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "TRAIL",
+        "explanations": [
+            "A SLUG is a small, soft-bodied mollusk that lacks a shell and moves by secreting a slimy TRAIL of mucus as it crawls.",
+            "Both TRACK and TRAIL refer to a mark or series of marks left by the passage of a person, animal, or vehicle, or the path or course along which someone or something moves."
+        ]
     },
     "de2c0fec-68bc-4867-b1e7-f269a3c03d0a": {
         "pos": [
             "IVORY",
             "SCALE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "TEETH",
+        "explanations": [
+            "TEETH are hard, bony structures that are found in the mouth of many animals and are used for biting and chewing food, while IVORY is a hard, white material that is produced by the tusks of elephants and other animals.",
+            "SCALES are small, hard plates found on the surfaces of some animals, while TEETH are hard, bony structures found in the mouths of some animals."
+        ]
     },
     "ad1ad750-d6b4-4ebb-aa05-1f2820ac5b8e": {
         "pos": [
             "TIE",
             "PENGUIN"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "TUXEDO",
+        "explanations": [
+            "A TUXEDO is a formal evening suit with a black jacket and trousers and a white shirt, which is often worn by men to formal events and is typically accompanied by a TIE.",
+            "A TUXEDO is a formal evening suit with a black jacket and trousers and a white shirt, which is often worn by men to formal events and is often associated with the distinctive black and white plumage of PENGUINS."
+        ]
     },
     "384704a5-94f4-492a-b8af-e00bc516f425": {
         "pos": [
             "LIGHT",
             "SPIDER"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "EYES",
+        "explanations": [
+            "EYES are the organs of sight that perceives LIGHT.",
+            "SPIDERS typically have eight EYES."
+        ]
     },
     "010b4b7d-71a2-46dd-9e2d-6217c281e86c": {
         "pos": [
             "GLASS",
             "TAIL"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "ANIMALS",
+        "explanations": [
+            "GLASS ANIMALS is an English indie rock band from Oxford, England.",
+            "A TAIL is a part of an ANIMAL's body that extends from the rear end and is used for balance, communication, and other functions."
+        ]
     },
     "c18c36ce-ad4f-4da1-87e5-ad61f947bdca": {
         "pos": [
             "FIGHTER",
             "HIMALAYAS"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "GURKHA",
+        "explanations": [
+            "The GURKHA region in Nepal is located in the foothills of the HIMALAYAS",
+            "GURKHAS are Nepali soldiers who are known for their bravery and skill in combat, and a FIGHTER is a person who engages in combat."
+        ]
     },
     "9b93723b-e078-4497-a1a0-ed229c1a3df6": {
         "pos": [
             "DAY",
             "PARACHUTE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "SKY",
+        "explanations": [
+            "The SKY is visible during the DAY, when the sun is above the horizon and providing light to the earth.",
+            "A PARACHUTE is used to safely return to the ground from great heights in the SKY."
+        ]
     },
     "12068661-29e1-468d-b3d9-e9ba8fcdd844": {
         "pos": [
             "WHIP",
             "PART"
         ],
-        "neg": []
-    },
-    "05b5661e-a5e5-4f3e-bfcb-e1a4f69a526b": {
-        "pos": [
-            "PIE",
-            "BOOM"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "CRACK",
+        "explanations": [
+            "The WHIP is often used to make a loud CRACKING sound when it is snapped through the air.",
+            "A CRACK is a narrow opening or fissure in a solid surface or object, and it is often a result of the object being broken or split into two or more PARTS."
+        ]
     },
     "08227e2e-955c-4e30-9d63-956803ea873c": {
         "pos": [
             "BRUSH",
             "ROBOT"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "ROOMBA",
+        "explanations": [
+            "One of the key components of a ROOMBA is a BRUSH or BRUSHES, which are used to sweep dust, dirt, and debris off of the floor.",
+            "A ROOMBA is a type of ROBOT that is specifically designed to navigate and clean a room automatically."
+        ]
     },
     "7a2af921-3479-48d0-ab5c-d02d946ab3da": {
         "pos": [
             "TORCH",
             "LAP"
         ],
-        "neg": []
-    },
-    "73d3c65c-e063-428c-9ad3-9d12351e7b0b": {
-        "pos": [
-            "WEB",
-            "PITCH"
-        ],
-        "neg": []
-    },
-    "65a565fa-f8d8-4d64-8a4d-4c4b3af8b9ee": {
-        "pos": [
-            "TORCH",
-            "SCALE"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "PASS",
+        "explanations": [
+            "To \"PASS the TORCH\" means to PASS on a responsibility, role, or tradition to someone else.",
+            "When one runner or vehicle PASSES another during a race, it is called a \"PASS,\" and it usually means that the person or vehicle that is doing the passing has covered more LAPS than the person or vehicle being passed."
+        ]
     },
     "4ee7914c-99a7-460b-a137-ab049d2eb537": {
         "pos": [
             "LIFE",
             "CHURCH"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "RESURRECTION",
+        "explanations": [
+            "The RESURRECTION is the belief in the return to LIFE of the dead.",
+            "The RESURRECTION of Jesus Christ is a central belief of Christianity, and CHURCHES are places of worship for Christians."
+        ]
     },
     "c435c315-2622-47bf-84f5-62614619e523": {
         "pos": [
             "FORK",
             "BELL"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "METAL",
+        "explanations": [
+            "A BELL is a percussion instrument that is made of METAL.",
+            "A FORK is a utensil that is typically made of METAL."
+        ]
     },
     "faf021a6-738b-48ab-a2b5-8d776bc293b2": {
         "pos": [
             "STAFF",
             "WAR"
         ],
-        "neg": []
-    },
-    "bc7b475e-fb5a-4699-8764-71feae0ef8eb": {
-        "pos": [
-            "FILE",
-            "EYE"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "SERGEANT",
+        "explanations": [
+            "A STAFF SERGEANT is a military rank that is above the rank of SERGEANT and below the rank of technical SERGEANT.",
+            "SERGEANT is a rank in the military, which fights in WARS."
+        ]
     },
     "5d62033d-9efd-4120-8b64-1a8c2bcd41dc": {
         "pos": [
             "LOG",
             "CELL"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "PLANT",
+        "explanations": [
+            "A LOG is a piece of wood that has been cut from a tree, and trees are a type of PLANT.",
+            "PLANTS are living organisms that are made up of CELLS."
+        ]
     },
     "2a9f652a-ead5-4537-bd0a-7024eda079de": {
         "pos": [
             "CONTRACT",
             "STRING"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "TEXT",
+        "explanations": [
+            "A CONTRACT is a legally binding agreement between two or more parties that is usually written down as TEXT.",
+            "In computer programming, a STRING is a data type that represents a sequence of characters, and it is often used to store and manipulate TEXT data."
+        ]
     },
     "b01b8861-e816-4fe2-ac17-7684824b4588": {
         "pos": [
             "MASS",
             "SWING"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "PENDULUM",
+        "explanations": [
+            "The MASS of an object affects how it behaves when it is swinging or oscillating on a PENDULUM",
+            "A PENDULUM is a device that consists of a weight or bob suspended from a pivot point, and it SWINGS back and forth in a regular, rhythmic motion."
+        ]
     },
     "6705b755-e248-4032-80b2-9b852512a016": {
         "pos": [
             "TAG",
             "CASINO"
         ],
-        "neg": []
-    },
-    "fa44cdfe-1f87-4f6c-bdc8-a8f2c23b9982": {
-        "pos": [
-            "MINE",
-            "ROW"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "GAME",
+        "explanations": [
+            "TAG is a GAME played by children that involves chasing.",
+            "A CASINO is a place where people go to play GAMES of chance or skill for entertainment or to try to win money."
+        ]
     },
     "0471050c-4383-4a16-a4ea-00e22d448f3f": {
         "pos": [
             "HIMALAYAS",
             "MOSCOW"
         ],
-        "neg": []
-    },
-    "68e9b0e3-fce7-46b9-a473-77f47d487757": {
-        "pos": [
-            "LOCK",
-            "LIGHT"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "KATHMANDU",
+        "explanations": [
+            "KATHMANDU is the capital city of Nepal, and the HIMALAYAS are a mountain range that runs through Nepal.",
+            "KATHMANDU and MOSCOW are both capital cities of countries in different parts of the world."
+        ]
     },
     "2233c744-da07-44d3-9240-0bf5a506a6bd": {
         "pos": [
             "POST",
             "KNIGHT"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "SENTRY",
+        "explanations": [
+            "A SENTRY is a person who is assigned to stand guard at a specific location, and a POST is a position or station where a person is stationed or assigned to perform a specific duty.",
+            "Both SENTRY and KNIGHT refer to a person who is assigned to protect or defend a specific place or person."
+        ]
     },
     "21a98296-a1e6-4849-a582-0fe736995c3d": {
         "pos": [
             "SOLDIER",
             "QUEEN"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "PERSON",
+        "explanations": [
+            "A SOLDIER is a person who performs combat in the military.",
+            "A QUEEN is a monarch, which is a person who rules a country."
+        ]
     },
     "3e4712fa-6ff5-464b-9ce6-80e59ba74a48": {
         "pos": [
             "ROBOT",
             "NOVEL"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "ROBOPOCALYPSE",
+        "explanations": [
+            "ROBOPOCALYPSE is a science fiction novel that is set in a future world where ROBOTS are a central part of the story.",
+            "ROBOPOCALYPSE is a science fiction NOVEL by Daniel H. Wilson"
+        ]
     },
     "cb84910b-a156-4d97-a1a8-4a9d5048406d": {
         "pos": [
             "TELESCOPE",
             "THUMB"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "EYE",
+        "explanations": [
+            "The TELESCOPE and the EYE both serve as optical instruments that are used to observe and study distant objects.",
+            "THUMB and EYE are both parts of the human body."
+        ]
     },
     "66af1f6f-db3b-4163-894e-bb8e981e1cc3": {
         "pos": [
             "SOLDIER",
             "JET"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "AIRFORCE",
+        "explanations": [
+            "A SOLDIER is a part of the military, and an AIRFORCE is a military branch of most countries.",
+            "AIFORCES include planes such as fighter JETS."
+        ]
     },
     "83d7ee9f-8489-486a-8baa-6ff6b9dce031": {
         "pos": [
             "SCHOOL",
             "MISSILE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "PHYSICS",
+        "explanations": [
+            "PHYSICS is a subject of study taught in many schools.",
+            "MISSILES are weapons that use the principles of PHYSICS, such as force and motion, to propel themselves through the air or space with the goal of hitting a target."
+        ]
     },
     "909dff5e-ff9e-46fc-bc61-de7702f148ed": {
         "pos": [
             "POLICE",
             "SPIKE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "DUI",
+        "explanations": [
+            "POLICE officers are often responsible for enforcing laws against driving under the influence (DUI).",
+            "To SPIKE means to add alcohol into a drink, while a DUI is driving under the influence of alcohol, so both are related to alcohol."
+        ]
     },
     "f586d14f-be13-482b-8369-fdfc7fa85efc": {
         "pos": [
             "BOMB",
             "SHAKESPEARE"
         ],
-        "neg": []
-    },
-    "852d018c-4f01-487b-989c-e7c96c818e68": {
-        "pos": [
-            "TAG",
-            "WALL"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "TRAGEDY",
+        "explanations": [
+            "The detonation of a BOMB can cause massive damage and loss of life, which is considered a TRAGEDY.",
+            "SHAKESPEARE wrote many plays such as Romeo and Juliet that are TRAGEDIES."
+        ]
     },
     "387e09b2-ece4-4271-aca8-df05f0aa08a4": {
         "pos": [
             "KING",
             "SQUARE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "PLAZA",
+        "explanations": [
+            "A PLAZA can sometimes be named after a KING, or it may be a place where a KING or other important person holds court or conducts official business.",
+            "A PLAZA is a type of SQUARE, typically larger and more grand in scale."
+        ]
     },
     "481fcb8b-9d1e-4aa6-bc8b-e6cdf27ec872": {
         "pos": [
             "SPELL",
             "DATE"
         ],
-        "neg": []
-    },
-    "658711b5-a065-4738-ab8a-9dfa1bd109fc": {
-        "pos": [
-            "CRASH",
-            "TAIL"
-        ],
-        "neg": []
-    },
-    "09d8f530-362c-451e-bd45-41c8a637717b": {
-        "pos": [
-            "EMBASSY",
-            "DISEASE"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "LETTER",
+        "explanations": [
+            "SPELLING involves arranging LETTERS in the correct order to form a word.",
+            "LETTERS are often DATED so that the recipient and anyone else who sees the LETTER can know when it was written."
+        ]
     },
     "dcc1732b-d189-4469-9fc5-62722b9dedad": {
         "pos": [
             "CAPITAL",
             "CHOCOLATE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "BRUSSELS",
+        "explanations": [
+            "BRUSSELS is the CAPITAL of Belgium.",
+            "BRUSSELS, the capital city of Belgium, is known for its high-quality CHOCOLATE, which is made using traditional methods and ingredients."
+        ]
     },
     "0e7da936-cf73-468a-8149-2f39b39c39d6": {
         "pos": [
             "MOON",
             "CHANGE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "PHASE",
+        "explanations": [
+            "The PHASES of the MOON refer to the different appearances of the MOON as it orbits the Earth",
+            "A PHASE is a specific stage or period in a process of CHANGE or development, and CHANGE refers to the act of making or becoming different."
+        ]
     },
     "486c668b-27df-4a2a-b732-830918c04dd7": {
         "pos": [
             "BAND",
             "GAME"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "TICKETS",
+        "explanations": [
+            "TICKETS are often required to attend a concert or event featuring a BAND.",
+            "TICKETS are often required to attend a sports GAME or other event."
+        ]
     },
     "564bacfe-41fe-4678-862c-0ec35238dff5": {
         "pos": [
             "SUPERHERO",
             "JUPITER"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "MYTHICAL",
+        "explanations": [
+            "SUPERHEROES and MYTHICAL beings are both fictional characters that are often depicted with extraordinary powers or abilities.",
+            "Roman MYTHOLOGY, Jupiter was the king of the gods, and was often depicted as a powerful and influential deity."
+        ]
     },
     "9162791a-ec4f-49f2-8176-0d447e712337": {
         "pos": [
             "TIME",
             "ROUND"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "CLOCK",
+        "explanations": [
+            "CLOCKS are used for telling TIME.",
+            "A CLOCK is often ROUND in shape, with a circular face and a circular rim or bezel surrounding the face."
+        ]
     },
     "60405aeb-1696-4327-ab9e-dcb65a0e14b1": {
         "pos": [
             "AUSTRALIA",
             "TEMPLE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "DREAMTIME",
+        "explanations": [
+            "DREAMTIME is the foundation of AUSTRALIAN aboriginal culture and religion.",
+            "TEMPLES are often believed to be places where people can connect with spirits, such as the creator spirits in the religion DREAMTIME."
+        ]
     },
     "e8e59f0e-6f43-403a-b118-f8592efda7e6": {
         "pos": [
             "NET",
             "FACE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "HAIR",
+        "explanations": [
+            "A HAIR NET is a type of NET that is worn over the head to keep HAIR in place, such as to keep long HAIR from getting in the way while working.",
+            "HAIR is often found on the FACE."
+        ]
     },
     "420fdda3-61dc-4235-b114-37749a80ed03": {
         "pos": [
             "PARACHUTE",
             "WITCH"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "FLY",
+        "explanations": [
+            "The parachute allows the person to \"FLY\" or float through the air, rather than falling straight down.",
+            "WITCHES are often depicted as capable of FLYING on their broomsticks."
+        ]
     },
     "13c9b3bb-8d84-4418-b58a-f6a939217453": {
         "pos": [
             "GAME",
             "JAM"
         ],
-        "neg": []
-    },
-    "5f64eab6-7bcd-4cb7-ab8b-324edb7fc7dc": {
-        "pos": [
-            "DAY",
-            "HORN"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "HACKATHON",
+        "explanations": [
+            "GAMES are a popular subject of HACKATHONS because they involve the development of interactive and engaging software, and can be used to showcase the skills and creativity of the participants.",
+            "A HACKATHON and a JAM are both events that bring together people to work on projects in a collaborative and intensive manner."
+        ]
     },
     "1b9730ae-6218-4902-be51-ffc439484ccb": {
         "pos": [
             "PIT",
             "OPERA"
         ],
-        "neg": []
-    },
-    "95a22a45-a773-45c2-abcc-cc55acc65e2d": {
-        "pos": [
-            "PIN",
-            "GLOVE"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "ORCHESTRA",
+        "explanations": [
+            "An ORCHESTRA typically performs in a PIT.",
+            "An ORCHESTRA often performs music for an OPERA. "
+        ]
     },
     "a85fcde8-9e3c-4bec-b169-0f3e3796d0a5": {
         "pos": [
             "NINJA",
             "SATELLITE"
         ],
-        "neg": []
-    },
-    "88740a8e-624f-40c5-89a7-528e912cdbd0": {
-        "pos": [
-            "HEART",
-            "ROBOT"
-        ],
-        "neg": []
-    },
-    "f7c8b544-e0a6-46c6-a72e-864dc4e41be3": {
-        "pos": [
-            "CAT",
-            "CAP"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "JAXA",
+        "explanations": [
+            "NINJAS originated from Japan and JAXA is the Japan Aerospace Exploration Agency, so both are related to Japan.",
+            "JAXA, or the Japan Aerospace Exploration Agency, is an organization that develops and operates SATELLITES."
+        ]
     },
     "ec7b2e75-9bc4-4c06-b3e5-48f0d051c42b": {
         "pos": [
             "CLOAK",
             "LEPRECHAUN"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "HAT",
+        "explanations": [
+            "HAT and CLOAK are both types of clothing that are worn on the body.",
+            "LEPRECHAUNS are often depicted in popular culture as wearing a HAT, specifically a green HAT with a buckle on the front."
+        ]
     },
     "824e8687-9224-4462-a0da-e0575e6f822b": {
         "pos": [
             "UNDERTAKER",
             "DEGREE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "MURDER",
+        "explanations": [
+            "The act of MURDER can result in the need for the services of an UNDERTAKER.",
+            "MURDER is a crime that is punishable by a certain DEGREE, or level, of severity, such as first DEGREE murder or second DEGREE murder."
+        ]
     },
     "09c26788-2a0d-40b3-8c47-9a3637882e45": {
         "pos": [
             "AUSTRALIA",
             "CRANE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "BROLGA",
+        "explanations": [
+            "BROLGAS are a type of large, grey crane native to AUSTRALIA, so they are specifically found and are an iconic species in that country.",
+            "BROLGAS are a type of large, grey CRANE native to Australia."
+        ]
     },
     "a2416984-12cd-44cc-9753-907290ad41e1": {
         "pos": [
             "STOCK",
             "EUROPE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "LSEG",
+        "explanations": [
+            "LSEG, or London STOCK Exchange Group, is a financial services company that operates STOCK exchanges and provides related services, including the London STOCK Exchange.",
+            "LSEG, or London Stock Exchange Group, is a financial services company that operates stock exchanges and provides related services, including the London Stock Exchange, which is located in the United Kingdom, a country in EUROPE."
+        ]
     },
     "0513219b-ebc4-45ce-9dd5-0a08c0d5d07c": {
         "pos": [
             "LAWYER",
             "STATE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "LEGISLATION",
+        "explanations": [
+            "A LAWYER may be involved in interpreting and applying LEGISLATION in the course of their work, particularly if they specialize in a particular area of law.",
+            "A state has the power to create and enforce laws, which are known as LEGISLATION."
+        ]
     },
     "e97cba43-2f28-4f11-b0f9-1ae63e69c35d": {
         "pos": [
             "AGENT",
             "VAN"
         ],
-        "neg": []
-    },
-    "c4df4a3b-33fe-499a-b0da-460acc56d53d": {
-        "pos": [
-            "POST",
-            "GAS"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "DRIVER",
+        "explanations": [
+            "In some cases, a DRIVER may be considered an AGENT if they are responsible for transporting goods or people as part of their job.",
+            "A driver may operate a VAN as part of their job."
+        ]
     },
     "62bf79b3-a50f-4b5d-97e3-561f252de5f2": {
         "pos": [
             "BEAT",
             "POOL"
         ],
-        "neg": []
-    },
-    "d27af189-0188-4a59-a1b9-f38d14d57702": {
-        "pos": [
-            "ROOT",
-            "STRIKE"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "GAME",
+        "explanations": [
+            "\"BEAT\" can be a verb that means to defeat or win against someone or something in a competition or GAME.",
+            "POOL is a type of GAME that involves hitting balls with a cue stick into pockets on a table."
+        ]
     },
     "476cf598-92e5-4397-890d-7fd036b3d6a8": {
         "pos": [
             "MASS",
             "LION"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "LARGE",
+        "explanations": [
+            "An object with a LARGE MASS may also be physically LARGE, and an object that is physically LARGE may also have a large MASS.",
+            "LIONS are a type of LARGE cat that are known for their size and strength."
+        ]
     },
     "7b19815d-216b-4d91-ab4f-d1655c739e45": {
         "pos": [
             "AIR",
             "SPOT"
         ],
-        "neg": []
-    },
-    "037d6212-dd67-4fdc-a58b-a3db1b76d0e0": {
-        "pos": [
-            "LAWYER",
-            "SCORPION"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "HAWK",
+        "explanations": [
+            "HAWKS are birds of prey with wings and are adapted for flying, and as such, they are typically found in the AIR.",
+            "HAWKS are birds of prey with keen eyesight, and as such, they are skilled at SPOTTING their prey or other objects of interest from a distance."
+        ]
     },
     "ab39ef2c-5eb0-4edb-a463-a3d6a08cd8ee": {
         "pos": [
             "CRICKET",
             "CAST"
         ],
-        "neg": []
-    },
-    "172791cc-604e-4c39-9cac-a126e6530323": {
-        "pos": [
-            "GERMANY",
-            "POST"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "LAGAAN",
+        "explanations": [
+            "\"LAGAAN\" is the title of a movie that is set in the late 19th century in India and tells the story of a group of villagers who challenge their British rulers to a game of CRICKET in order to avoid paying high taxes.",
+            "The CAST of a movie includes the actors who appear in the film, and \"LAGAAN\" is a movie that has a CAST of actors."
+        ]
     },
     "6f708015-1f2e-4a2c-81cb-2410ba6d809e": {
         "pos": [
             "THIEF",
             "SPY"
         ],
-        "neg": []
-    },
-    "2c1ee4e4-7d24-4c6a-b264-7a09f32e5c56": {
-        "pos": [
-            "TRIANGLE",
-            "PISTOL"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "DECEPTIVE",
+        "explanations": [
+            "A THIEF may use DECEPTION or trickery in order to steal something without being caught.",
+            "A SPY may use DECEPTION as a means of gathering information or carrying out their mission, such as by posing as someone else or using false or misleading information."
+        ]
     },
     "79e87aa0-7a67-42a7-87a4-9f7ad171941d": {
         "pos": [
             "ROSE",
             "DIAMOND"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "BEAUTIFUL",
+        "explanations": [
+            "ROSES are often considered to be BEAUTIFUL plants due to their attractive appearance and pleasant fragrance.",
+            "DIAMONDS are often considered to be BEAUTIFUL due to their sparkling appearance and value as a precious gemstone."
+        ]
     },
     "f705bb7d-038e-433e-8a29-66f76d049e0a": {
         "pos": [
             "CONTRACT",
             "CHARGE"
         ],
-        "neg": []
-    },
-    "5a3a3b37-64f2-48fc-b264-804a8160bedb": {
-        "pos": [
-            "GREECE",
-            "TICK"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "FINANCE",
+        "explanations": [
+            "CONTRACTS are often used in FINANCIAL transactions or arrangements",
+            "CHARGING someone for a service or product is a FINANCIAL transaction"
+        ]
     },
     "b766f203-bb9f-4a83-9901-6cb02b7d39a5": {
         "pos": [
             "LIMOUSINE",
             "HORSESHOE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "HORSEPOWER",
+        "explanations": [
+            "HORSEPOWER describes the power output of engines, such as the engine of a LIMOUSINES.",
+            "HORSESHOE is worn by horses, and HORSEPOWER is a word derived from horse, so both HORSEPOWER and HORSESHOE are related to horses."
+        ]
     },
     "31f0d83d-b568-455d-829e-f38883347dd7": {
         "pos": [
             "CAPITAL",
             "FORCE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "GOVERNMENT",
+        "explanations": [
+            "A CAPITAL is the seat of GOVERNMENT in a nation.",
+            "A GOVERNMENT has the power to use FORCE, such as the police or military, to enforce laws and maintain order within a society."
+        ]
     },
     "a8869bae-01d2-453f-83e7-fa1ed7886777": {
         "pos": [
             "PIN",
             "PLATE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "METAL",
+        "explanations": [
+            "A PIN can be made of METAL, such as a metal PIN or safety PIN.",
+            "PLATE and METAL are related because a PLATE can be made of METAL, such as a METAL PLATE or tray."
+        ]
     },
     "6400abc0-d2b2-485a-9216-cefd13f091ff": {
         "pos": [
             "MOLE",
             "POISON"
         ],
-        "neg": []
-    },
-    "d098a5c4-ebf3-4479-9da4-8c21289e5b98": {
-        "pos": [
-            "NOVEL",
-            "MOUTH"
-        ],
-        "neg": []
-    },
-    "d051039b-f9bf-4153-8c85-7f8c34862c1e": {
-        "pos": [
-            "MOLE",
-            "MODEL"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "RAT",
+        "explanations": [
+            "RATS and MOLES are both small, burrowing animals.",
+            "RATS may be attracted to POISON, which can be used as a means of controlling or eliminating RAT populations."
+        ]
     },
     "780299c8-a144-45e5-98bc-692a9ceef6ac": {
         "pos": [
             "LIGHT",
             "LOG"
         ],
-        "neg": []
-    },
-    "6bf65c98-f0ed-40f3-9a63-e9a9c5da8879": {
-        "pos": [
-            "AGENT",
-            "DIAMOND"
-        ],
-        "neg": []
-    },
-    "2d3d6ac6-00b8-486e-af12-ad50a31085e2": {
-        "pos": [
-            "SPELL",
-            "POLE"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "FIRE",
+        "explanations": [
+            "FIRE produces LIGHT as a byproduct of the chemical reaction that occurs when a fuel is burned.",
+            "A LOG can be used as a fuel to start and maintain a FIRE."
+        ]
     },
     "06d1f3f3-8fc3-457b-bc9f-6c90a235074e": {
         "pos": [
             "RING",
             "SCREEN"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "LOTR",
+        "explanations": [
+            "The RING is a key element of the story of \"The Lord of the Rings.\" (LOTR).",
+            "\"The Lord of the Rings\" (LOTR) has been adapted into various forms of media, including movies, that may be shown on a SCREEN."
+        ]
     },
     "93cb1ae9-50ef-4d32-9c45-65cb2a883bcf": {
         "pos": [
             "JET",
             "DEGREE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "ENGINEERING",
+        "explanations": [
+            "A JET is built as a feat of ENGINEERING.",
+            "ENGINEERING is a DEGREE option at many universities."
+        ]
     },
     "59bb24ee-73d3-4660-9916-b0fd3f6bf466": {
         "pos": [
             "MISSILE",
             "LONDON"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "NATO",
+        "explanations": [
+            "NATO is a military alliance that includes countries that have MISSILE capabilities and have used MISSILES as a means of defense or offense.",
+            "LONDON is the capital of the United Kingdom, which is a member of NATO."
+        ]
     },
     "71fc85b2-9887-4ba2-856f-a84fbe8707ea": {
         "pos": [
             "PAPER",
             "CHINA"
         ],
-        "neg": []
-    },
-    "7275b294-4de2-4605-9b3e-522edf6773f4": {
-        "pos": [
-            "LEMON",
-            "BEACH"
-        ],
-        "neg": []
-    },
-    "f0b1070e-c677-4a97-a468-873d08d15e58": {
-        "pos": [
-            "NOTE",
-            "LIMOUSINE"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "CALLIGRAPHY",
+        "explanations": [
+            "CALLIGRAPHY is typically done using PAPER as a surface to write on.",
+            "CALLIGRAPHY has a significant place in Chinese culture and history, and it is often associated with CHINA."
+        ]
     },
     "c4ebf496-c5f9-49d3-ad8d-d68708193b1d": {
         "pos": [
             "BOND",
             "BOLT"
         ],
-        "neg": []
-    },
-    "ed80062f-bb74-4f7d-812b-731717d1f8ad": {
-        "pos": [
-            "WASHINGTON",
-            "BRUSH"
-        ],
-        "neg": []
-    },
-    "3a08f55f-ae2a-4998-9ae8-dac33151c1a9": {
-        "pos": [
-            "SERVER",
-            "CLIFF"
-        ],
-        "neg": []
-    },
-    "09dfd84b-10cb-4bba-b946-9c3b46a0d28c": {
-        "pos": [
-            "WITCH",
-            "HORN"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "FASTEN",
+        "explanations": [
+            "BOND and FASTEN both involve the concept of attaching or securing something in place.",
+            "A BOLT is inserted through a hole and tightened with a nut in order to FASTEN two or more things securely in place."
+        ]
     },
     "33d68a3d-a2c7-4ff9-b354-471f1be332e5": {
         "pos": [
             "SATELLITE",
             "HELICOPTER"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "MACHINE",
+        "explanations": [
+            "A SATELLITE is a type of MACHINE that is designed to perform specific tasks in space, such as transmitting data or providing navigation services.",
+            "A HELICOPTER is a type of MACHINE that is designed to fly and perform a variety of tasks, such as transportation, surveillance, or rescue operations."
+        ]
     },
     "cb6ae3c6-38bd-431b-88ac-d996bf1fc4f1": {
         "pos": [
             "DWARF",
             "DICE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "DND",
+        "explanations": [
+            "In DND, or \"Dungeons & Dragons,\" DWARVES are one of the player character races that a player can choose to play as.",
+            "In DND, or \"Dungeons & Dragons,\" DICE are used to determine the outcome of various actions and events that take place within the game."
+        ]
     },
     "9f63ed98-a8a6-438b-aa40-9327918a58aa": {
         "pos": [
             "MODEL",
             "BEACH"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "BIKINI",
+        "explanations": [
+            "BIKINIS are often associated with MODELS and the fashion industry, and MODELS are often depicted wearing BIKINIS in various media.",
+            "BIKINIS are a popular choice of swimwear for the BEACH because they are lightweight, comfortable, and suitable for a variety of BEACH activities."
+        ]
     },
     "b6aeb8e3-c9c4-4990-9a36-7719bd784d93": {
         "pos": [
             "MEXICO",
             "SOUL"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "COCO",
+        "explanations": [
+            "COCO is a MEXICAN-themed animated film produced by Pixar Animation Studios.",
+            "Both COCO and SOUL are animated films produced by Pixar Animation Studios and released by Walt Disney Pictures."
+        ]
     },
     "20db3fc9-456a-48ac-ac2d-9c7ab81a7819": {
         "pos": [
             "CHARGE",
             "CAP"
         ],
-        "neg": []
-    },
-    "6d9034b1-ee3c-458c-83d4-811b45374c47": {
-        "pos": [
-            "SWING",
-            "HOTEL"
-        ],
-        "neg": []
-    },
-    "cd1f64fe-6c4f-4fab-b369-ec09a9911bd4": {
-        "pos": [
-            "BOND",
-            "LAP"
-        ],
-        "neg": []
-    },
-    "08a0d8cc-4e78-4093-929d-2f90231cfbd1": {
-        "pos": [
-            "BATTERY",
-            "PRINCESS"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "HEADSET",
+        "explanations": [
+            "The HEADSET typically requires a CHARGE in order to function properly and for a longer period of time.",
+            "A HEADSET and CAP are both wearable items on the head."
+        ]
     },
     "c36e8075-b55f-405e-88e4-dbb4e29ae53b": {
         "pos": [
             "TABLET",
             "PLATE"
         ],
-        "neg": []
+        "neg": [],
+        "clue": "CLAY",
+        "explanations": [
+            "A TABLET is a type of FLAT, portable computer.",
+            "A PLATE is a FLAT, circular dish for serving food."
+        ]
     },
     "18d4c4b0-1a93-4ca2-afb8-26207f781d96": {
         "pos": [
             "HEART",
             "CAR"
         ],
-        "neg": []
-    },
-    "3079e179-f636-4958-8057-c90a3254af1a": {
-        "pos": [
-            "PLAY",
-            "SPOT"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "PUMP",
+        "explanations": [
+            "A HEART PUMPS blood throughout the body.",
+            "A PUMP is a device that is used to move fluid or gas, and it is often used in a CAR to pump various fluids, such as oil, water, and fuel."
+        ]
     },
     "b9c94f3a-0615-4e82-880a-31ddf2b88f05": {
         "pos": [
             "SHARK",
             "MOUSE"
         ],
-        "neg": []
-    },
-    "0f8b99ce-7af9-43a9-8a5a-6e24a4a2ea71": {
-        "pos": [
-            "PASTE",
-            "STADIUM"
-        ],
-        "neg": []
-    },
-    "867e22a8-84cb-44e7-b779-045ab664ea83": {
-        "pos": [
-            "UNDERTAKER",
-            "BERRY"
-        ],
-        "neg": []
-    },
-    "52d91de1-05ff-4a13-8e87-fb2dcb10ac2b": {
-        "pos": [
-            "PLASTIC",
-            "DWARF"
-        ],
-        "neg": []
-    },
-    "0d0160bb-3f92-4a67-80e3-5f6abe307fe8": {
-        "pos": [
-            "HAM",
-            "WHALE"
-        ],
-        "neg": []
-    },
-    "371ef4b4-ad2b-4e3b-8458-b84bc2a4d6ec": {
-        "pos": [
-            "SOUL",
-            "MASS"
-        ],
-        "neg": []
-    },
-    "7fb1a63e-fe91-45a2-a674-2096b049a13f": {
-        "pos": [
-            "TRACK",
-            "TEMPLE"
-        ],
-        "neg": []
-    },
-    "0eef86ff-f2d0-4db8-8e13-c8676e77f199": {
-        "pos": [
-            "FALL",
-            "CELL"
-        ],
-        "neg": []
-    },
-    "3e7fd6c6-5f0d-4314-8a30-9d93b999166f": {
-        "pos": [
-            "BUCK",
-            "SATURN"
-        ],
-        "neg": []
-    },
-    "92e97ea4-6d71-49c6-938a-1803cc438b4f": {
-        "pos": [
-            "TRAIN",
-            "LITTER"
-        ],
-        "neg": []
-    },
-    "eb7dbbb0-74ac-478f-b1f4-7cd6f4a3c561": {
-        "pos": [
-            "BEAR",
-            "LAP"
-        ],
-        "neg": []
-    },
-    "d7bc6257-4a6a-40e5-8bc2-8267c8890cc9": {
-        "pos": [
-            "VACUUM",
-            "PLASTIC"
-        ],
-        "neg": []
-    },
-    "22aaf3b6-74db-4468-8688-46d1f027b184": {
-        "pos": [
-            "SKYSCRAPER",
-            "PIANO"
-        ],
-        "neg": []
-    },
-    "5ac81a8a-35d2-432d-8b9f-f7746b3b509c": {
-        "pos": [
-            "GREECE",
-            "FOREST"
-        ],
-        "neg": []
-    },
-    "3c3b3195-3b74-444e-8cfe-87b3d92f6de4": {
-        "pos": [
-            "SOCK",
-            "PARACHUTE"
-        ],
-        "neg": []
-    },
-    "03a3bd50-3dd6-45a0-9334-05768f417a09": {
-        "pos": [
-            "GAS",
-            "SPIKE"
-        ],
-        "neg": []
-    },
-    "93ed19b9-34a0-4edb-a659-7d67754a0d29": {
-        "pos": [
-            "MISSILE",
-            "BOARD"
-        ],
-        "neg": []
-    },
-    "09693c88-5453-4f6e-88de-5f847952a824": {
-        "pos": [
-            "KIWI",
-            "BACK"
-        ],
-        "neg": []
-    },
-    "fc16e050-af71-49b4-8e5e-f5cd12bfb7cf": {
-        "pos": [
-            "FIGHTER",
-            "KIWI"
-        ],
-        "neg": []
-    },
-    "c06e629a-ce7c-467d-8490-64a491cfbe51": {
-        "pos": [
-            "SNOW",
-            "CYCLE"
-        ],
-        "neg": []
-    },
-    "fa2d1a37-f583-40f8-89e3-cf4f3490f98b": {
-        "pos": [
-            "BAND",
-            "POUND"
-        ],
-        "neg": []
-    },
-    "78f7c287-0829-4a5f-aa90-cb59bea25ed9": {
-        "pos": [
-            "MICROSCOPE",
-            "BAT"
-        ],
-        "neg": []
-    },
-    "786a8419-8f02-4193-8199-5545d4baa7e1": {
-        "pos": [
-            "ROCK",
-            "BARK"
-        ],
-        "neg": []
-    },
-    "db982179-52cb-4829-bd2e-faefc2108903": {
-        "pos": [
-            "LEMON",
-            "CRASH"
-        ],
-        "neg": []
-    },
-    "47f1c393-7b2b-4716-8b82-549ffe998ee9": {
-        "pos": [
-            "CAT",
-            "HOTEL"
-        ],
-        "neg": []
-    },
-    "c3b9775f-b3da-4940-976c-5f8c57f3bfc4": {
-        "pos": [
-            "CONDUCTOR",
-            "STAFF"
-        ],
-        "neg": []
-    },
-    "641e29f3-9494-4634-b085-d3b23ad95173": {
-        "pos": [
-            "WHIP",
-            "MODEL"
-        ],
-        "neg": []
-    },
-    "3026564c-44c3-4ad2-b109-56b222a29475": {
-        "pos": [
-            "AMAZON",
-            "CZECH"
-        ],
-        "neg": []
-    },
-    "a1062335-70a4-46e2-aa81-1077e28d2d11": {
-        "pos": [
-            "CLIFF",
-            "WHALE"
-        ],
-        "neg": []
-    },
-    "5bdb3b43-16ea-4d2c-a51e-8653e3ccc408": {
-        "pos": [
-            "CHANGE",
-            "PITCH"
-        ],
-        "neg": []
-    },
-    "e2c82616-815b-4c9d-883e-a20bfa5fcf38": {
-        "pos": [
-            "DUCK",
-            "GAME"
-        ],
-        "neg": []
-    },
-    "099c7d78-92c9-4801-8771-06eabbaf0791": {
-        "pos": [
-            "WASHER",
-            "SUPERHERO"
-        ],
-        "neg": []
-    },
-    "6c25dcf0-0ace-491c-8d79-fa31a40248a1": {
-        "pos": [
-            "FOOT",
-            "KID"
-        ],
-        "neg": []
-    },
-    "92fbfa6e-a976-4754-963f-0ef4fe144ff1": {
-        "pos": [
-            "REVOLUTION",
-            "PLANE"
-        ],
-        "neg": []
-    },
-    "4cd633a1-1abf-45f0-ac3d-65700113d1fc": {
-        "pos": [
-            "NOTE",
-            "CARD"
-        ],
-        "neg": []
-    },
-    "9aa1d0b3-b0ac-4d22-9728-332fefcdf823": {
-        "pos": [
-            "GHOST",
-            "TRAIN"
-        ],
-        "neg": []
-    },
-    "fe347c6c-5ad6-4854-b208-64bbb70e1d53": {
-        "pos": [
-            "SOUND",
-            "LAWYER"
-        ],
-        "neg": []
-    },
-    "e94cc359-27bd-43d6-a7de-6bbccc019d28": {
-        "pos": [
-            "CYCLE",
-            "FIGHTER"
-        ],
-        "neg": []
-    },
-    "990f5ca9-55cc-4812-9e04-d9a92847e43f": {
-        "pos": [
-            "MUG",
-            "DWARF"
-        ],
-        "neg": []
-    },
-    "635ceb58-a49b-4e76-94b5-16f70ea072d8": {
-        "pos": [
-            "ROULETTE",
-            "MILLIONAIRE"
-        ],
-        "neg": []
-    },
-    "02d51a3c-5028-4c96-b3bc-f8abb6d72d61": {
-        "pos": [
-            "LASER",
-            "THEATER"
-        ],
-        "neg": []
-    },
-    "264bc097-32e9-4e00-b85f-be0124aef8dd": {
-        "pos": [
-            "PASTE",
-            "VAN"
-        ],
-        "neg": []
-    },
-    "dea7d252-3df0-49f5-80af-4a1edba8d4b4": {
-        "pos": [
-            "CANADA",
-            "UNICORN"
-        ],
-        "neg": []
-    },
-    "895e65b5-e9b4-4bf5-98f4-f48f2a6aef7c": {
-        "pos": [
-            "COTTON",
-            "PIN"
-        ],
-        "neg": []
-    },
-    "de05a515-12aa-47ca-a643-c2da28b7f6c7": {
-        "pos": [
-            "LUCK",
-            "MODEL"
-        ],
-        "neg": []
-    },
-    "e9fdf026-d95c-43c1-80a4-8a8e44c788df": {
-        "pos": [
-            "EUROPE",
-            "THEATER"
-        ],
-        "neg": []
-    },
-    "02599d2f-90cf-4d8b-b94f-3dc7077601bf": {
-        "pos": [
-            "EMBASSY",
-            "SKYSCRAPER"
-        ],
-        "neg": []
-    },
-    "038c4d1d-2235-4501-9dbb-6425e73f708f": {
-        "pos": [
-            "BERMUDA",
-            "PLATE"
-        ],
-        "neg": []
-    },
-    "86104fc7-80a6-4c4b-b428-3973b62a68e2": {
-        "pos": [
-            "JUPITER",
-            "HEART"
-        ],
-        "neg": []
-    },
-    "d135b0a5-d98d-4627-abe2-cc95a68e2e36": {
-        "pos": [
-            "SCUBA DIVER",
-            "BAT"
-        ],
-        "neg": []
-    },
-    "0eefd224-4cce-4523-a16b-6926cfe0997d": {
-        "pos": [
-            "WEB",
-            "CENTAUR"
-        ],
-        "neg": []
-    },
-    "b98f4e1f-f636-4819-bc7d-bca685f7a0da": {
-        "pos": [
-            "GENIUS",
-            "MAIL"
-        ],
-        "neg": []
-    },
-    "ea8c1c96-aa86-4d74-a217-09034c61aed6": {
-        "pos": [
-            "STATE",
-            "ROBIN"
-        ],
-        "neg": []
-    },
-    "7c0d28a4-fa6c-4682-a8a4-f920a0b28b5b": {
-        "pos": [
-            "LIFE",
-            "STRAW"
-        ],
-        "neg": []
-    },
-    "057128a2-0ec6-4632-b129-d71ed794be64": {
-        "pos": [
-            "FIGHTER",
-            "PIPE"
-        ],
-        "neg": []
-    },
-    "d1dc6984-4ea1-4cde-877c-88f25cbd8cec": {
-        "pos": [
-            "DWARF",
-            "CHICK"
-        ],
-        "neg": []
-    },
-    "9475b372-1a16-4c03-8259-16d5560a13cf": {
-        "pos": [
-            "BOMB",
-            "PLATYPUS"
-        ],
-        "neg": []
-    },
-    "41ec3c9a-5402-4fcd-85b8-1afc350a3ce0": {
-        "pos": [
-            "NIGHT",
-            "ICE CREAM"
-        ],
-        "neg": []
-    },
-    "b9152d18-cdbc-4ea3-a269-97506256e985": {
-        "pos": [
-            "TURKEY",
-            "RACKET"
-        ],
-        "neg": []
-    },
-    "3777cd14-05e2-44c0-aec4-f575dd962923": {
-        "pos": [
-            "NIGHT",
-            "STREAM"
-        ],
-        "neg": []
-    },
-    "eaf813b1-210d-494e-ba0a-d1555f83dc21": {
-        "pos": [
-            "LIMOUSINE",
-            "KNIGHT"
-        ],
-        "neg": []
-    },
-    "1d11f11e-4b80-4fbd-a357-7574d009e063": {
-        "pos": [
-            "BALL",
-            "EUROPE"
-        ],
-        "neg": []
-    },
-    "e40b008a-63e9-49bd-961b-9c3eadf8a30b": {
-        "pos": [
-            "CHEST",
-            "QUEEN"
-        ],
-        "neg": []
-    },
-    "16f7ce1f-6cb0-4750-80f2-e7812bc8bebd": {
-        "pos": [
-            "LAWYER",
-            "YARD"
-        ],
-        "neg": []
-    },
-    "bacde05f-f166-4ac5-98e7-d40ca4d1768a": {
-        "pos": [
-            "FACE",
-            "SHOT"
-        ],
-        "neg": []
-    },
-    "58196fc6-5a1a-4455-9a04-9aea6f11bf99": {
-        "pos": [
-            "CARROT",
-            "CRICKET"
-        ],
-        "neg": []
-    },
-    "01ac611a-9063-49eb-a4dc-8becc806e487": {
-        "pos": [
-            "THIEF",
-            "STAFF"
-        ],
-        "neg": []
-    },
-    "77b2d922-67a4-4cdb-8904-2e85c599353c": {
-        "pos": [
-            "TABLET",
-            "PRINCESS"
-        ],
-        "neg": []
-    },
-    "93c9079e-1d48-44d2-8657-2c3393ed68c8": {
-        "pos": [
-            "TIE",
-            "GLASS"
-        ],
-        "neg": []
-    },
-    "1bc527ae-f605-43e7-99b3-e34faadb2fcb": {
-        "pos": [
-            "CELL",
-            "TRIP"
-        ],
-        "neg": []
-    },
-    "a750c5cd-8e1e-48bc-a97e-140ee8e5525f": {
-        "pos": [
-            "SQUARE",
-            "APPLE"
-        ],
-        "neg": []
-    },
-    "cc787e18-82a8-4374-bb3c-7d20bc414114": {
-        "pos": [
-            "IVORY",
-            "STRAW"
-        ],
-        "neg": []
-    },
-    "74c7814d-3fa2-46c7-bdc8-9680c7b5b765": {
-        "pos": [
-            "LAWYER",
-            "POISON"
-        ],
-        "neg": []
-    },
-    "c06a7ff9-82fd-42a2-adde-167c2db02f4a": {
-        "pos": [
-            "SPY",
-            "NAIL"
-        ],
-        "neg": []
-    },
-    "2ab5afd6-cabf-4d38-bdf1-250b5bc47c35": {
-        "pos": [
-            "COMIC",
-            "INDIA"
-        ],
-        "neg": []
-    },
-    "1af119f9-6c52-4645-99f7-8bd203021e4e": {
-        "pos": [
-            "CAT",
-            "SQUARE"
-        ],
-        "neg": []
-    },
-    "8a986b34-2e8c-4876-bc42-ea451dc9bea2": {
-        "pos": [
-            "GROUND",
-            "BLOCK"
-        ],
-        "neg": []
-    },
-    "29cb0507-72d8-44ab-82c4-496a60a321cd": {
-        "pos": [
-            "NEW YORK",
-            "GREEN"
-        ],
-        "neg": []
-    },
-    "0387d270-7263-415e-aa18-158095cd6728": {
-        "pos": [
-            "CRICKET",
-            "TRAIN"
-        ],
-        "neg": []
-    },
-    "fdfac69c-a790-40df-ae2d-4262ac9aadb8": {
-        "pos": [
-            "BED",
-            "ROCK"
-        ],
-        "neg": []
-    },
-    "06351677-76f3-40dc-94ac-38c8c6becb0f": {
-        "pos": [
-            "SHIP",
-            "HORSE"
-        ],
-        "neg": []
-    },
-    "10ec272f-4cc2-429e-877b-b2b4ab04cc18": {
-        "pos": [
-            "ENGLAND",
-            "AUSTRALIA"
-        ],
-        "neg": []
-    },
-    "d821aa94-0ea6-4077-8ba6-90334715cb0f": {
-        "pos": [
-            "HORSE",
-            "PIE"
-        ],
-        "neg": []
-    },
-    "600649e1-ef1e-40a8-bd09-4077209cda61": {
-        "pos": [
-            "HONEY",
-            "MOUSE"
-        ],
-        "neg": []
-    },
-    "db9bc580-19d1-4186-b92a-60cd642765b0": {
-        "pos": [
-            "POST",
-            "GLASS"
-        ],
-        "neg": []
-    },
-    "ce761fa9-3a43-41db-8517-d46517ce2685": {
-        "pos": [
-            "HAND",
-            "ROW"
-        ],
-        "neg": []
-    },
-    "f6ac3470-a0b5-47d7-96c5-7d1aa265f946": {
-        "pos": [
-            "HORSE",
-            "DISEASE"
-        ],
-        "neg": []
-    },
-    "47307b8f-3104-4597-b90a-aa85b9eb24a1": {
-        "pos": [
-            "IRON",
-            "KNIGHT"
-        ],
-        "neg": []
-    },
-    "abc35f05-d571-4ae8-82cd-0090e138377c": {
-        "pos": [
-            "MINE",
-            "BUFFALO"
-        ],
-        "neg": []
-    },
-    "1ce131b8-bfce-4718-9d0f-0f088d7c3278": {
-        "pos": [
-            "GROUND",
-            "SWITCH"
-        ],
-        "neg": []
-    },
-    "96f212ff-8f54-470a-a324-1571182337be": {
-        "pos": [
-            "NOTE",
-            "THEATER"
-        ],
-        "neg": []
-    },
-    "6df83eec-c9e1-44c4-bce1-6796196e23ac": {
-        "pos": [
-            "DUCK",
-            "THUMB"
-        ],
-        "neg": []
-    },
-    "dd77516a-81ed-4e73-a23e-1299b4a1bf14": {
-        "pos": [
-            "THEATER",
-            "FISH"
-        ],
-        "neg": []
-    },
-    "f09caad5-cbe2-429a-b560-e1404a5caf34": {
-        "pos": [
-            "GREEN",
-            "STRING"
-        ],
-        "neg": []
-    },
-    "03081252-70f5-4b5d-816f-c37437999315": {
-        "pos": [
-            "STAR",
-            "BERRY"
-        ],
-        "neg": []
-    },
-    "4c1f6365-69b0-4979-9dd7-9c793a3ea728": {
-        "pos": [
-            "ENGINE",
-            "WATER"
-        ],
-        "neg": []
-    },
-    "54ddda62-5640-4cdc-9648-bcbc85812c53": {
-        "pos": [
-            "CLIFF",
-            "CHARGE"
-        ],
-        "neg": []
-    },
-    "39a69ef1-c440-4647-b6bb-2e3218a62302": {
-        "pos": [
-            "AIR",
-            "WEB"
-        ],
-        "neg": []
-    },
-    "35f71c8c-3d65-46ae-ab7b-ade305bac799": {
-        "pos": [
-            "BED",
-            "DINOSAUR"
-        ],
-        "neg": []
-    },
-    "c1d5c7d4-d5cb-402b-bef9-9d08329e2f83": {
-        "pos": [
-            "CHURCH",
-            "OPERA"
-        ],
-        "neg": []
-    },
-    "e6d38788-fbe8-44f1-9aaf-1510af1b477d": {
-        "pos": [
-            "MODEL",
-            "UNDERTAKER"
-        ],
-        "neg": []
-    },
-    "c350c6cf-d28d-4a34-9647-8d513703a794": {
-        "pos": [
-            "STRING",
-            "BERRY"
-        ],
-        "neg": []
-    },
-    "f370ec4f-acb1-454b-bd45-18b2d9d71cce": {
-        "pos": [
-            "HAWK",
-            "WALL"
-        ],
-        "neg": []
-    },
-    "ce90f0a6-0f41-4cb6-91ef-fb6027246fc5": {
-        "pos": [
-            "PUPIL",
-            "TELESCOPE"
-        ],
-        "neg": []
-    },
-    "ed9d8fb0-73cf-4df1-af50-50c103445e00": {
-        "pos": [
-            "PLAY",
-            "SLUG"
-        ],
-        "neg": []
-    },
-    "d591bfc7-4af5-4e28-9229-e7574329ec77": {
-        "pos": [
-            "CARD",
-            "EUROPE"
-        ],
-        "neg": []
-    },
-    "0c3e19b1-6678-442c-aaef-a54b885a803b": {
-        "pos": [
-            "LAWYER",
-            "ANTARCTICA"
-        ],
-        "neg": []
-    },
-    "94c34784-d94c-42b5-8147-cca0b2a06afd": {
-        "pos": [
-            "FLY",
-            "SPIDER"
-        ],
-        "neg": []
-    },
-    "f730c85f-d8ee-460a-8bd5-c25b7baa7c6f": {
-        "pos": [
-            "CHAIR",
-            "NEEDLE"
-        ],
-        "neg": []
-    },
-    "06559af4-97ea-431c-87be-cf3516c81b6f": {
-        "pos": [
-            "SMUGGLER",
-            "HOLE"
-        ],
-        "neg": []
-    },
-    "4d72dda5-4849-476b-9856-f88879aebf33": {
-        "pos": [
-            "BOOT",
-            "ARM"
-        ],
-        "neg": []
-    },
-    "dee894dd-acbf-4a20-b77c-e36a8e11e813": {
-        "pos": [
-            "VET",
-            "PAN"
-        ],
-        "neg": []
-    },
-    "cd4bfc7a-4550-4892-8dd1-6f01fe1d0696": {
-        "pos": [
-            "SMUGGLER",
-            "BUGLE"
-        ],
-        "neg": []
-    },
-    "004ff11c-ac9f-4a60-b685-063246b1398a": {
-        "pos": [
-            "AZTEC",
-            "PIE"
-        ],
-        "neg": []
-    },
-    "9702ecb9-a662-44f9-ad56-69a17ca6f04f": {
-        "pos": [
-            "BOTTLE",
-            "OPERA"
-        ],
-        "neg": []
-    },
-    "09003d6f-4f4a-4ebe-9f59-4e44990878c3": {
-        "pos": [
-            "WAR",
-            "ICE CREAM"
-        ],
-        "neg": []
-    },
-    "366db417-8db8-4225-ab18-c96adfec3c8c": {
-        "pos": [
-            "CHECK",
-            "FISH"
-        ],
-        "neg": []
-    },
-    "28f04f84-670a-437c-bc7a-6d46f2e24070": {
-        "pos": [
-            "ARM",
-            "CHECK"
-        ],
-        "neg": []
-    },
-    "fd5164cb-df54-4b4b-aff5-189be4114103": {
-        "pos": [
-            "KIWI",
-            "CROWN"
-        ],
-        "neg": []
-    },
-    "a2a4b235-b3d0-4a3a-b67a-2ab7638fd1f0": {
-        "pos": [
-            "TORCH",
-            "PENGUIN"
-        ],
-        "neg": []
-    },
-    "7c5acb1a-ae5e-4469-8562-2d3b12db7e07": {
-        "pos": [
-            "BOLT",
-            "FOOT"
-        ],
-        "neg": []
-    },
-    "a45b1a1d-5e8b-415e-8737-96a77a3b64f6": {
-        "pos": [
-            "DINOSAUR",
-            "DRESS"
-        ],
-        "neg": []
-    },
-    "5c0b9cb5-8116-45e7-9bc6-be766c286893": {
-        "pos": [
-            "TRAIN",
-            "HAND"
-        ],
-        "neg": []
-    },
-    "4d0ed740-ede4-4203-a06c-d0b0b62b8a5b": {
-        "pos": [
-            "ORGAN",
-            "AZTEC"
-        ],
-        "neg": []
-    },
-    "21b1cc9a-552a-49eb-808c-20ee60e2cdc2": {
-        "pos": [
-            "SCORPION",
-            "SPY"
-        ],
-        "neg": []
-    },
-    "2111ca40-6377-4f1a-b0d4-a06d331786e6": {
-        "pos": [
-            "AZTEC",
-            "JET"
-        ],
-        "neg": []
-    },
-    "ed46c0bc-104d-49ec-bd3b-7de5c1c3f3d2": {
-        "pos": [
-            "BILL",
-            "BOMB"
-        ],
-        "neg": []
-    },
-    "71e91faf-bd47-4638-9235-451b4110adef": {
-        "pos": [
-            "PIT",
-            "SWING"
-        ],
-        "neg": []
-    },
-    "11b7d37f-646d-47ff-a0ea-92e95e42503f": {
-        "pos": [
-            "PAPER",
-            "THUMB"
-        ],
-        "neg": []
-    },
-    "089dbacb-bf0c-447d-8cf5-6c9e032a3a6d": {
-        "pos": [
-            "PIT",
-            "ROULETTE"
-        ],
-        "neg": []
-    },
-    "d54fdc99-74cf-435d-9128-1af729b44108": {
-        "pos": [
-            "GIANT",
-            "LION"
-        ],
-        "neg": []
-    },
-    "fa5815aa-435e-4480-87c9-bc006b175259": {
-        "pos": [
-            "BAT",
-            "LAP"
-        ],
-        "neg": []
-    },
-    "ffff87ff-f10f-4180-aa6f-dace5a08420c": {
-        "pos": [
-            "COPPER",
-            "CARROT"
-        ],
-        "neg": []
-    },
-    "d3ee6deb-20ab-4c23-8b7a-167e752bf9c4": {
-        "pos": [
-            "DWARF",
-            "LION"
-        ],
-        "neg": []
-    },
-    "0fb657c7-234b-43dd-a5fe-a659b81d3ec4": {
-        "pos": [
-            "LOCH NESS",
-            "SCORPION"
-        ],
-        "neg": []
-    },
-    "a58f6e14-2d13-4224-9b4a-4bc78c364f7f": {
-        "pos": [
-            "SHAKESPEARE",
-            "SOUND"
-        ],
-        "neg": []
-    },
-    "2a640614-2de4-4e06-8579-a8806fddbc12": {
-        "pos": [
-            "MASS",
-            "MINE"
-        ],
-        "neg": []
-    },
-    "463cdca6-57b7-4b65-838a-775959e3313a": {
-        "pos": [
-            "FAN",
-            "SOUL"
-        ],
-        "neg": []
-    },
-    "28c1b028-a817-4c57-883e-fb36d2f3c5d3": {
-        "pos": [
-            "HOLE",
-            "PARK"
-        ],
-        "neg": []
-    },
-    "27b425df-d9a2-49c8-8e18-176be2f7a622": {
-        "pos": [
-            "WITCH",
-            "WELL"
-        ],
-        "neg": []
-    },
-    "ea93b369-b3f7-4317-b37a-5f1f91a93e2f": {
-        "pos": [
-            "BUFFALO",
-            "AMAZON"
-        ],
-        "neg": []
-    },
-    "d1b440d6-c271-4f78-a442-105dd8ce336f": {
-        "pos": [
-            "SERVER",
-            "GAME"
-        ],
-        "neg": []
-    },
-    "1303d9b9-2469-4e01-a458-f779dc873f0c": {
-        "pos": [
-            "KIWI",
-            "FORCE"
-        ],
-        "neg": []
-    },
-    "ed1e6cd2-278d-4ff5-b9a0-ad33b11d15df": {
-        "pos": [
-            "WAR",
-            "DOG"
-        ],
-        "neg": []
-    },
-    "7ae77afa-d44b-4def-82e6-82e010e27099": {
-        "pos": [
-            "GIANT",
-            "SOUL"
-        ],
-        "neg": []
-    },
-    "d21ece8e-d565-4b1e-a2e6-daf68e41be50": {
-        "pos": [
-            "REVOLUTION",
-            "SHIP"
-        ],
-        "neg": []
-    },
-    "a04879b1-86d4-43a5-8608-8743f9d2eb3e": {
-        "pos": [
-            "ROBIN",
-            "EUROPE"
-        ],
-        "neg": []
-    },
-    "ce545ec5-cf54-439a-b575-078c6e5d3935": {
-        "pos": [
-            "FORK",
-            "BOMB"
-        ],
-        "neg": []
-    },
-    "0b098073-b8c5-482a-88fb-e9497cf85677": {
-        "pos": [
-            "BUGLE",
-            "LEAD"
-        ],
-        "neg": []
-    },
-    "6bda87c8-1069-4d0e-959b-05be20ef8b51": {
-        "pos": [
-            "HOLE",
-            "PLOT"
-        ],
-        "neg": []
-    },
-    "ffb4ed67-c644-4f9f-8913-3a0eab1578e9": {
-        "pos": [
-            "CASINO",
-            "SUB"
-        ],
-        "neg": []
-    },
-    "749b7ed9-4a60-4091-8f6e-08193c307518": {
-        "pos": [
-            "ICE CREAM",
-            "WHALE"
-        ],
-        "neg": []
-    },
-    "97eef954-da40-477b-aeb1-39e35d11f5b8": {
-        "pos": [
-            "INDIA",
-            "COMPOUND"
-        ],
-        "neg": []
-    },
-    "79551ce2-8c0e-46d6-8863-eec0dcf62746": {
-        "pos": [
-            "KANGAROO",
-            "EYE"
-        ],
-        "neg": []
-    },
-    "a5f4dcfc-fcc4-401a-a224-785e5f34df6e": {
-        "pos": [
-            "TOWER",
-            "BRUSH"
-        ],
-        "neg": []
-    },
-    "6dcb419e-20a5-4b85-be36-88d49b9e3ad6": {
-        "pos": [
-            "SHAKESPEARE",
-            "BRIDGE"
-        ],
-        "neg": []
-    },
-    "cd3630fb-1c2a-4e55-84c4-061cedbf0224": {
-        "pos": [
-            "OIL",
-            "PISTOL"
-        ],
-        "neg": []
-    },
-    "e3b0c488-276b-4145-acf0-7ea535f92879": {
-        "pos": [
-            "SLIP",
-            "WAR"
-        ],
-        "neg": []
-    },
-    "7a11d98a-7180-4a42-a1b6-e0cfc7073e04": {
-        "pos": [
-            "KANGAROO",
-            "BAT"
-        ],
-        "neg": []
-    },
-    "51ad9483-b999-4a31-87df-68771304761a": {
-        "pos": [
-            "LOG",
-            "MINT"
-        ],
-        "neg": []
-    },
-    "f17c52f4-36d5-47d6-8232-6e250262fb68": {
-        "pos": [
-            "POUND",
-            "VET"
-        ],
-        "neg": []
-    },
-    "df8ecf77-d32b-4a02-8b4d-7dc7b452108e": {
-        "pos": [
-            "TOOTH",
-            "ANTARCTICA"
-        ],
-        "neg": []
-    },
-    "ecb21726-4489-49f5-88ad-bd947185ad21": {
-        "pos": [
-            "MAIL",
-            "BOX"
-        ],
-        "neg": []
-    },
-    "818171d9-1208-4580-a8f7-11c103c93cdb": {
-        "pos": [
-            "OLYMPUS",
-            "SPIKE"
-        ],
-        "neg": []
-    },
-    "8e8a673d-a4b2-4563-bce3-b77ea1127f9b": {
-        "pos": [
-            "CRANE",
-            "HOTEL"
-        ],
-        "neg": []
-    },
-    "d5152c55-7533-4e33-94d6-8d5c6f6f9feb": {
-        "pos": [
-            "WELL",
-            "MASS"
-        ],
-        "neg": []
-    },
-    "c64972c4-6d38-4499-8fc5-7379eabf9e72": {
-        "pos": [
-            "ICE",
-            "TRIP"
-        ],
-        "neg": []
-    },
-    "6a1eb2a0-5250-40f9-a3a4-3344671fd100": {
-        "pos": [
-            "CAR",
-            "CHINA"
-        ],
-        "neg": []
-    },
-    "434505a0-0992-4a72-8ba8-e4b0d7480d53": {
-        "pos": [
-            "SCUBA DIVER",
-            "LASER"
-        ],
-        "neg": []
-    },
-    "23a91b1d-7dbf-4399-9cc7-91686f23dacd": {
-        "pos": [
-            "HORSE",
-            "NAIL"
-        ],
-        "neg": []
-    },
-    "389d3d65-54bc-41c7-8470-aa23069adf20": {
-        "pos": [
-            "BUCK",
-            "MICROSCOPE"
-        ],
-        "neg": []
-    },
-    "20c640aa-2e7a-40bc-adbf-884360bb4245": {
-        "pos": [
-            "LOCH NESS",
-            "DOG"
-        ],
-        "neg": []
-    },
-    "db1f83bc-708a-4be6-8d27-1fd2985e7989": {
-        "pos": [
-            "SMUGGLER",
-            "BELL"
-        ],
-        "neg": []
-    },
-    "50cdc70c-49c4-4480-837a-5b65f10c7f8f": {
-        "pos": [
-            "ALPS",
-            "BUTTON"
-        ],
-        "neg": []
-    },
-    "63bd89da-2ca9-491e-a08e-7889b318cab8": {
-        "pos": [
-            "SCALE",
-            "MUG"
-        ],
-        "neg": []
-    },
-    "46c2c29f-e297-4925-8ca2-ba04a9720a5c": {
-        "pos": [
-            "TELESCOPE",
-            "CHANGE"
-        ],
-        "neg": []
-    },
-    "8f225ca4-c1d6-4b2b-9124-038f7b2d69e4": {
-        "pos": [
-            "TIE",
-            "BLOCK"
-        ],
-        "neg": []
-    },
-    "77dfe330-a7b1-4e74-8039-ce2bc96a1cf1": {
-        "pos": [
-            "SPOT",
-            "SEAL"
-        ],
-        "neg": []
-    },
-    "da6b18c0-efc2-4143-89fb-8470e56763ff": {
-        "pos": [
-            "KETCHUP",
-            "TAIL"
-        ],
-        "neg": []
-    },
-    "13212f68-2067-4b84-b385-252520211635": {
-        "pos": [
-            "OPERA",
-            "MINE"
-        ],
-        "neg": []
-    },
-    "58f29f3b-920f-4be8-9dd8-b50b7209d3d9": {
-        "pos": [
-            "CHINA",
-            "PARK"
-        ],
-        "neg": []
-    },
-    "49280945-5e40-45f7-8f1e-31a565115e26": {
-        "pos": [
-            "GHOST",
-            "HIMALAYAS"
-        ],
-        "neg": []
-    },
-    "8218af37-565a-4501-aab1-a5b8bd76d1b5": {
-        "pos": [
-            "SLIP",
-            "STRAW"
-        ],
-        "neg": []
-    },
-    "b19c298e-3938-4819-9dfe-428da6cdb2ed": {
-        "pos": [
-            "NOVEL",
-            "CZECH"
-        ],
-        "neg": []
-    },
-    "66e9ccc2-2f1f-4699-8f27-971146855a3a": {
-        "pos": [
-            "VACUUM",
-            "OLIVE"
-        ],
-        "neg": []
-    },
-    "0a90addc-c91a-4314-a825-9db8c77fb2be": {
-        "pos": [
-            "LUCK",
-            "HOSPITAL"
-        ],
-        "neg": []
-    },
-    "9539190c-1663-44a6-97c6-39d94d4c0d4f": {
-        "pos": [
-            "DISEASE",
-            "FENCE"
-        ],
-        "neg": []
-    },
-    "c4379597-e89e-4867-8c17-6a8f73c54d7d": {
-        "pos": [
-            "LEMON",
-            "VAN"
-        ],
-        "neg": []
-    },
-    "3074da68-0eec-4c97-b294-6c303dfd0091": {
-        "pos": [
-            "CHICK",
-            "GREEN"
-        ],
-        "neg": []
-    },
-    "57ccfe28-379f-425e-9c35-927fc8031438": {
-        "pos": [
-            "FOREST",
-            "BUCK"
-        ],
-        "neg": []
-    },
-    "34591f9d-3e40-4dea-9098-676399e4b919": {
-        "pos": [
-            "LINE",
-            "STICK"
-        ],
-        "neg": []
-    },
-    "803b7110-1e4a-456a-b81d-90370d32cba2": {
-        "pos": [
-            "GLOVE",
-            "LOCK"
-        ],
-        "neg": []
-    },
-    "dba3bbf2-0121-48c7-a683-e52ad801c1ac": {
-        "pos": [
-            "AFRICA",
-            "BELT"
-        ],
-        "neg": []
-    },
-    "88a446a7-20d2-461a-95f7-c0f229503b45": {
-        "pos": [
-            "NUT",
-            "EGYPT"
-        ],
-        "neg": []
-    },
-    "1702eddd-c607-4577-b7ba-960e73b425b7": {
-        "pos": [
-            "SKYSCRAPER",
-            "WELL"
-        ],
-        "neg": []
-    },
-    "be1fb2e3-e5bf-41bf-a3c7-0af973cc304b": {
-        "pos": [
-            "JUPITER",
-            "MASS"
-        ],
-        "neg": []
-    },
-    "62183060-3d49-408c-9417-0cedb2e806d0": {
-        "pos": [
-            "SWING",
-            "SNOW"
-        ],
-        "neg": []
-    },
-    "789606a1-7dbd-4074-bd4a-c8a4aa2d7762": {
-        "pos": [
-            "ROUND",
-            "TRAIN"
-        ],
-        "neg": []
-    },
-    "163c2496-a48b-4847-91f0-5be871d41140": {
-        "pos": [
-            "TEMPLE",
-            "FORK"
-        ],
-        "neg": []
-    },
-    "9c251475-fc82-4cbc-ace6-8c711362d175": {
-        "pos": [
-            "BILL",
-            "MEXICO"
-        ],
-        "neg": []
-    },
-    "6cdf25ca-6cf1-4c8e-a679-bcacf8b9084f": {
-        "pos": [
-            "BOLT",
-            "HORN"
-        ],
-        "neg": []
-    },
-    "3b42e6f6-b2cb-4425-9175-1e232cd90907": {
-        "pos": [
-            "FLY",
-            "CONDUCTOR"
-        ],
-        "neg": []
-    },
-    "29a4ec93-6376-4247-8290-6ca08f68986c": {
-        "pos": [
-            "SMUGGLER",
-            "BRUSH"
-        ],
-        "neg": []
-    },
-    "a246a645-6c34-4583-94df-3ad27950626f": {
-        "pos": [
-            "MOUTH",
-            "TOWER"
-        ],
-        "neg": []
-    },
-    "bfe63a79-2c1d-4599-9ca4-4a2661ad8edc": {
-        "pos": [
-            "IRON",
-            "PASS"
-        ],
-        "neg": []
-    },
-    "50b6f6b8-f9d8-40b8-a00c-82a23e0d663f": {
-        "pos": [
-            "BLOCK",
-            "CHARGE"
-        ],
-        "neg": []
-    },
-    "86fad35c-30d5-462a-823e-45673574ed9c": {
-        "pos": [
-            "SPY",
-            "AIR"
-        ],
-        "neg": []
-    },
-    "c73c59d9-1b95-4888-a90f-4cebef70d5d8": {
-        "pos": [
-            "SUPERHERO",
-            "BOOT"
-        ],
-        "neg": []
-    },
-    "c4f96190-ee01-4086-be45-c97aafb1190a": {
-        "pos": [
-            "LITTER",
-            "SOLDIER"
-        ],
-        "neg": []
-    },
-    "90874640-cd39-48b4-a256-dff1a47869cb": {
-        "pos": [
-            "STRAW",
-            "SOCK"
-        ],
-        "neg": []
-    },
-    "165d0f77-533f-4d20-b087-25eb6db72bd4": {
-        "pos": [
-            "SPACE",
-            "NOVEL"
-        ],
-        "neg": []
-    },
-    "3cf522bc-8478-4796-a645-bb6af5d3e4b9": {
-        "pos": [
-            "PASTE",
-            "CIRCLE"
-        ],
-        "neg": []
-    },
-    "1effe117-4f2d-43e7-a6ef-a0716918e386": {
-        "pos": [
-            "ICE",
-            "GAME"
-        ],
-        "neg": []
-    },
-    "87afcbb8-4128-4dab-8583-cc93d9b77f24": {
-        "pos": [
-            "BEAR",
-            "HONEY"
-        ],
-        "neg": []
-    },
-    "3789973e-dc3b-4b4b-87d7-8ae6137bd247": {
-        "pos": [
-            "FIRE",
-            "FILM"
-        ],
-        "neg": []
-    },
-    "5c639453-8688-45a6-8f1c-e6173a65fd53": {
-        "pos": [
-            "FIGURE",
-            "PAPER"
-        ],
-        "neg": []
-    },
-    "da699698-9c49-41b0-beef-8444d353b4ee": {
-        "pos": [
-            "PART",
-            "CLIFF"
-        ],
-        "neg": []
-    },
-    "dd106368-a0ba-44dc-90bd-fe93b964fb61": {
-        "pos": [
-            "LOG",
-            "SHOP"
-        ],
-        "neg": []
-    },
-    "b907daa0-5ea8-49b2-8d68-d35ebda200f3": {
-        "pos": [
-            "ALIEN",
-            "AMAZON"
-        ],
-        "neg": []
-    },
-    "d9621f84-c80b-4c57-8aa0-555f8f174558": {
-        "pos": [
-            "WAR",
-            "GROUND"
-        ],
-        "neg": []
-    },
-    "b12dc2f0-119a-4c94-b6a7-6f53a2c6ab54": {
-        "pos": [
-            "AMBULANCE",
-            "SHAKESPEARE"
-        ],
-        "neg": []
-    },
-    "d442086f-1943-4d00-a304-d2496c34e8d1": {
-        "pos": [
-            "ICE",
-            "DOG"
-        ],
-        "neg": []
-    },
-    "5e8c1ae0-3bad-4445-9ee7-74c03c843c80": {
-        "pos": [
-            "BATTERY",
-            "CHAIR"
-        ],
-        "neg": []
-    },
-    "ec76d907-129e-4fee-8f43-225e1c3dea3a": {
-        "pos": [
-            "WITCH",
-            "PAN"
-        ],
-        "neg": []
-    },
-    "f976902b-b274-4c4e-8820-faf6fdb6a525": {
-        "pos": [
-            "MOUTH",
-            "ROW"
-        ],
-        "neg": []
-    },
-    "adbf4fd7-d76e-43ec-b1cf-35978389fe2b": {
-        "pos": [
-            "NEEDLE",
-            "DECK"
-        ],
-        "neg": []
-    },
-    "275a4ed2-d44b-4119-bdca-033572e5f783": {
-        "pos": [
-            "HAND",
-            "KNIGHT"
-        ],
-        "neg": []
-    },
-    "1f768611-5bde-4158-ae4f-53bae0efff79": {
-        "pos": [
-            "CLOAK",
-            "NIGHT"
-        ],
-        "neg": []
-    },
-    "c44660f5-b129-4b00-8af6-1de197e4184a": {
-        "pos": [
-            "FORK",
-            "ORANGE"
-        ],
-        "neg": []
-    },
-    "4223139d-6d25-4b7a-98d0-b65cc4191591": {
-        "pos": [
-            "SWITCH",
-            "FILE"
-        ],
-        "neg": []
-    },
-    "73908684-0199-48e7-909a-f085d7db65c2": {
-        "pos": [
-            "POUND",
-            "TEACHER"
-        ],
-        "neg": []
-    },
-    "3a882fca-1f14-44e7-822c-2f86d48347fb": {
-        "pos": [
-            "BAND",
-            "HORN"
-        ],
-        "neg": []
-    },
-    "37db2ef5-3aae-42b2-8a80-5f52ad571d42": {
-        "pos": [
-            "PART",
-            "SOCK"
-        ],
-        "neg": []
-    },
-    "ea83db40-cf13-4428-b5f3-6d2604706b25": {
-        "pos": [
-            "CRASH",
-            "BEAR"
-        ],
-        "neg": []
-    },
-    "e1a54abe-57b4-4c7f-8fa3-67a827f8b78e": {
-        "pos": [
-            "LIMOUSINE",
-            "PRINCESS"
-        ],
-        "neg": []
-    },
-    "ee498fac-7bc3-4d1b-82cc-57e245fa2d7b": {
-        "pos": [
-            "VET",
-            "MILLIONAIRE"
-        ],
-        "neg": []
-    },
-    "bbb5d4b8-eb30-40fe-8f86-6d79613ccdc8": {
-        "pos": [
-            "ROBIN",
-            "CAR"
-        ],
-        "neg": []
-    },
-    "29e51a66-d770-4eee-8c66-9be94c9e64ba": {
-        "pos": [
-            "ORANGE",
-            "MINT"
-        ],
-        "neg": []
-    },
-    "5704acc2-c0db-4b47-a906-31994e834e85": {
-        "pos": [
-            "BUTTON",
-            "BOARD"
-        ],
-        "neg": []
-    },
-    "64c63b17-8669-48e7-8602-c39f71fef49b": {
-        "pos": [
-            "WHALE",
-            "BOLT"
-        ],
-        "neg": []
-    },
-    "6b451440-cbf6-47a9-ab7b-e65619d06c11": {
-        "pos": [
-            "PAN",
-            "TEMPLE"
-        ],
-        "neg": []
-    },
-    "1389e48e-eebb-4d60-93f7-50131ffc8c1b": {
-        "pos": [
-            "STRIKE",
-            "SPY"
-        ],
-        "neg": []
-    },
-    "b822533f-378d-4608-8ab7-71bd8753c4cd": {
-        "pos": [
-            "WALL",
-            "GLASS"
-        ],
-        "neg": []
-    },
-    "d9868e54-6024-46dc-87c3-2ace072df11d": {
-        "pos": [
-            "SPOT",
-            "CYCLE"
-        ],
-        "neg": []
-    },
-    "963c5ef5-60d1-4e34-a530-5d0c37327c81": {
-        "pos": [
-            "SNOW",
-            "SOUND"
-        ],
-        "neg": []
-    },
-    "14029682-65d6-4d38-9b15-52e9aaa4aa13": {
-        "pos": [
-            "PASTE",
-            "DRESS"
-        ],
-        "neg": []
-    },
-    "ed78af8a-54ef-497a-91d2-04c71dbd366a": {
-        "pos": [
-            "CONDUCTOR",
-            "MISSILE"
-        ],
-        "neg": []
-    },
-    "40541894-96c5-4f2e-bd05-c7a61d6cdce6": {
-        "pos": [
-            "HAND",
-            "ENGINE"
-        ],
-        "neg": []
-    },
-    "d20f4a1d-3a22-45cc-9115-5b0720e254fa": {
-        "pos": [
-            "PRINCESS",
-            "SNOW"
-        ],
-        "neg": []
-    },
-    "d0df823e-1816-48b4-a60c-6d01c8fcef27": {
-        "pos": [
-            "SNOW",
-            "DRAFT"
-        ],
-        "neg": []
-    },
-    "e10b9236-fdab-4f74-adab-957709d93ec9": {
-        "pos": [
-            "BRUSH",
-            "EGYPT"
-        ],
-        "neg": []
-    },
-    "2630c0db-3ac6-4fda-8e4d-7e3a53137a88": {
-        "pos": [
-            "SERVER",
-            "LEPRECHAUN"
-        ],
-        "neg": []
-    },
-    "29584a60-e783-42d9-a9a0-76f069856219": {
-        "pos": [
-            "STRAW",
-            "LINE"
-        ],
-        "neg": []
-    },
-    "d65a3580-195b-4666-8ad2-4df74e3bad72": {
-        "pos": [
-            "ANTARCTICA",
-            "LIMOUSINE"
-        ],
-        "neg": []
-    },
-    "bff5abbd-9c3e-47e4-829b-f791217d8609": {
-        "pos": [
-            "IRON",
-            "PAN"
-        ],
-        "neg": []
-    },
-    "d3e6af59-576d-40ac-9e9e-0a16fb4d2483": {
-        "pos": [
-            "AMBULANCE",
-            "HAND"
-        ],
-        "neg": []
-    },
-    "69f82cc7-33ef-462d-a656-63481cadc6fc": {
-        "pos": [
-            "LIFE",
-            "OIL"
-        ],
-        "neg": []
-    },
-    "1c797b7c-7a47-4d89-ac58-7bf9ed1c1d25": {
-        "pos": [
-            "GERMANY",
-            "MODEL"
-        ],
-        "neg": []
-    },
-    "95b5f90c-1b1f-4c0d-8906-4da7b5807d6d": {
-        "pos": [
-            "ENGLAND",
-            "UNDERTAKER"
-        ],
-        "neg": []
-    },
-    "6476ab6e-a3fc-41b6-a18b-ba781f1c15a5": {
-        "pos": [
-            "TRAIN",
-            "SWITCH"
-        ],
-        "neg": []
-    },
-    "9a8501e9-6005-41dc-8722-d4b9da9c40c6": {
-        "pos": [
-            "BILL",
-            "AMERICA"
-        ],
-        "neg": []
-    },
-    "e2b3c83d-4c76-4eb3-b319-acd70f7121c9": {
-        "pos": [
-            "MOON",
-            "CAP"
-        ],
-        "neg": []
-    },
-    "045c35ad-ddda-467a-9a6a-f1aa2e27cc6a": {
-        "pos": [
-            "SLUG",
-            "NIGHT"
-        ],
-        "neg": []
-    },
-    "7edce082-00fa-47a2-aa0a-95cbc62c3fe6": {
-        "pos": [
-            "YARD",
-            "PORT"
-        ],
-        "neg": []
-    },
-    "26b05d0e-6a8b-4f2d-9700-e4628d3dba94": {
-        "pos": [
-            "FIELD",
-            "PLATYPUS"
-        ],
-        "neg": []
-    },
-    "68b30902-0810-41c7-9368-d78cf5f755f2": {
-        "pos": [
-            "FIELD",
-            "BAND"
-        ],
-        "neg": []
-    },
-    "192c0703-0bb9-45c9-8fb2-80eb3fde94e7": {
-        "pos": [
-            "PAN",
-            "SCORPION"
-        ],
-        "neg": []
-    },
-    "a6be63d0-5056-4289-9ab4-d370b4f2fa1f": {
-        "pos": [
-            "PIPE",
-            "CHINA"
-        ],
-        "neg": []
-    },
-    "d76b221c-2b84-4f11-b97b-1012a8e1a139": {
-        "pos": [
-            "CAT",
-            "DIAMOND"
-        ],
-        "neg": []
-    },
-    "321e78f9-2388-4543-993e-491e462a2b5e": {
-        "pos": [
-            "JET",
-            "BATTERY"
-        ],
-        "neg": []
-    },
-    "be4e9174-614c-46d9-9ed7-b7e7b781c5f1": {
-        "pos": [
-            "ANTARCTICA",
-            "VAN"
-        ],
-        "neg": []
-    },
-    "5bb32af0-d48b-43d0-9beb-56f6358ad04b": {
-        "pos": [
-            "MOSCOW",
-            "AUSTRALIA"
-        ],
-        "neg": []
-    },
-    "05c1e34e-6625-43dd-8b3a-c22dd79119f6": {
-        "pos": [
-            "SPOT",
-            "ORANGE"
-        ],
-        "neg": []
-    },
-    "3a51424d-c45d-49c6-8f29-e7f539da5721": {
-        "pos": [
-            "ROBOT",
-            "TEMPLE"
-        ],
-        "neg": []
-    },
-    "cb2ccef4-3782-4cb3-9b00-87bbe34a0445": {
-        "pos": [
-            "STRING",
-            "LAWYER"
-        ],
-        "neg": []
-    },
-    "d7a4cd35-6e08-4eb2-8c0a-1f755d376d33": {
-        "pos": [
-            "GIANT",
-            "CHURCH"
-        ],
-        "neg": []
-    },
-    "5148f88a-2402-439e-a432-46a3915608ff": {
-        "pos": [
-            "THIEF",
-            "FORCE"
-        ],
-        "neg": []
-    },
-    "e4cbea02-a1ca-4dec-97d6-297734888c61": {
-        "pos": [
-            "DICE",
-            "DRAFT"
-        ],
-        "neg": []
-    },
-    "0b8e94c7-dc89-4396-9faf-9001aa065b98": {
-        "pos": [
-            "PUMPKIN",
-            "ROBIN"
-        ],
-        "neg": []
-    },
-    "b70349b6-780f-4d46-8c41-5b61d5b06d9d": {
-        "pos": [
-            "RABBIT",
-            "CODE"
-        ],
-        "neg": []
-    },
-    "af98defa-29e8-4fd1-848c-095d1596cac7": {
-        "pos": [
-            "MOLE",
-            "LEMON"
-        ],
-        "neg": []
-    },
-    "87b6a86b-91f4-42b0-98cb-f5869edd5580": {
-        "pos": [
-            "TOOTH",
-            "SOUL"
-        ],
-        "neg": []
-    },
-    "34ee25db-a35b-4d21-b1cc-4e53e8a14896": {
-        "pos": [
-            "BELT",
-            "LUCK"
-        ],
-        "neg": []
-    },
-    "4a78e0fc-d983-4638-81a3-fe7efec53c4d": {
-        "pos": [
-            "CODE",
-            "CAPITAL"
-        ],
-        "neg": []
-    },
-    "8af7e9a0-63fb-42ff-8577-f26cae36ffa2": {
-        "pos": [
-            "TORCH",
-            "GOLD"
-        ],
-        "neg": []
-    },
-    "fa96a99f-97e8-45e5-b4af-01ff7bde6a2d": {
-        "pos": [
-            "HOOD",
-            "CHICK"
-        ],
-        "neg": []
-    },
-    "66906d08-fa3d-4368-9a01-3b05a46ac17e": {
-        "pos": [
-            "CRICKET",
-            "BATTERY"
-        ],
-        "neg": []
-    },
-    "3a5a45d2-1335-43bc-9f04-c230c5697226": {
-        "pos": [
-            "POINT",
-            "CLIFF"
-        ],
-        "neg": []
-    },
-    "b163fe98-54d9-4484-a5d9-90ee46a56305": {
-        "pos": [
-            "CODE",
-            "REVOLUTION"
-        ],
-        "neg": []
-    },
-    "3b57c2b7-d716-49b8-9463-3ba1586b603f": {
-        "pos": [
-            "GLASS",
-            "APPLE"
-        ],
-        "neg": []
-    },
-    "763a68cf-6362-47ae-8437-946b51fcc0ac": {
-        "pos": [
-            "PRESS",
-            "MUG"
-        ],
-        "neg": []
-    },
-    "39b48dd0-97b3-4b5d-91b2-d9ea1f3175e4": {
-        "pos": [
-            "BUG",
-            "DECK"
-        ],
-        "neg": []
-    },
-    "1fbaece4-fbf8-4550-aca2-a467cdb09fdf": {
-        "pos": [
-            "LAB",
-            "BANK"
-        ],
-        "neg": []
-    },
-    "d7f467e4-9a6c-454c-817b-39105b933ab6": {
-        "pos": [
-            "STREAM",
-            "DOCTOR"
-        ],
-        "neg": []
-    },
-    "6ede95de-cb25-43d8-a71a-fd5f7204a5e1": {
-        "pos": [
-            "SLIP",
-            "PASTE"
-        ],
-        "neg": []
-    },
-    "3b3c6c65-2ade-4325-90f7-d875d7d33f5c": {
-        "pos": [
-            "DUCK",
-            "TABLE"
-        ],
-        "neg": []
-    },
-    "b33074d2-c0b7-42cc-bfd2-e95b60863605": {
-        "pos": [
-            "ROUND",
-            "BATTERY"
-        ],
-        "neg": []
-    },
-    "5574bee7-8b7d-40b0-a7a4-0226b151aa31": {
-        "pos": [
-            "HORSESHOE",
-            "CLUB"
-        ],
-        "neg": []
-    },
-    "97c93f90-ac38-4756-83ba-e193d0c3f79a": {
-        "pos": [
-            "THEATER",
-            "SHOE"
-        ],
-        "neg": []
-    },
-    "fb4f96a5-0675-4a23-9b03-2a5b38c017a1": {
-        "pos": [
-            "BERRY",
-            "HOOK"
-        ],
-        "neg": []
-    },
-    "fc7c4bd0-dfe2-49be-ae78-3fa7aef6471a": {
-        "pos": [
-            "SHOT",
-            "MAIL"
-        ],
-        "neg": []
-    },
-    "bea82c45-5be9-451e-a194-1a3dda2927da": {
-        "pos": [
-            "REVOLUTION",
-            "KEY"
-        ],
-        "neg": []
-    },
-    "35266873-2e7f-44bc-b838-80efc0606798": {
-        "pos": [
-            "PUMPKIN",
-            "BATTERY"
-        ],
-        "neg": []
-    },
-    "287c39cd-94df-4148-900a-601e4127d460": {
-        "pos": [
-            "HOOD",
-            "BOX"
-        ],
-        "neg": []
-    },
-    "a97e2760-492d-4650-ba83-f95d8525303d": {
-        "pos": [
-            "MOLE",
-            "SCALE"
-        ],
-        "neg": []
-    },
-    "6c5262ae-fccc-41c8-ae58-8fa58bb560b7": {
-        "pos": [
-            "IVORY",
-            "BERLIN"
-        ],
-        "neg": []
-    },
-    "622b5dc2-8dc0-4370-9165-dc066c9a12af": {
-        "pos": [
-            "BEIJING",
-            "DUCK"
-        ],
-        "neg": []
-    },
-    "3ff1caaf-3851-4efd-a842-91ce8f58269a": {
-        "pos": [
-            "BRUSH",
-            "GIANT"
-        ],
-        "neg": []
-    },
-    "672027a0-b90d-45c6-bc6b-846b297413e0": {
-        "pos": [
-            "TABLET",
-            "UNICORN"
-        ],
-        "neg": []
-    },
-    "4048b91a-d2b5-42c0-9552-e9b597341759": {
-        "pos": [
-            "DIAMOND",
-            "TOOTH"
-        ],
-        "neg": []
-    },
-    "029efa1a-7633-407a-ba61-5c40cff0fe51": {
-        "pos": [
-            "HIMALAYAS",
-            "DIAMOND"
-        ],
-        "neg": []
-    },
-    "a87fc038-4bb1-423b-a93b-107892d8885c": {
-        "pos": [
-            "AMBULANCE",
-            "ALIEN"
-        ],
-        "neg": []
-    },
-    "e0f6e228-b032-4f8d-9792-aa930bb6f96b": {
-        "pos": [
-            "COPPER",
-            "DICE"
-        ],
-        "neg": []
-    },
-    "2f4b12cd-a958-411d-83d6-cc698ba86549": {
-        "pos": [
-            "TOKYO",
-            "AGENT"
-        ],
-        "neg": []
-    },
-    "fc4856f7-b9c8-4e99-8102-7a5ea25cca99": {
-        "pos": [
-            "OIL",
-            "FAIR"
-        ],
-        "neg": []
-    },
-    "6f9d1aa2-ae61-40e5-b644-7a7b981c56c0": {
-        "pos": [
-            "OIL",
-            "MINT"
-        ],
-        "neg": []
-    },
-    "05e73545-6313-4f50-976b-e0b44c5452fd": {
-        "pos": [
-            "DOG",
-            "AMBULANCE"
-        ],
-        "neg": []
-    },
-    "ee071008-87d4-4b1b-8137-d2689dd66c19": {
-        "pos": [
-            "HOSPITAL",
-            "CALF"
-        ],
-        "neg": []
-    },
-    "e588e7d1-5f7f-4dfc-9a69-82dffdcd94b0": {
-        "pos": [
-            "CHICK",
-            "PAPER"
-        ],
-        "neg": []
-    },
-    "cd88e15b-19e5-4c45-9fb5-fd0db0666647": {
-        "pos": [
-            "LEMON",
-            "LAWYER"
-        ],
-        "neg": []
-    },
-    "06921aad-8d2e-4c0d-9de4-bdcae8abcc78": {
-        "pos": [
-            "POISON",
-            "VACUUM"
-        ],
-        "neg": []
-    },
-    "86efe514-a552-4c21-95d1-715e0a4ac9b5": {
-        "pos": [
-            "DUCK",
-            "DWARF"
-        ],
-        "neg": []
-    },
-    "2a269025-b35e-431f-98e4-adbe1435bb65": {
-        "pos": [
-            "UNICORN",
-            "DANCE"
-        ],
-        "neg": []
-    },
-    "0e82927e-6d90-4dac-b840-0b3cdb081948": {
-        "pos": [
-            "SCORPION",
-            "BUGLE"
-        ],
-        "neg": []
-    },
-    "a9bbb832-2580-48c5-832a-efdef13b2510": {
-        "pos": [
-            "TAP",
-            "RULER"
-        ],
-        "neg": []
-    },
-    "4ca2f9a2-01e1-4b5b-bd06-eeeebaab6e71": {
-        "pos": [
-            "STRIKE",
-            "AZTEC"
-        ],
-        "neg": []
-    },
-    "6d107e54-be65-438d-8e19-ad0fad6f11da": {
-        "pos": [
-            "MICROSCOPE",
-            "CARROT"
-        ],
-        "neg": []
-    },
-    "6694de21-2683-41be-85a1-0bd182cc4cce": {
-        "pos": [
-            "COMPOUND",
-            "STAFF"
-        ],
-        "neg": []
-    },
-    "79d92970-5e0d-4193-811b-451b82c00609": {
-        "pos": [
-            "ROUND",
-            "MATCH"
-        ],
-        "neg": []
-    },
-    "44f85008-33bb-48bf-965d-90596ad7173e": {
-        "pos": [
-            "CHARGE",
-            "CHAIR"
-        ],
-        "neg": []
-    },
-    "9503db18-dd74-4047-bc39-0a54729b569e": {
-        "pos": [
-            "ALPS",
-            "VACUUM"
-        ],
-        "neg": []
-    },
-    "663c8c98-7550-4e01-a5ce-5d72290cc55b": {
-        "pos": [
-            "GRACE",
-            "PUMPKIN"
-        ],
-        "neg": []
-    },
-    "c7c5e373-2466-4349-bf05-56c0137e065a": {
-        "pos": [
-            "BOARD",
-            "LEPRECHAUN"
-        ],
-        "neg": []
-    },
-    "6a852b89-2613-4bcd-b975-1462ad8c8e51": {
-        "pos": [
-            "IRON",
-            "NOTE"
-        ],
-        "neg": []
-    },
-    "68df638b-58f2-4335-ad3e-86f057f2af2a": {
-        "pos": [
-            "ROW",
-            "SHOP"
-        ],
-        "neg": []
-    },
-    "d3c5e481-84d4-4a71-abac-7d221dde4476": {
-        "pos": [
-            "THUMB",
-            "PLASTIC"
-        ],
-        "neg": []
-    },
-    "ad4e063b-f544-4f4e-bd2b-a1825a710784": {
-        "pos": [
-            "AZTEC",
-            "WAVE"
-        ],
-        "neg": []
-    },
-    "4203a140-1f9a-4698-a545-28fb36176ea5": {
-        "pos": [
-            "STRING",
-            "CANADA"
-        ],
-        "neg": []
-    },
-    "a0d506c3-dd85-4b12-82f0-a799ee595dbd": {
-        "pos": [
-            "AGENT",
-            "BRIDGE"
-        ],
-        "neg": []
-    },
-    "1efcea6a-d0f3-40dc-b0e5-29d11ea4f840": {
-        "pos": [
-            "KANGAROO",
-            "SHADOW"
-        ],
-        "neg": []
-    },
-    "de7cbaad-6232-4978-af6c-88502a553ac5": {
-        "pos": [
-            "DOG",
-            "LAWYER"
-        ],
-        "neg": []
-    },
-    "28eaddcd-a62d-40df-910c-c84f93fa5ee4": {
-        "pos": [
-            "SOUL",
-            "LAB"
-        ],
-        "neg": []
-    },
-    "213e9a33-0cea-4c98-9e1a-38acd1b4847c": {
-        "pos": [
-            "FIGURE",
-            "KING"
-        ],
-        "neg": []
+        "neg": [],
+        "clue": "VERTEBRATE",
+        "explanations": [
+            "A SHARK is a type of fish, which is a type of VERTEBRATE.",
+            "A MOUSE is a type of mammal, which is a type of VERTEBRATE."
+        ]
     }
 }
