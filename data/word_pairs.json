@@ -663,5 +663,1251 @@
         "clue": "MAMMAL",
         "explanation1": "HORSES are a large type of MAMMALS.",
         "explanation2": "BATS are a type of flying MAMMALS."
+    },
+    {
+        "word1": "ICE CREAM",
+        "word2": "MUG",
+        "clue": "MILK",
+        "explanation1": "ICE CREAM is made from ingredients that come from MILK and both ICE CREAM and MILK are dairy products.",
+        "explanation2": "A MUG can be used to drink MILK."
+    },
+    {
+        "word1": "SEAL",
+        "word2": "DINOSAUR",
+        "clue": "VERTEBRATE",
+        "explanation1": "SEALS are a type of VERTEBRATE.",
+        "explanation2": "DINOSAURS are reptiles, which are a type of VERTEBRATE."
+    },
+    {
+        "word1": "KING",
+        "word2": "SLIP",
+        "clue": "CARD",
+        "explanation1": "A KING is one of the ranks in a standard deck of CARDS.",
+        "explanation2": "Both a SLIP and a CARD can refer to a small piece of paper used for writing."
+    },
+    {
+        "word1": "MOUTH",
+        "word2": "BLOCK",
+        "clue": "CHEESE",
+        "explanation1": "CHEESE is an edible food that is eaten through the MOUTH.",
+        "explanation2": "CHEESE is often sold and packaged in BLOCKS."
+    },
+    {
+        "word1": "BUFFALO",
+        "word2": "FIGHTER",
+        "clue": "BULLFIGHT",
+        "explanation1": "A BULLFIGHT involves bulls, and bulls and BUFFALO are both part of the Bovidae family.",
+        "explanation2": "BULLFIGHTS involve a bullFIGHTER, who tries to subdue the bull."
+    },
+    {
+        "word1": "LASER",
+        "word2": "CLUB",
+        "clue": "WEAPON",
+        "explanation1": "A CLUB can be used as a WEAPON.",
+        "explanation2": "A LASER gun is a common WEAPON in science fiction stories."
+    },
+    {
+        "word1": "INDIA",
+        "word2": "PLAY",
+        "clue": "CRICKET",
+        "explanation1": "CRICKET is one of the most popular sports of INDIA.",
+        "explanation2": "CRICKET is a sport that can be PLAYED."
+    },
+    {
+        "word1": "PLOT",
+        "word2": "STAFF",
+        "clue": "GANDALF",
+        "explanation1": "GANDALF is an important character in the PLOT of the Lord of the Rings.",
+        "explanation2": "GANDALF is a character from the Lord of the Rings who carries a STAFF."
+    },
+    {
+        "word1": "TAIL",
+        "word2": "DINOSAUR",
+        "clue": "ALLOSAURUS",
+        "explanation1": "ALLOSAURUS is a type of dinosaur that had a TAIL for balance.",
+        "explanation2": "ALLOSAURUS was a type of DINOSAUR."
+    },
+    {
+        "word1": "STOCK",
+        "word2": "CAR",
+        "clue": "TESLA",
+        "explanation1": "TESLA is a company with publicly traded STOCKS.",
+        "explanation2": "TESLA is a company that makes CARS."
+    },
+    {
+        "word1": "RABBIT",
+        "word2": "PARK",
+        "clue": "GRASS",
+        "explanation1": "RABBITS eat GRASS as a part of their diet.",
+        "explanation2": "PARKS are outdoors public areas that are often covered in GRASS."
+    },
+    {
+        "word1": "TOKYO",
+        "word2": "BEACH",
+        "clue": "SHIRAHAMA",
+        "explanation1": "SHIRAHAMA and TOKYO are both located in JAPAN.",
+        "explanation2": "SHIRAHAMA is a famous BEACH in JAPAN."
+    },
+    {
+        "word1": "CASINO",
+        "word2": "REVOLUTION",
+        "clue": "ROULETTE",
+        "explanation1": "ROULETTE is a gambling game, while a CASINO is a place where GAMBLING games are played.",
+        "explanation2": "A ROULETTE is a game played with a spinning wheel, and each spin is a REVOLUTION."
+    },
+    {
+        "word1": "STOCK",
+        "word2": "WASHINGTON",
+        "clue": "AMAZON",
+        "explanation1": "AMAZON is a company with publicly traded STOCKS",
+        "explanation2": "AMAZON is a company headquartered in Seattle, WASHINGTON."
+    },
+    {
+        "word1": "ARM",
+        "word2": "WAR",
+        "clue": "WEAPON",
+        "explanation1": "ARMS can refer to WEAPONS.",
+        "explanation2": "A WAR is an armed conflict fought with WEAPONS."
+    },
+    {
+        "word1": "MUG",
+        "word2": "RACKET",
+        "clue": "HANDLE",
+        "explanation1": "MUGS usually have HANDLES for holding.",
+        "explanation2": "RACKETS usually have HANDLES for holding."
+    },
+    {
+        "word1": "BUCK",
+        "word2": "BARK",
+        "clue": "DOG",
+        "explanation1": "A BUCK is a young deer, which is a mammal, and a DOG is also a mammal.",
+        "explanation2": "A BARK is a sharp sound made by a DOG."
+    },
+    {
+        "word1": "PENGUIN",
+        "word2": "SUB",
+        "clue": "MARINE",
+        "explanation1": "A PENGUIN can swim in the ocean, making it a MARINE creature.",
+        "explanation2": "SUB and MARINE together form the word SUBMARINE."
+    },
+    {
+        "word1": "TIE",
+        "word2": "TRAIN",
+        "clue": "SPORTS",
+        "explanation1": "SPORTS games can result in a TIE, with no team winning.",
+        "explanation2": "In SPORTS, athletes usually TRAIN to achieve better performance."
+    },
+    {
+        "word1": "CONDUCTOR",
+        "word2": "BATTERY",
+        "clue": "WIRE",
+        "explanation1": "A WIRE is made from a CONDUCTOR, such as metal, to conduct electricity.",
+        "explanation2": "A WIRE is often connected to a BATTERY to draw electrical energy from it."
+    },
+    {
+        "word1": "DEATH",
+        "word2": "CAPITAL",
+        "clue": "EXECUTION",
+        "explanation1": "EXECUTION is the act of putting someone to DEATH.",
+        "explanation2": "CAPITAL punishment is the legally authorized EXECUTION of someone as punishment for a crime."
+    },
+    {
+        "word1": "PAPER",
+        "word2": "NOVEL",
+        "clue": "BOOK",
+        "explanation1": "The contents of a BOOK are printed on pages made of PAPER.",
+        "explanation2": "A NOVEL is a fictional work, usually printed in a BOOK."
+    },
+    {
+        "word1": "MICROSCOPE",
+        "word2": "REVOLUTION",
+        "clue": "SCIENTIFIC",
+        "explanation1": "MICROSCOPES are tools used to conduct SCIENTIFIC research.",
+        "explanation2": "The SCIENTIFIC REVOLUTION is the name given to the period of drastic change in SCIENTIFIC thought that occurred in the 16th and 17th centuries."
+    },
+    {
+        "word1": "GLASS",
+        "word2": "KNIFE",
+        "clue": "SHARP",
+        "explanation1": "Broken GLASS is very SHARP.",
+        "explanation2": "KNIVES have SHARP blades used for cutting."
+    },
+    {
+        "word1": "WIND",
+        "word2": "JAM",
+        "clue": "MUSIC",
+        "explanation1": "A WIND instrument can be used to play MUSIC.",
+        "explanation2": "In music, a JAM is an informal gathering of musicians playing improvised MUSIC together."
+    },
+    {
+        "word1": "MOUTH",
+        "word2": "LION",
+        "clue": "TEETH",
+        "explanation1": "TEETH are a sharp, bony structure in the MOUTH for chewing.",
+        "explanation2": "LIONS have sharp TEETH for tearing and eating flesh."
+    },
+    {
+        "word1": "BOW",
+        "word2": "MERCURY",
+        "clue": "APOLLO",
+        "explanation1": "APOLLO is a Greek god often depicted as carrying a BOW.",
+        "explanation2": "MERCURY and APOLLO are both Greek gods."
+    },
+    {
+        "word1": "PIE",
+        "word2": "ICE",
+        "clue": "SMOOTHIE",
+        "explanation1": "PIES and SMOOTHIES are both sweet foods.",
+        "explanation2": "ICE is often put in SMOOTHIES to keep them cold."
+    },
+    {
+        "word1": "CHARGE",
+        "word2": "TABLET",
+        "clue": "DEVICE",
+        "explanation1": "Many electronic DEVICES need to be CHARGED to regain power.",
+        "explanation2": "TABLETS are a type of flat, touchscreen DEVICE"
+    },
+    {
+        "word1": "AMBULANCE",
+        "word2": "HELICOPTER",
+        "clue": "VEHICLE",
+        "explanation1": "AMBULANCE is a type of VEHICLE.",
+        "explanation2": "HELICOPTER is a type of VEHICLE."
+    },
+    {
+        "word1": "WATCH",
+        "word2": "FAIR",
+        "clue": "GAME",
+        "explanation1": "GAMES can be WATCHED by an audience.",
+        "explanation2": "GAMES are usually designed to be FAIR to both sides to maintain balance."
+    },
+    {
+        "word1": "LIMOUSINE",
+        "word2": "BEACH",
+        "clue": "LUXURY",
+        "explanation1": "LIMOUSINES are associated with LUXURY because of their expensiveness.",
+        "explanation2": "BEACHES are often associated with LUXURY because of their status as a nice vacation setting."
+    },
+    {
+        "word1": "JACK",
+        "word2": "GHOST",
+        "clue": "HALLOWEEN",
+        "explanation1": "JACK-o-lanterns are a common feature in HALLOWEEN.",
+        "explanation2": "GHOSTS, skeletons, and other kinds of monsters are a common feature in HALLOWEEN."
+    },
+    {
+        "word1": "MISSILE",
+        "word2": "WAVE",
+        "clue": "EXPLOSION",
+        "explanation1": "MISSILES often carry EXPLOSIVE payloads to destroy the target.",
+        "explanation2": "An EXPLOSION is a violent expansion that emits shock WAVES."
+    },
+    {
+        "word1": "CENTER",
+        "word2": "FRANCE",
+        "clue": "PARIS",
+        "explanation1": "PARIS is the capital and administrative CENTER of France.",
+        "explanation2": "PARIS is the capital of FRANCE."
+    },
+    {
+        "word1": "RING",
+        "word2": "THIEF",
+        "clue": "VALUABLE",
+        "explanation1": "RINGS are often VALUABLE items.",
+        "explanation2": "THIEVES often steal VALUABLE items, such as jewelry."
+    },
+    {
+        "word1": "MOUTH",
+        "word2": "FLUTE",
+        "clue": "BLOW",
+        "explanation1": "BLOWING involves expelling air through the MOUTH.",
+        "explanation2": "A FLUTE is played by BLOWING into it."
+    },
+    {
+        "word1": "LAWYER",
+        "word2": "FILM",
+        "clue": "EVIDENCE",
+        "explanation1": "LAWYERS in criminal cases often present EVIDENCE to support their case.",
+        "explanation2": "FILMS are a form a EVIDENCE often used in court cases."
+    },
+    {
+        "word1": "CHINA",
+        "word2": "PLOT",
+        "clue": "BINGBING",
+        "explanation1": "Fan BINGBING is a CHINESE actress.",
+        "explanation2": "Fan BINGBING is an actress and has performed in movies, which often have a PLOT."
+    },
+    {
+        "word1": "NURSE",
+        "word2": "SPIDER",
+        "clue": "POISON",
+        "explanation1": "POISON can cause serious illness which is treated by a NURSE.",
+        "explanation2": "Some SPIDERS contain POISON in their bite."
+    },
+    {
+        "word1": "SWITCH",
+        "word2": "CARD",
+        "clue": "GAME",
+        "explanation1": "The Nintendo SWITCH is a gaming console that can be used to play GAMES.",
+        "explanation2": "CARDS can be used to play GAMES."
+    },
+    {
+        "word1": "BOARD",
+        "word2": "FIGURE",
+        "clue": "RECTANGLE",
+        "explanation1": "BOARDS are usually in the shape of a RECTANGLE",
+        "explanation2": "A RECTANGLE is a 2D geometric FIGURE."
+    },
+    {
+        "word1": "PITCH",
+        "word2": "FLY",
+        "clue": "THROW",
+        "explanation1": "In baseball, to PITCH is to THROW the ball for a batter to hit.",
+        "explanation2": "THROWING a ball causes it to FLY through the air."
+    },
+    {
+        "word1": "SPRING",
+        "word2": "CHURCH",
+        "clue": "EASTER",
+        "explanation1": "EASTER is a holiday that occurs in April, a month in SPRING.",
+        "explanation2": "EASTER is a Christian holiday that is observed by the CHURCH."
+    },
+    {
+        "word1": "NAIL",
+        "word2": "HEART",
+        "clue": "BODY",
+        "explanation1": "A finger NAIL is a part of the human BODY.",
+        "explanation2": "The HEART is an important part of the human BODY."
+    },
+    {
+        "word1": "CHINA",
+        "word2": "CAP",
+        "clue": "SEDGE",
+        "explanation1": "The SEDGE hat is a conic hat commonly found in CHINA.",
+        "explanation2": "The SEDGE hat is worn over the head, similar to a CAP."
+    },
+    {
+        "word1": "TEACHER",
+        "word2": "LEAD",
+        "clue": "AUTHORITY",
+        "explanation1": "A TEACHER is the AUTHORITY of the classroom.",
+        "explanation2": "AUTHORITY is a key component of LEADERSHIP."
+    },
+    {
+        "word1": "AZTEC",
+        "word2": "TOKYO",
+        "clue": "TENOCHTITLAN",
+        "explanation1": "TENOCHTITLAN was the capital of the AZTEC empire.",
+        "explanation2": "TOKYO and TENOCHTITLAN are both capital cities."
+    },
+    {
+        "word1": "STAR",
+        "word2": "PRINCESS",
+        "clue": "CELEBRITY",
+        "explanation1": "A STAR can refer to a famous person, such as a CELEBRITY.",
+        "explanation2": "A PRINCESS and a CELEBRITY both possess high status and fame."
+    },
+    {
+        "word1": "AMAZON",
+        "word2": "TRIP",
+        "clue": "GREECE",
+        "explanation1": "The AMAZONS were a legendary race of warrior women in GREEK mythology.",
+        "explanation2": "GREECE is a common destination for vacation TRIPS."
+    },
+    {
+        "word1": "TOKYO",
+        "word2": "MARCH",
+        "clue": "BATAAN",
+        "explanation1": "The BATAAN death march was perpetrated by the Japanese empire, whose capital was TOKYO.",
+        "explanation2": "The BATAAN death MARCH was a death march that occurred in WW2."
+    },
+    {
+        "word1": "ATLANTIS",
+        "word2": "WATER",
+        "clue": "SEA",
+        "explanation1": "ATLANTIS was a legendary island that sank into the SEA.",
+        "explanation2": "The SEA is a large body of WATER."
+    },
+    {
+        "word1": "JACK",
+        "word2": "SUIT",
+        "clue": "CARD",
+        "explanation1": "JACK is a rank in a standard deck of CARDS.",
+        "explanation2": "A SUIT is one of the four sets in a standard deck of CARDS."
+    },
+    {
+        "word1": "STATE",
+        "word2": "NINJA",
+        "clue": "JAPAN",
+        "explanation1": "JAPAN is a nation STATE.",
+        "explanation2": "NINJA is a type of warrior originating from JAPAN."
+    },
+    {
+        "word1": "MISSILE",
+        "word2": "IRON",
+        "clue": "TANK",
+        "explanation1": "TANKS and MISSILES are both weapons used by modern militaries.",
+        "explanation2": "TANKS have armored plating that is often made of IRON or steel."
+    },
+    {
+        "word1": "BERMUDA",
+        "word2": "RULER",
+        "clue": "ELIZABETH",
+        "explanation1": "Queen ELIZABETH was a monarch of the United Kingdom, and BERMUDA is a territory of the United Kingdom.",
+        "explanation2": "Queen ELIZABETH was a monarch and the figurehead RULER of the United Kingdom."
+    },
+    {
+        "word1": "VACUUM",
+        "word2": "DROP",
+        "clue": "PRESSURE",
+        "explanation1": "VACUUM is a state of low PRESSURE.",
+        "explanation2": "PRESSURE can DROP under certain circumstances, such as when an airplane cabin depressurizes."
+    },
+    {
+        "word1": "DOCTOR",
+        "word2": "PAN",
+        "clue": "BURN",
+        "explanation1": "DOCTORS can treat BURNS.",
+        "explanation2": "A PAN can be hot while cooking food, and can cause a BURN if touched."
+    },
+    {
+        "word1": "CLOAK",
+        "word2": "LAB",
+        "clue": "COAT",
+        "explanation1": "A CLOAK and a COAT are both garments that can be worn over the body.",
+        "explanation2": "A LAB COAT is a protective covering worn in LABS."
+    },
+    {
+        "word1": "OIL",
+        "word2": "BOTTLE",
+        "clue": "LIQUID",
+        "explanation1": "OIL is usually found in LIQUID form.",
+        "explanation2": "BOTTLES can be used to store LIQUIDS."
+    },
+    {
+        "word1": "SOUND",
+        "word2": "LAP",
+        "clue": "WATER",
+        "explanation1": "A SOUND can describe a narrow stretch of WATER forming an inlet.",
+        "explanation2": "LAP can describe the motion of WATER, such as when it LAPS over a surface."
+    },
+    {
+        "word1": "RACKET",
+        "word2": "GLOVE",
+        "clue": "GRIP",
+        "explanation1": "A RACKET usually has a GRIP on the handle.",
+        "explanation2": "A GLOVE can be worn to improve GRIP."
+    },
+    {
+        "word1": "OLIVE",
+        "word2": "GRACE",
+        "clue": "PEACE",
+        "explanation1": "An OLIVE branch is a symbol of PEACE.",
+        "explanation2": "GRACE is often associated with a sense of PEACE and serenity."
+    },
+    {
+        "word1": "AFRICA",
+        "word2": "BUGLE",
+        "clue": "MUSIC",
+        "explanation1": "AFRICA is a continent with a rich and diverse MUSICAL culture.",
+        "explanation2": "BUGLES are instruments that can be used to play MUSIC."
+    },
+    {
+        "word1": "HOOK",
+        "word2": "MATCH",
+        "clue": "BOXING",
+        "explanation1": "A HOOK is an attack that can be used in BOXING.",
+        "explanation2": "A game of BOXING can be referred to as a BOXING MATCH."
+    },
+    {
+        "word1": "CONTRACT",
+        "word2": "BED",
+        "clue": "SICK",
+        "explanation1": "CONTRACTING a disease will cause someone to get SICK.",
+        "explanation2": "When someone is SICK, they may need to rest in BED to recover."
+    },
+    {
+        "word1": "SHOP",
+        "word2": "LINK",
+        "clue": "EBAY",
+        "explanation1": "EBAY is an online store where users can SHOP for items.",
+        "explanation2": "EBAY is an online marketplace to buy and sell items, and a LINK is a way to connect to EBAY and access its functionalities."
+    },
+    {
+        "word1": "STATE",
+        "word2": "MINT",
+        "clue": "DOLLAR",
+        "explanation1": "The DOLLAR is the currency of the United STATES, which is a nation STATE.",
+        "explanation2": "The MINT is the government agency that produces and distributes new currency, such as the DOLLAR, for circulation."
+    },
+    {
+        "word1": "MATCH",
+        "word2": "STAR",
+        "clue": "LEBRON",
+        "explanation1": "LEBRON James is an athlete who plays in basketball MATCHES.",
+        "explanation2": "LEBRON James is a STAR athlete."
+    },
+    {
+        "word1": "CELL",
+        "word2": "BERRY",
+        "clue": "PLANT",
+        "explanation1": "PLANTS are living organisms that are made of CELLS.",
+        "explanation2": "BERRIES are fruits, which are the products of PLANTS."
+    },
+    {
+        "word1": "BEAT",
+        "word2": "ORANGE",
+        "clue": "PULP",
+        "explanation1": "In cooking, BEATING involves agitating and mixing while PULPING involves grinding down food, which are similar actions.",
+        "explanation2": "The PULP of an ORANGE is the soft, spongy tissue that is found inside the fruit."
+    },
+    {
+        "word1": "ROBIN",
+        "word2": "TOOTH",
+        "clue": "BEAK",
+        "explanation1": "ROBINS are birds that have BEAKS.",
+        "explanation2": "BEAKS and TEETH are both parts of animals used for catching and eating food."
+    },
+    {
+        "word1": "BARK",
+        "word2": "DECK",
+        "clue": "WOOD",
+        "explanation1": "BARK is the tough, protective outer layer of a tree, and WOOD is made from trees.",
+        "explanation2": "A DECK of a house is usually made of WOOD."
+    },
+    {
+        "word1": "POOL",
+        "word2": "FENCE",
+        "clue": "SPORT",
+        "explanation1": "SPORTS such as swimming and water polo are played in POOLS.",
+        "explanation2": "FENCING is a popular SPORT."
+    },
+    {
+        "word1": "CHURCH",
+        "word2": "HOSPITAL",
+        "clue": "INSTITUTION",
+        "explanation1": "A CHURCH is a Christian INSTITUTION for worship.",
+        "explanation2": "A HOSPITAL is an institution for treating the sick and injured."
+    },
+    {
+        "word1": "RAY",
+        "word2": "DAY",
+        "clue": "SUN",
+        "explanation1": "A RAY is a beam of light emitted by the SUN.",
+        "explanation2": "The SUN's presence in the sky is what defines a DAY from one sunrise to the next."
+    },
+    {
+        "word1": "SERVER",
+        "word2": "KETCHUP",
+        "clue": "DINER",
+        "explanation1": "A SERVER can refer to a waiter or waittress who works at a DINER.",
+        "explanation2": "KETCHUP is a condiment that is often served at DINERS."
+    },
+    {
+        "word1": "SNOWMAN",
+        "word2": "MASS",
+        "clue": "CHRISTMAS",
+        "explanation1": "SNOWMEN are often associated with the holiday season, such as CHRISTMAS, since there is more snow during the winter.",
+        "explanation2": "In churches, a MASS is often held to commemorate CHRISTMAS."
+    },
+    {
+        "word1": "CAR",
+        "word2": "HOOD",
+        "clue": "VEHICLE",
+        "explanation1": "A CAR is a type of VEHICLE.",
+        "explanation2": "A HOOD is the metal covering for the engine of a VEHICLE."
+    },
+    {
+        "word1": "BEAR",
+        "word2": "SPINE",
+        "clue": "VERTEBRATE",
+        "explanation1": "A BEAR is a mammal, which is a VERTEBRATE.",
+        "explanation2": "VERTEBRATES are animals that have a SPINE."
+    },
+    {
+        "word1": "TURKEY",
+        "word2": "CROWN",
+        "clue": "SULTAN",
+        "explanation1": "TURKEY was ruled by a SULTAN during the time of the Ottoman Empire.",
+        "explanation2": "A SULTAN is a sovereign, and a CROWN is often worn by sovereigns as a symbol of their authority."
+    },
+    {
+        "word1": "EGYPT",
+        "word2": "QUEEN",
+        "clue": "CLEOPATRA",
+        "explanation1": "CLEOPATRA was the queen of Ptolemaic EGYPT.",
+        "explanation2": "CLEOPATRA was the QUEEN of Ptolemaic Egypt."
+    },
+    {
+        "word1": "CROSS",
+        "word2": "FRANCE",
+        "clue": "CATHOLICISM",
+        "explanation1": "The CROSS is the symbol of Christianity, of which CATHOLICISM is a denomination.",
+        "explanation2": "CATHOLICISM is the largest religion in FRANCE."
+    },
+    {
+        "word1": "ROBIN",
+        "word2": "STREAM",
+        "clue": "FISH",
+        "explanation1": "FISH and ROBIN are both vertebrate animals.",
+        "explanation2": "FISH are aquatic animals that can be found in STREAMS."
+    },
+    {
+        "word1": "MILLIONAIRE",
+        "word2": "POUND",
+        "clue": "DOLLAR",
+        "explanation1": "A MILLIONAIRE is someone whose net worth is more than a million DOLLARS.",
+        "explanation2": "DOLLAR is the currency of the US, while POUND is the currency of the UK."
+    },
+    {
+        "word1": "SCHOOL",
+        "word2": "SQUARE",
+        "clue": "GEOMETRY",
+        "explanation1": "GEOMETRY is a subject that is commonly taught in SCHOOLS.",
+        "explanation2": "SQUARE is a 2D figure often used and studied in GEOMETRY."
+    },
+    {
+        "word1": "SINK",
+        "word2": "SHIP",
+        "clue": "TITANIC",
+        "explanation1": "The TITANIC was a ship that SANK into the ocean.",
+        "explanation2": "The TITANIC was a large SHIP."
+    },
+    {
+        "word1": "AMERICA",
+        "word2": "SHOE",
+        "clue": "NIKE",
+        "explanation1": "NIKE is an AMERICAN multinational company.",
+        "explanation2": "NIKE is an American multinational company that designs and sells SHOES."
+    },
+    {
+        "word1": "INDIA",
+        "word2": "PHOENIX",
+        "clue": "GARUDA",
+        "explanation1": "GARUDA is a god in Hindu mythology, and Hinduism is the most popular religion in INDIA.",
+        "explanation2": "GARUDA is the king of the birds, while a PHOENIX is a mythical bird in classical mythology."
+    },
+    {
+        "word1": "GENIUS",
+        "word2": "CONCERT",
+        "clue": "MOZART",
+        "explanation1": "MOZART is considered to be a musical GENIUS.",
+        "explanation2": "MOZART wrote many symphonies that can be performed at CONCERTS."
+    },
+    {
+        "word1": "BEIJING",
+        "word2": "HOTEL",
+        "clue": "JINJIANG",
+        "explanation1": "JINJIANG is a hotel company headquartered in China, whlie BEIJING is the capital of China.",
+        "explanation2": "JINJIANG is a Chinese HOTEL company."
+    },
+    {
+        "word1": "PIE",
+        "word2": "ORANGE",
+        "clue": "APPLE",
+        "explanation1": "APPLE PIE is a popular dessert.",
+        "explanation2": "ORANGE and APPLE are both fruits."
+    },
+    {
+        "word1": "BALL",
+        "word2": "SOCK",
+        "clue": "SOCCER",
+        "explanation1": "SOCCER is a sport that involves kicking a BALL.",
+        "explanation2": "SOCCER players usually wear distinctive SOCKS as a part of their uniform."
+    },
+    {
+        "word1": "CHINA",
+        "word2": "ENGLAND",
+        "clue": "COUNTRY",
+        "explanation1": "CHINA is a COUNTRY in Asia.",
+        "explanation2": "ENGLAND is COUNTRY in Europe."
+    },
+    {
+        "word1": "SCREEN",
+        "word2": "PLOT",
+        "clue": "MOVIE",
+        "explanation1": "MOVIES are shown on SCREENS.",
+        "explanation2": "MOVIES usually tell a story that involves a PLOT."
+    },
+    {
+        "word1": "MOUSE",
+        "word2": "SOUND",
+        "clue": "EAR",
+        "explanation1": "MICE are known for having relatively large EARS.",
+        "explanation2": "EARS are used to perceive SOUND."
+    },
+    {
+        "word1": "BELL",
+        "word2": "WATCH",
+        "clue": "ALERT",
+        "explanation1": "In the Middle Ages, BELLS were used to ALERT towns and their inhabitants to incoming dangers.",
+        "explanation2": "Keeping WATCH means to stay ALERT to dangers."
+    },
+    {
+        "word1": "STAR",
+        "word2": "RABBIT",
+        "clue": "LEPUS",
+        "explanation1": "LEPUS is a constellation, which is a group of STARS forming a recognizable pattern.",
+        "explanation2": "LEPUS is a constellation that is sometimes depicted as a RABBIT being chased by Orion."
+    },
+    {
+        "word1": "COPPER",
+        "word2": "IRON",
+        "clue": "METAL",
+        "explanation1": "COPPER is a type of METAL.",
+        "explanation2": "IRON is a type of METAL."
+    },
+    {
+        "word1": "BELT",
+        "word2": "CLOAK",
+        "clue": "WEAR",
+        "explanation1": "A BELT is a loop of leather or some other material that is WORN around the waist.",
+        "explanation2": "A CLOAK is a garment that is WORN and hangs loosely from the shoulders."
+    },
+    {
+        "word1": "TURKEY",
+        "word2": "ANGEL",
+        "clue": "ISLAM",
+        "explanation1": "ISLAM is the most popular religion in TURKEY.",
+        "explanation2": "In ISLAM, ANGELS are believed to be the messengers of Allah."
+    },
+    {
+        "word1": "THUMB",
+        "word2": "BELT",
+        "clue": "WAIST",
+        "explanation1": "A THUMB and WAIST are both parts of the human body.",
+        "explanation2": "A BELT is worn around the WAIST."
+    },
+    {
+        "word1": "COVER",
+        "word2": "CHARGE",
+        "clue": "PAY",
+        "explanation1": "A COVER is a flat fee that must be PAID to enter a restaurant, club, bar, etc.",
+        "explanation2": "A CHARGE is an amount that must be PAID for a good or service."
+    },
+    {
+        "word1": "STAR",
+        "word2": "CONCERT",
+        "clue": "ROCK",
+        "explanation1": "A ROCK STAR is a famous singer or performer of ROCK music.",
+        "explanation2": "ROCK is a type of music that is performed at CONCERTS."
+    },
+    {
+        "word1": "ICE CREAM",
+        "word2": "BAT",
+        "clue": "ROBIN",
+        "explanation1": "Baskin-ROBBINS is an establishment that serves ICE CREAM.",
+        "explanation2": "A BAT and a ROBIN are both vertebrate animals that can fly."
+    },
+    {
+        "word1": "BOMB",
+        "word2": "WALL",
+        "clue": "BERLIN",
+        "explanation1": "BERLIN was heavily BOMBED during WW2.",
+        "explanation2": "The BERLIN WALL was a barrier that surrounded West BERLIN during the Cold War."
+    },
+    {
+        "word1": "CODE",
+        "word2": "SATURN",
+        "clue": "JUPYTER",
+        "explanation1": "JUPYTER Notebook is an interactive CODING platform.",
+        "explanation2": "JUPYTER is a variant of JUPITER, which is a gas giant like SATURN."
+    },
+    {
+        "word1": "APPLE",
+        "word2": "AGENT",
+        "clue": "ORANGE",
+        "explanation1": "ORANGE and APPLE are both fruits.",
+        "explanation2": "AGENT ORANGE was an herbicide used during the Vietname War."
+    },
+    {
+        "word1": "ROUND",
+        "word2": "TOOTH",
+        "clue": "TUSK",
+        "explanation1": "In some animals, such as elephants, TUSKS are long, curved, and ROUND in cross-section.",
+        "explanation2": "A TUSK is a long, pointed TOOTH that protrudes from the mouth of an animal."
+    },
+    {
+        "word1": "DICE",
+        "word2": "MOUSE",
+        "clue": "VIDEOGAME",
+        "explanation1": "DICE is a Swedish VIDEOGAME developer.",
+        "explanation2": "A MOUSE is an electronic device to move the cursor on a computer, often used when playing VIDEOGAMES."
+    },
+    {
+        "word1": "COLD",
+        "word2": "BUGLE",
+        "clue": "PLAY",
+        "explanation1": "COLDPLAY is a British rock band.",
+        "explanation2": "A BUGLE is a musical instrument that can be PLAYED."
+    },
+    {
+        "word1": "GROUND",
+        "word2": "BEAR",
+        "clue": "DEN",
+        "explanation1": "A DEN is a small, enclosed space that is often found in the GROUND.",
+        "explanation2": "BEARS use DENS as a place to rest and raise their young."
+    },
+    {
+        "word1": "DRILL",
+        "word2": "TUBE",
+        "clue": "HOLE",
+        "explanation1": "A DRILL is a tool that can produce a HOLE in a surface.",
+        "explanation2": "A THUB is a long, hollow object, while a HOLE is an opening surrounded by solid material, so both TUBES and HOLES are openings."
+    },
+    {
+        "word1": "UNICORN",
+        "word2": "RAY",
+        "clue": "NARWHAL",
+        "explanation1": "NARWHALS are often referred to as the \"UNICORN of the sea\" due to the long tusk protruding from its head.",
+        "explanation2": "NARWHALS and RAYS are both large aquatic sea creatures."
+    },
+    {
+        "word1": "AMERICA",
+        "word2": "CHINA",
+        "clue": "TRUMP",
+        "explanation1": "TRUMP was a president of the United States of AMERICA.",
+        "explanation2": "TRUMP had significant relations with CHINA during his time in office, such as placing tarrifs on CHINESE imports."
+    },
+    {
+        "word1": "LEMON",
+        "word2": "FIELD",
+        "clue": "BOTANY",
+        "explanation1": "LEMONS are a type of plant, and BOTANY is the study of plants and their growth.",
+        "explanation2": "BOTANY is a scientific FIELD that studies plants."
+    },
+    {
+        "word1": "INDIA",
+        "word2": "HEAD",
+        "clue": "MODI",
+        "explanation1": "MODI is the prime minister of INDIA.",
+        "explanation2": "MODI is the HEAD of state of India."
+    },
+    {
+        "word1": "DICE",
+        "word2": "CASINO",
+        "clue": "GAMBLE",
+        "explanation1": "DICE are often used in GAMBLING games.",
+        "explanation2": "CASINOS are where GAMBLING games are played."
+    },
+    {
+        "word1": "TOKYO",
+        "word2": "EGYPT",
+        "clue": "CAIRO",
+        "explanation1": "TOKYO and CAIRO are both capital cities.",
+        "explanation2": "CAIRO is the capital of EGYPT."
+    },
+    {
+        "word1": "GERMANY",
+        "word2": "KIWI",
+        "clue": "ZEALAND",
+        "explanation1": "GERMANY and New ZEALAND are both countries.",
+        "explanation2": "KIWI can refer to someone from New ZEALAND."
+    },
+    {
+        "word1": "COOK",
+        "word2": "STOCK",
+        "clue": "BROTH",
+        "explanation1": "A BROTH can be used as a base to COOK soup, stews, and sauces.",
+        "explanation2": "Both BROTH and STOCK can be used as bases for soups, stews, and sauces."
+    },
+    {
+        "word1": "ATLANTIS",
+        "word2": "PAN",
+        "clue": "SINK",
+        "explanation1": "ATLANTIS is an ancient civilization that SANK into the ocean.",
+        "explanation2": "A PAN and a SINK are both found in the kitchen."
+    },
+    {
+        "word1": "MARCH",
+        "word2": "CAPITAL",
+        "clue": "ROME",
+        "explanation1": "The MARCH on ROME was a mass demonstration and coup that brought Mussolini to power.",
+        "explanation2": "ROME is the CAPITAL of Italy."
+    },
+    {
+        "word1": "STRIKE",
+        "word2": "FIGURE",
+        "clue": "SALARY",
+        "explanation1": "STRIKES are often organized by workers in an attempt to raise SALARIES.",
+        "explanation2": "A FIGURE is a numerical value or quantity and can refer to the amount of money paid in a SALARY."
+    },
+    {
+        "word1": "FENCE",
+        "word2": "NINJA",
+        "clue": "COMBAT",
+        "explanation1": "FENCING is a sport that involves two opponents using swords to engage each other in COMBAT.",
+        "explanation2": "A NINJA is a person trained in the art of stealth, deception, and COMBAT."
+    },
+    {
+        "word1": "HONEY",
+        "word2": "DISEASE",
+        "clue": "DIABETES",
+        "explanation1": "People with DIABETES have difficulty regulating their blood sugar, and HONEY is high in carbohydrates and can increase blood sugar.",
+        "explanation2": "DIABETES is a chronic, metabolic DISEASE."
+    },
+    {
+        "word1": "FISH",
+        "word2": "MOON",
+        "clue": "TIDE",
+        "explanation1": "Many FISH live in the ocean, and TIDES are the rise and fall in ocean levels, so both FISH and TIDE are related to the ocean.",
+        "explanation2": "TIDES are influenced by the gravitational pull of the MOON."
+    },
+    {
+        "word1": "POST",
+        "word2": "MARBLE",
+        "clue": "PILLAR",
+        "explanation1": "Both PILLARS and POSTS are used to support and hold up other objects or structures.",
+        "explanation2": "MARBLE is often used in the construction of PILLARS."
+    },
+    {
+        "word1": "LAWYER",
+        "word2": "CRICKET",
+        "clue": "RULES",
+        "explanation1": "LAWYERS work with and are concerned with RULES, such as laws.",
+        "explanation2": "CRICKET is a sport that is governed by RULES."
+    },
+    {
+        "word1": "HOSPITAL",
+        "word2": "SLIP",
+        "clue": "PRESCRIPTION",
+        "explanation1": "A PRESCRIPTION is a written order for medication or treatment, and is often given in HOSPITALS.",
+        "explanation2": "A PRESCRIPTION SLIP is a small piece of paper on which a medical provider writes a PRESCRIPTION for a patient."
+    },
+    {
+        "word1": "AMBULANCE",
+        "word2": "SHOE",
+        "clue": "WHEEL",
+        "explanation1": "An AMBULANCE is a vehicle that has WHEELS.",
+        "explanation2": "A SHOE and a WHEEL are both used to facilitate transportation, with a SHOE being used for walking and a WHEEL being used to move vehicles."
+    },
+    {
+        "word1": "RULER",
+        "word2": "SCALE",
+        "clue": "MEASURE",
+        "explanation1": "A RULER is a stick that is used to MEASURE lengths.",
+        "explanation2": "A SCALE is a tool that is used to MEASURE weights."
+    },
+    {
+        "word1": "STAR",
+        "word2": "ICE",
+        "clue": "COMBUSTION",
+        "explanation1": "A STAR is a celestial body that generates light and heat through fusion, which is a type of COMBUSTION.",
+        "explanation2": "ICE stands for internal COMBUSTION engine."
+    },
+    {
+        "word1": "HOOK",
+        "word2": "BOND",
+        "clue": "FASTEN",
+        "explanation1": "A HOOK can be used to FASTEN two things together.",
+        "explanation2": "A BOND is a connection that can keep two things together, while FASTENING can attach two things together, so both FASTEN and BOND can be used to keep two things together."
+    },
+    {
+        "word1": "KANGAROO",
+        "word2": "KID",
+        "clue": "JOEY",
+        "explanation1": "A JOEY is a baby KANGAROO.",
+        "explanation2": "A JOEY and a KID both refer to a young animal or human, with JOEY being a young kangaroo and a KID being a young human."
+    },
+    {
+        "word1": "JET",
+        "word2": "TORCH",
+        "clue": "COMBUSTION",
+        "explanation1": "A JET is propelled by engines, which use COMBUSTION to generate thrust.",
+        "explanation2": "A TORCH is a handheld device that produces light and heat with COMBUSTION."
+    },
+    {
+        "word1": "KNIGHT",
+        "word2": "TOWER",
+        "clue": "CASTLE",
+        "explanation1": "KNIGHTS are often depicted as defending CASTLES.",
+        "explanation2": "CASTLES often have TOWERS as a part of their defensive architecture."
+    },
+    {
+        "word1": "EUROPE",
+        "word2": "BANK",
+        "clue": "SUISSE",
+        "explanation1": "Credit SUISSE is an investment bank headquartered in Switzerland, which is in EUROPE.",
+        "explanation2": "Credit SUISSE is an investment BANK."
+    },
+    {
+        "word1": "CIRCLE",
+        "word2": "RING",
+        "clue": "LOOP",
+        "explanation1": "A LOOP is often in the shape of a CIRCLE.",
+        "explanation2": "A RING is a LOOP of material."
+    },
+    {
+        "word1": "INDIA",
+        "word2": "MARBLE",
+        "clue": "MAHAL",
+        "explanation1": "The Taj MAHAL is a mausoleum located in INDIA.",
+        "explanation2": "The Taj MAHAL is a mausoleum made of white MARBLE."
+    },
+    {
+        "word1": "BUG",
+        "word2": "HONEY",
+        "clue": "BEE",
+        "explanation1": "A BEE is a type of BUG.",
+        "explanation2": "HONEY is a sticky substance made by BEES."
+    },
+    {
+        "word1": "STICK",
+        "word2": "CANADA",
+        "clue": "HOCKEY",
+        "explanation1": "A HOCKEY STICK is used to direct or hit the puck in ice HOCKEY.",
+        "explanation2": "HOCKEY is a popular sport in CANADA"
+    },
+    {
+        "word1": "CENTER",
+        "word2": "GREECE",
+        "clue": "ATHENS",
+        "explanation1": "ATHENS is the capital and administrative CENTER of Greece.",
+        "explanation2": "ATHENS is the capital of GREECE."
+    },
+    {
+        "word1": "PIPE",
+        "word2": "COOK",
+        "clue": "DRUGS",
+        "explanation1": "PIPES are often used to consume DRUGS such as tobacco or marijuana.",
+        "explanation2": "COOK can refer to a person who produces meth, which is a DRUG."
+    },
+    {
+        "word1": "GERMANY",
+        "word2": "PILOT",
+        "clue": "LUFTWAFFE",
+        "explanation1": "The LUFTWAFFE was the airforce of GERMANY during WW2.",
+        "explanation2": "The LUFTWAFFE was an airforce and trained PILOTS to fly its aircraft."
+    },
+    {
+        "word1": "PLOT",
+        "word2": "SUPERHERO",
+        "clue": "MARVEL",
+        "explanation1": "MARVEL is a movie studio that produces movies, which have PLOTS.",
+        "explanation2": "MARVEL is a movie studio that produces movies primarily about SUPERHEROES, such as Iron Man and Spider Man."
+    },
+    {
+        "word1": "POST",
+        "word2": "PIRATE",
+        "clue": "MAST",
+        "explanation1": "A MAST is an upright POST on a ship.",
+        "explanation2": "PIRATES sail on ships, which have MASTS to hold up their sails."
+    },
+    {
+        "word1": "BOTTLE",
+        "word2": "FIRE",
+        "clue": "WATER",
+        "explanation1": "BOTTLES can be used to hold WATER.",
+        "explanation2": "WATER is used to put out FIRES."
+    },
+    {
+        "word1": "WITCH",
+        "word2": "GRACE",
+        "clue": "WOMAN",
+        "explanation1": "A WITCH is often depicted as a WOMAN wearing a black cloak and a pointed hat.",
+        "explanation2": "GRACE is a first name given to WOMEN."
+    },
+    {
+        "word1": "GAME",
+        "word2": "CAR",
+        "clue": "FORZA",
+        "explanation1": "FORZA Horizon is a popular video GAME.",
+        "explanation2": "FORZA Horizon is a videogame about racing with CARS."
+    },
+    {
+        "word1": "LION",
+        "word2": "PHOENIX",
+        "clue": "ANIMAL",
+        "explanation1": "A LION is a type of mammal, which is an ANIMAL.",
+        "explanation2": "A PHOENIX is a mythical bird, which is an ANIMAL."
+    },
+    {
+        "word1": "FORCE",
+        "word2": "JET",
+        "clue": "AIR",
+        "explanation1": "An AIRFORCE is a branch of the military.",
+        "explanation2": "JETS are aircraft that fly through the AIR."
+    },
+    {
+        "word1": "PLATE",
+        "word2": "SATELLITE",
+        "clue": "DISH",
+        "explanation1": "A PLATE is a flat DISH.",
+        "explanation2": "DISH is a direct-broadcast SATELLITE provider."
+    },
+    {
+        "word1": "TEMPLE",
+        "word2": "OLYMPUS",
+        "clue": "PARTHENON",
+        "explanation1": "The PARTHENON was a TEMPLE dedicated to the Greek goddess Athena.",
+        "explanation2": "Both the PARTHENON and OLYMPUS are ancient Greek landmarks and were considered sacred places of worship for the gods and goddesses."
+    },
+    {
+        "word1": "PIRATE",
+        "word2": "THIEF",
+        "clue": "STEAL",
+        "explanation1": "PIRATES are known for raiding ships and STEALING things.",
+        "explanation2": "A THIEF is someone who STEALS."
+    },
+    {
+        "word1": "MERCURY",
+        "word2": "STAR",
+        "clue": "CELESTIAL",
+        "explanation1": "MERCURY is a planet, which is a CELESTIAL object.",
+        "explanation2": "A STAR is a type of CELESTIAL object."
+    },
+    {
+        "word1": "ORGAN",
+        "word2": "LAB",
+        "clue": "BIOLOGY",
+        "explanation1": "ORGANS are a fundamental part of living organisms and studied in the field of BIOLOGY.",
+        "explanation2": "Many LABS conduct research in BIOLOGY."
+    },
+    {
+        "word1": "PAN",
+        "word2": "PRESS",
+        "clue": "COOK",
+        "explanation1": "A PAN is used to COOK food.",
+        "explanation2": "A grill PRESS is used to flatten or sear food as it COOKS."
+    },
+    {
+        "word1": "DRAGON",
+        "word2": "WITCH",
+        "clue": "MAGIC",
+        "explanation1": "DRAGONS are often depicted as having MAGICAL powers.",
+        "explanation2": "WITCHES are often depicted as practicing MAGIC."
+    },
+    {
+        "word1": "STICK",
+        "word2": "WAR",
+        "clue": "SPEAR",
+        "explanation1": "A SPEAR is a STICK that has been sharpened or has a sharp point to be used as a weapon.",
+        "explanation2": "SPEARS are weapons that were used to fight WARS in ancient and medieval times."
+    },
+    {
+        "word1": "GERMANY",
+        "word2": "AUSTRALIA",
+        "clue": "COUNTRY",
+        "explanation1": "GERMANY is a COUNTRY in Europe.",
+        "explanation2": "AUSTRALIA is a COUNTRY in Oceania."
+    },
+    {
+        "word1": "MARBLE",
+        "word2": "ALPS",
+        "clue": "STONE",
+        "explanation1": "MARBLE is a type of STONE.",
+        "explanation2": "The ALPS are a mountain range comprised of rock and STONE."
+    },
+    {
+        "word1": "COPPER",
+        "word2": "MOUSE",
+        "clue": "ELECTRONICS",
+        "explanation1": "COPPER is a common material used to create wires in ELECTRONICS.",
+        "explanation2": "A MOUSE is a type of ELECTRONIC used to move the cursor on a computer."
+    },
+    {
+        "word1": "UNICORN",
+        "word2": "KNIGHT",
+        "clue": "MYTH",
+        "explanation1": "UNICORNS are commonly featured in MYTHS.",
+        "explanation2": "KNIGHTS are commonly featured in MYTHS."
+    },
+    {
+        "word1": "LEPRECHAUN",
+        "word2": "THIEF",
+        "clue": "MISCHIEF",
+        "explanation1": "LEPRECHAUNS are often depicted as MISCHIEVOUS.",
+        "explanation2": "A THIEF is someone who steals, which causes harm to others, so it can be seen as a form of MISCHIEF."
+    },
+    {
+        "word1": "LONDON",
+        "word2": "TIME",
+        "clue": "GREENWICH",
+        "explanation1": "GREENWICH is a town in southeast LONDON.",
+        "explanation2": "GREENWICH mean TIME is a TIME zone that is often used as a reference TIME."
+    },
+    {
+        "word1": "STRIKE",
+        "word2": "TAP",
+        "clue": "HIT",
+        "explanation1": "A STRIKE is a HIT with one's hand or other implement.",
+        "explanation2": "A TAP is a light and soft HIT."
+    },
+    {
+        "word1": "SERVER",
+        "word2": "GAME",
+        "clue": "MULTIPLAYER",
+        "explanation1": "SERVERS are used to host MULTIPLAYER games.",
+        "explanation2": "Many GAMES are MULTIPLAYER."
+    },
+    {
+        "word1": "CZECH",
+        "word2": "STATE",
+        "clue": "NATION",
+        "explanation1": "The CZECH Republic is a NATION state.",
+        "explanation2": "A NATION is a sovereign STATE."
+    },
+    {
+        "word1": "BUFFALO",
+        "word2": "HAM",
+        "clue": "PIG",
+        "explanation1": "BUFFALO and PIGS are both mammals.",
+        "explanation2": "HAM is from the meat of a PIG."
+    },
+    {
+        "word1": "DEGREE",
+        "word2": "BOND",
+        "clue": "CHEMISTRY",
+        "explanation1": "CHEMISTRY is a field of study that one can earn a DEGREE in.",
+        "explanation2": "In CHEMISTRY, a BOND is a lasting attraction between atoms that forms ions and molecules."
+    },
+    {
+        "word1": "COURT",
+        "word2": "MAIL",
+        "clue": "SUBPOENA",
+        "explanation1": "A SUBPOENA is a COURT order requiring someone to appear in COURT.",
+        "explanation2": "A SUBPOENA is a court order that may be served by MAIL."
+    },
+    {
+        "word1": "STRIKE",
+        "word2": "TRUNK",
+        "clue": "AXE",
+        "explanation1": "An AXE can be used to STRIKE something, either as a weapon or to chop wood.",
+        "explanation2": "An AXE is used to chop down trees by striking the tree's TRUNK."
+    },
+    {
+        "word1": "LOG",
+        "word2": "PUPIL",
+        "clue": "MATH",
+        "explanation1": "In MATH, a LOG refers to a logarithm.",
+        "explanation2": "MATH is a subject that a PUPIL usually studies in school."
+    },
+    {
+        "word1": "ROME",
+        "word2": "FOREST",
+        "clue": "TEUTOBURG",
+        "explanation1": "The Battle of TEUTOBURG Forest was a battle between ROME and an alliance of Germanic peoples.",
+        "explanation2": "The Battle of TEUTOBURG FOREST was a battle fought by the Romans."
+    },
+    {
+        "word1": "MAPLE",
+        "word2": "CARROT",
+        "clue": "LEAF",
+        "explanation1": "The MAPLE LEAF is an important symbol in Canada.",
+        "explanation2": "CARROTS are vegetables that have LEAVES."
+    },
+    {
+        "word1": "SCHOOL",
+        "word2": "GHOST",
+        "clue": "MYRTLE",
+        "explanation1": "Moaning MYRTLE is a ghost who haunts Hogwarts, a SCHOOL for Wizards in Harry Potter.",
+        "explanation2": "Moaning MYRTLE is a GHOST from Harry Potter."
+    },
+    {
+        "word1": "WASHINGTON",
+        "word2": "RAY",
+        "clue": "MAN",
+        "explanation1": "George WASHINGTON is a famous figure and was a MAN.",
+        "explanation2": "RAY is a nickname for Raymond, which is a first name usually borne by MEN."
     }
 ]

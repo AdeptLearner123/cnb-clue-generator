@@ -15,6 +15,7 @@ gensim = "^4.2.0"
 test-openai     = "tools.test_openai:main"
 test-scenario   = "tools.test_scenario:main"
 create-word-pairs = "tools.create_word_pairs:main"
+create-word-pairs-csv = "tools.create_word_pairs_csv:main"
 
 create-boards   = "cnb_clue_generator.board_generator.generate_boards:main"
 generate-clues  = "cnb_clue_generator.evaluation.generate_clues:main"
